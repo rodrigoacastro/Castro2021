@@ -1,0 +1,19 @@
+Conceito de trajetória – Cinemática
+
+A trajetória é um dos conceitos abordados na cinemática e corresponde ao espaço percorrido por um móvel em determinado tipo de movimento. Saiba mais!
+
+A cinemática é um dos estudos da mecânica vista na Física Clássica. Ela é o passo inicial da física e se preocupa em descrever os movimentos, mas sem levar em conta suas causas. Na cinemática se trabalha com corpos móveis que terão suas dimensões desprezadas para facilitar no estudo, por isso, chamam-se os corpos de pontos materiais. Na cinemática são vistos conceitos como, velocidade escalar, movimento, repouso, referencial, espaço ou posição, e trajetória. Ateremos-nos especialmente a este último conceito citado.
+A trajetória é um conceito essencial no estudo de Cinemática, ela pode ser entendida de diversas formas, mas consiste em uma coisa intuitiva. O conjunto de posições sucessivas ocupadas por um móvel no decorrer do tempo pode ser chamado de trajetória. O caminho descrito pelo móvel também caracteriza esse conceito. Mas para ficar mais claro, imaginemos um automóvel fazendo uma viajem entre duas cidades e consideraremos que ele em momento algum desviou ou voltou algum trecho, o caminho percorrido durante a viagem é exatamente a trajetória. A trajetória é um conceito relativo, ela, assim como a maioria dos conceitos da cinemática, depende de um referencial para ser definida.
+A abscissa na trajetória
+Supondo um evento, onde uma pessoa que estava dirigindo numa estrada quebra o carro e para no acostamento para ligar e pedir socorro, ela precisará informar onde se encontra, porém, descrever o local muitas vezes não é o bastante. Para isso, normalmente as estradas contam com placas de quilometragem, especificando a localização. Assim, ao ler a informação da placa, o motorista parado pode ser facilmente encontrado. Os físicos costumam chamar a abscissa do móvel de espaço ou mesmo posição, essas nomenclaturas inclusive são as comumente usadas no ensino Médio.
+
+Exemplos de trajetória
+
+Trajetória percorrida pela bolinha num certo intervalo de tempo, na figura, nota-se a marcação de espaços em determinados intervalos de tempo.
+
+Na imagem uma bola é solta, a trajetória está tracejada pela linha que vai do segundo andar do prédio até o chão, medindo 18 metros. O tipo de movimento é classificado por lançamento vertical/queda livre.
+
+
+Na figura a menina lança a bolinha da sua mão com uma altura x e certa velocidade inicial, o trajeto pontilhado pela bolinha caracteriza um movimento definido como lançamento horizontal.
+
+A imagem mostra um garoto chutando uma bola que descreverá uma trajetória parabólica. O movimento é descrito como lançamento oblíquo.

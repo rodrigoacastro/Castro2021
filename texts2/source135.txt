@@ -1,0 +1,290 @@
+Visão geral das imunodeficiências 
+
+As imunodeficiências estão associadas com ou predispõem os pacientes afetados a várias complicações, incluindo infecções, doenças autoimunes, linfomas e outros cânceres. Imunodeficiências primárias são hereditárias; imunodeficiências secundárias são adquiridas. Imunodeficiências secundárias são muito mais comuns.
+A avaliação da imunodeficiência inclui histórico clínico, exame físico e teste da função imunológica. Os testes variam com base no seguinte:
+Se há suspeita de imunodeficiência primária ou secundária
+Para imunodeficiência primária, em que considera-se que há deficiência de componente do sistema imunológico
+Imunodeficiências secundárias
+As causas ( Causas das imunodeficiências secundárias) incluem
+Doenças sistêmicas (p. ex., diabetes, desnutrição, infecção pelo HIV)
+Tratamentos imunossupressores (p. ex., quimioterapia citotóxica, ablação da medula óssea antes de transplante, radioterapia)
+Doença grave prolongada
+Imunodeficiências secundárias também ocorrem em pacientes com doenças graves, idosos, ou hospitalizados. As doenças graves prolongadas podem deprimir a resposta imune; esse efeito prejudicial pode ser reversível, se a doença se resolver.
+
+A imunodeficiência pode resultar da perda de proteínas séricas (particularmente IgG e albumina) por causa de:
+Rins na síndrome nefrótica
+Pele em queimaduras graves ou dermatites
+Trato GI na enteropatia
+As enteropatias também podem causar perda de linfócitos, resultando em linfopenia (linfocitopenia). Todos esses distúrbios podem imitar os defeitos de células T e B. O tratamento é focado na doença básica; uma dieta rica em triglicerídeos de cadeia média pode diminuir a perda de imunoglobulinas (Igs) e linfócitos do trato gastrointestinal e ser muito benéfica.
+Se houver suspeita clínica de imunodeficiência secundária, os testes devem ter como objetivo o diagnóstico dessa doença (p. ex., diabetes, infecção por HIV, fibrose cística, discinesia ciliar primária).
+Imunodeficiências primárias
+Esses distúrbios são determinados geneticamente; podem ocorrer de modo isolado ou como parte de alguma síndrome. Mais de 100 dessas doenças foram descritas e a heterogeneidade em cada uma delas pode ser considerável. A base molecular é conhecida em cerca de 80%.
+As imunodeficiências primárias se manifestam tipicamente na infância por infecções anormalmente frequentes (recorrentes) ou incomuns. Cerca de 70% dos pacientes têm < 20 anos de idade no início do distúrbio; como a transmissão é muitas vezes ligada ao X, 60% são do sexo masculino. A incidência total da doença sintomática é de cerca de 1/280 pessoas.
+As imunodeficiências primárias são classificadas pelo componente principal do sistema imune que está deficiente, ausente ou defeituoso:
+Imunidade humoral
+Imunidade celular
+Imunidade humoral e celular combinada
+Células fagocíticas
+Proteínas do sistema complemento
+À medida que vão sendo definidos, será mais apropriado classificar as imunodeficiências por seus defeitos moleculares.
+As síndromes de imunodeficiência primária são imunodeficiências geneticamente determinadas com defeitos imunológicos e não imunológicos. As manifestações não imunológicas são reconhecidas mais facilmente do que as de imunodeficiências. Exemplos são ataxia-telangiectasia, hipoplasia da cartilagem e pilosa, síndrome de DiGeorge, síndrome de hiper-IgE e síndrome de Wiskott-Aldrich.
+Em geral, as imunodeficiências se manifestam pelo aparecimento de infecções recorrentes. A idade em que as infecções recorrentes começaram fornece uma pista quanto ao componente do sistema imune que é afetado. Outros achados clínicos característicos auxiliam no diagnóstico clínico ( Achados clínicos característicos em algumas imunodeficiências primárias). Mas testes são necessários para confirmar o diagnóstico de imunodeficiência ( Exames laboratoriais iniciais e adicionais para imunodeficiências). Se os achados clínicos ou os testes iniciais sugerirem um distúrbio específico das células imunológicas ou das funções do sistema complemento, indicam-se testes adicionais ( Exames laboratoriais específicos e avançados para imunodeficiências*).
+O prognóstico nas imunodeficiências primárias depende da doença específica.
+Imunodeficiências humorais
+Imunodeficiências humorais (defeitos nas células B) que causam deficiências de anticorpos somam 50 a 60% das imunodeficiências primárias ( Imunodeficiências humorais). Os títulos séricos de anticorpos diminuem, predispondo a infecções bacterianas.
+O distúrbio mais comum de células B é
+Deficiência seletiva de IgA
+Para avaliação diagnóstica das imunodeficiências humorais, Abordagem ao paciente com suspeita de imunodeficiência e Exames laboratoriais específicos e avançados para imunodeficiências*
+
+Imunodeficiências celulares
+Imunodeficiências celulares (defeitos nas células T) representam cerca de 5 a 10% das imunodeficiências primárias e predispõem a infecções por vírus, Pneumocystis jirovecii, fungos, outros microrganismos oportunistas e alguns patógenos mais comuns ( Imunodeficiências celulares). Esses distúrbios também causam deficiências de Ig porque o sistema imune das células B e T são interdependentes.
+Os distúrbios de células T mais comuns são
+Síndrome de DiGeorge
+Deficiência de ZAP-70
+Síndrome linfoproliferativa ligada ao X
+Candidíase mucocutânea crônica
+Os defeitos primários das células NK, que são muito raros, podem predispor a infecções virais e tumores. Defeitos secundários das células NK podem ocorrer em pacientes com várias outras imunodeficiências primárias ou secundárias.
+Para avaliação diagnóstica das imunodeficiências celulares, Exames laboratoriais iniciais e adicionais para imunodeficiências e Exames laboratoriais específicos e avançados para imunodeficiências*.
+
+celulares 
+Imunodeficiências humoral e celular combinadas 
+Defeitos de células fagocíticas 
+Deficiências de complemento 
+Fundamentos geriátricos
+Pontos-chave
+Recursos neste artigo
+Também de interesse
+(Teste) Transplante de pâncreas 
+(Notícias) A estratégia de tratamento guiado por RM não é superior para artrite reumatoide 
+(Notícias) Dieta mediterrânea associada a um menor risco de artrite reumatoide 
+(Notícias) TC torácica pode identificar risco de EAs respiratórios em pacientes com AR recebendo terapia biológica 
+(Notícias) Níveis de PCR são potencialmente úteis na Urticária Crônica Espontânea 
+(Notícias) Asma materna não controlada aumenta o risco de asma nos filhos 
+
+
+Visão geral das imunodeficiências 
+Por James Fernandez, MD, PhD, Clinical Assistant Professor of Medicine, Cleveland Clinic Lerner College of Medicine at Case Western Reserve University; Director, Allergy and Clinical Immunology, Louis Stokes VA Medical Center, Wade Park; Staff, Department of Allergy and Clinical Immunology, Cleveland Clinic 
+Clique aqui para acessar 
+Educação para o
+paciente 
+OBS.: Esta é a versão para profissionais. CONSUMIDORES: Clique aqui para a versão para o consumidor 
+Imunodeficiências 
+Visão geral das imunodeficiências 
+Abordagem ao paciente com suspeita de imunodeficiência
+Ataxia-telangiectasia
+Síndrome de Chédiak-Higashi
+Doença granulomatosa crônica (DGC)
+Candidíase mucocutânea crônica
+Imunodeficiência comum variável (IDCV)
+Síndrome de DiGeorge
+Síndrome de hiper-IgE
+Síndrome de hiper-IgM
+Deficiência seletiva de IgA
+Deficiência de adesão leucocitária
+Deficiência seletiva de anticorpos com imunoglobulinas normais (SADNI)
+Imunodeficiência combinada grave (IDCG)
+Hipogamaglobulinemia transitória da infância
+Síndrome de Wiskott-Aldrich
+Agamaglobulinemia ligada ao X
+Síndrome linfoproliferativa ligada ao X
+Deficiência de ZAP-70
+
+ 
+As imunodeficiências estão associadas com ou predispõem os pacientes afetados a várias complicações, incluindo infecções, doenças autoimunes, linfomas e outros cânceres. Imunodeficiências primárias são hereditárias; imunodeficiências secundárias são adquiridas. Imunodeficiências secundárias são muito mais comuns.
+A avaliação da imunodeficiência inclui histórico clínico, exame físico e teste da função imunológica. Os testes variam com base no seguinte:
+Se há suspeita de imunodeficiência primária ou secundária
+Para imunodeficiência primária, em que considera-se que há deficiência de componente do sistema imunológico
+Imunodeficiências secundárias
+As causas ( Causas das imunodeficiências secundárias) incluem
+Doenças sistêmicas (p. ex., diabetes, desnutrição, infecção pelo HIV)
+Tratamentos imunossupressores (p. ex., quimioterapia citotóxica, ablação da medula óssea antes de transplante, radioterapia)
+Doença grave prolongada
+Imunodeficiências secundárias também ocorrem em pacientes com doenças graves, idosos, ou hospitalizados. As doenças graves prolongadas podem deprimir a resposta imune; esse efeito prejudicial pode ser reversível, se a doença se resolver.
+Causas das imunodeficiências secundárias
+Categoria
+Exemplos
+Endocrinológicos
+Diabetes melito
+Gastrintestinais
+Insuficiência hepática, hepatite, linfangiectasia intestinal, enteropatia com perda proteica
+Hematológica
+Anemia aplástica, cânceres (p. ex., , mieloma múltiplo, linfoma de Hodgkin), doença do enxerto versus hospedeiro, doença falciforme, esplenectomia
+Iatrogênica
+Certas drogas, como quimioterápicos, imunossupressores, corticoides, radioterapia, esplenectomia
+Infecciosos
+Infecções virais (p. ex., citomegalovírus, vírus Epstein Barr, HIV, vírus do sarampo, vírus varicela-zoster), infecções bacterianas, infecções bacterianas raras com superantígenos (antígenos que podem ativar uma grande quantidade de linfócitos T, resultando na produção maciça de citocinas, mais notavelmente de Staphylococcus aureus), infecções micobacterianas
+Nutricionais
+Alcoolismo, subnutrição
+Fisiológica
+Imunodeficiência fisiológica em crianças decorrente da imaturidade do sistema imune, gestação
+Renal
+Síndrome nefrótica, insuficiência renal, uremia
+Reumatológica
+LES
+Outros
+Queimaduras, cânceres, anomalias cromossômicas (p. ex., síndrome de Down), asplenia congênita, doenças graves e crônicas, histiocitose, sarcoidose
+
+
+Alguns medicamentos que causam imunossupressão
+Classe
+Exemplos
+Anticonvulsivantes
+Lamotrigina, fenitoína, valproato
+Drogas antirreumáticas modificadoras da doença (DMARDs)
+Inibidores da IL-1 (p. ex., anakinra)
+Inibidores da IL-6 (p. ex., tocilizumabe)
+Inibidores da IL-17 (p. ex., brodalumabe)
+Inibidores do FNT (p. ex., adalimumabe, etanercept, infliximabe)
+Inibidores da ativação de linfócitos T (p. exe., abatacept, basiliximabe)
+Inibidores do CD20 (p. ex., rituximabe)
+Inibidores do CD3 (p. ex., muromonabe-CD3)
+Inibidores da quinase Jano (QJ) (p. ex., ruxolitinibe)
+Inibidores de calcineurina
+Ciclosporina, tacrolimo
+Corticoides
+Metilprednisolona, prednisona
+Drogas quimiotáticas citotóxicas
+Múltiplas ( As vias de administração mais comuns são oral e intravenosa.)
+Inibidores metabólicos de purina
+Azatioprina, micofenolato de mofetila
+Rapamicinas
+Everolimo, sirolimo
+Imunoglobulinas imunossupressoras
+Globulina antilinfocítica, globulina antitimocítica
+
+
+A imunodeficiência pode resultar da perda de proteínas séricas (particularmente IgG e albumina) por causa de:
+Rins na síndrome nefrótica
+Pele em queimaduras graves ou dermatites
+Trato GI na enteropatia
+As enteropatias também podem causar perda de linfócitos, resultando em linfopenia (linfocitopenia). Todos esses distúrbios podem imitar os defeitos de células T e B. O tratamento é focado na doença básica; uma dieta rica em triglicerídeos de cadeia média pode diminuir a perda de imunoglobulinas (Igs) e linfócitos do trato gastrointestinal e ser muito benéfica.
+Se houver suspeita clínica de imunodeficiência secundária, os testes devem ter como objetivo o diagnóstico dessa doença (p. ex., diabetes, infecção por HIV, fibrose cística, discinesia ciliar primária).
+Imunodeficiências primárias
+Esses distúrbios são determinados geneticamente; podem ocorrer de modo isolado ou como parte de alguma síndrome. Mais de 100 dessas doenças foram descritas e a heterogeneidade em cada uma delas pode ser considerável. A base molecular é conhecida em cerca de 80%.
+As imunodeficiências primárias se manifestam tipicamente na infância por infecções anormalmente frequentes (recorrentes) ou incomuns. Cerca de 70% dos pacientes têm < 20 anos de idade no início do distúrbio; como a transmissão é muitas vezes ligada ao X, 60% são do sexo masculino. A incidência total da doença sintomática é de cerca de 1/280 pessoas.
+As imunodeficiências primárias são classificadas pelo componente principal do sistema imune que está deficiente, ausente ou defeituoso:
+Imunidade humoral
+Imunidade celular
+Imunidade humoral e celular combinada
+Células fagocíticas
+Proteínas do sistema complemento
+À medida que vão sendo definidos, será mais apropriado classificar as imunodeficiências por seus defeitos moleculares.
+As síndromes de imunodeficiência primária são imunodeficiências geneticamente determinadas com defeitos imunológicos e não imunológicos. As manifestações não imunológicas são reconhecidas mais facilmente do que as de imunodeficiências. Exemplos são ataxia-telangiectasia, hipoplasia da cartilagem e pilosa, síndrome de DiGeorge, síndrome de hiper-IgE e síndrome de Wiskott-Aldrich.
+Em geral, as imunodeficiências se manifestam pelo aparecimento de infecções recorrentes. A idade em que as infecções recorrentes começaram fornece uma pista quanto ao componente do sistema imune que é afetado. Outros achados clínicos característicos auxiliam no diagnóstico clínico ( Achados clínicos característicos em algumas imunodeficiências primárias). Mas testes são necessários para confirmar o diagnóstico de imunodeficiência ( Exames laboratoriais iniciais e adicionais para imunodeficiências). Se os achados clínicos ou os testes iniciais sugerirem um distúrbio específico das células imunológicas ou das funções do sistema complemento, indicam-se testes adicionais ( Exames laboratoriais específicos e avançados para imunodeficiências*).
+O prognóstico nas imunodeficiências primárias depende da doença específica.
+Imunodeficiências humorais
+Imunodeficiências humorais (defeitos nas células B) que causam deficiências de anticorpos somam 50 a 60% das imunodeficiências primárias ( Imunodeficiências humorais). Os títulos séricos de anticorpos diminuem, predispondo a infecções bacterianas.
+O distúrbio mais comum de células B é
+Deficiência seletiva de IgA
+Para avaliação diagnóstica das imunodeficiências humorais, Abordagem ao paciente com suspeita de imunodeficiência e Exames laboratoriais específicos e avançados para imunodeficiências*.
+Imunodeficiências humorais
+Distúrbio
+Hereditariedade
+Gene afetado
+Achados clínicos
+Imunodeficiência variável comum
+Variável
+TACI, ICOS, BAFFR
+Infecções sinopulmonares recorrentes, doenças autoimunes (p. ex., trombocitopenia imune, anemia hemolítica autoimune), má absorção, giardíase, doença pulmona rintersticial granulomatosa, hiperplasia nodular linfoide do trato GI, bronquiectasia, pneumonia intersticial linfoide, esplenomegalia; em 10%, carcinoma e linfoma gástricos
+Geralmente diagnosticado em pacientes com 20 a 40 anos
+Síndrome da hiper-IgM com deficiência de AID ou UNG
+Autossômicas recessivas
+AID, UNG
+Semelhante à síndrome da hiper-IgM ligada ao X, mas com hiperplasia linfática
+Sem leucopenia
+Síndrome da hiper-IgM com deficiência de CD40
+Autossômicas recessivas
+CD40
+Semelhante à síndrome da hiper-IgM ligada ao X
+Hipoplasia linfoide, neutropenia
+Síndrome da hiper-IgM com deficiência do ligante de CD40
+Ligada ao X
+Ligante de CD40 (CD40L)
+Semelhante à agamaglobulinemia ligada ao X (p. ex., infecções sinopulmonares bacterianas piogênicas recorrentes), mas com maior frequência de pneumonia por Pneumocystis jirovecii, criptosporidiose, neutropenia grave e hipoplasia linfoide
+Deficiência seletiva de anticorpos com imunoglobulinas normais
+Desconhecido
+—
+Infecções sinopulmonares recorrentes
+Às vezes, manifestações atópicas (p. ex., dermatite atópica, asma, rinite crônica)
+Pode ocorrer em fenótipos leves, moderados, graves e de memória
+Deficiência seletiva de IgA
+Desconhecida
+Em alguns casos, TACI
+Geralmente assintomática
+Infecções sinopulmonares recorrentes, diarreia, alergias (incluindo reações anafiláticas transfusionais [raras]), doenças autoimunes (p. ex., doença celíaca, doença inflamatória intestinal, LES, hepatite crônica ativa)
+Hipogamaglobulinemia transitória da infância
+Desconhecido
+—
+Em geral assintomática
+Às vezes, infecções sinopulmonares recorrentes ou gastrointestinais, candidíase, menengite
+Agamaglobulinemia ligada ao X
+Ligada ao X
+BTK
+Infecções cutâneas recorrentes e sinopulmonares na infância; neutropenia transitória, hipoplasia linfoide
+Infecções do SNC persistentes resultantes de vacina oral com poliovírus vivo atenuado, echovírus ou vírus coxsackie
+Maior risco de artrite infecciosa, bronquiectasia e certos tipos de câncer
+AID= citidina desaminase dependente (induzida) de ativação; BAFFR = receptor do fator de ativação de linfócitos B; BTK = tirosina-cinase de Bruton; C = complemento; CAML = modulador de cálcio e ligante de ciclofilina; CD = conglomerados de diferenciação; ICOS = coestimulador induzível de linfócitos T; TACI = agente de interação do ativador transmembrana e CAML; UNG= Uracil-DNA glicosilase.
+
+
+Imunodeficiências celulares
+Imunodeficiências celulares (defeitos nas células T) representam cerca de 5 a 10% das imunodeficiências primárias e predispõem a infecções por vírus, Pneumocystis jirovecii, fungos, outros microrganismos oportunistas e alguns patógenos mais comuns ( Imunodeficiências celulares). Esses distúrbios também causam deficiências de Ig porque o sistema imune das células B e T são interdependentes.
+Os distúrbios de células T mais comuns são
+Síndrome de DiGeorge
+Deficiência de ZAP-70
+Síndrome linfoproliferativa ligada ao X
+Candidíase mucocutânea crônica
+Os defeitos primários das células NK, que são muito raros, podem predispor a infecções virais e tumores. Defeitos secundários das células NK podem ocorrer em pacientes com várias outras imunodeficiências primárias ou secundárias.
+Para avaliação diagnóstica das imunodeficiências celulares, Exames laboratoriais iniciais e adicionais para imunodeficiências e Exames laboratoriais específicos e avançados para imunodeficiências*.
+Imunodeficiências celulares
+Distúrbio
+Hereditariedade
+Gene afetado
+Achados clínicos
+Candidíase mucocutânea crônica
+Autossômica dominante ou recessiva
+STAT1 (dominante)
+AIRE (recessivo)
+Infecções recorrentes ou persistentes por Candida, onicomicose, poliendocrinopatia autossômica autoimune recessiva e distrofia ectodérmica por candidose (com hipoparatireoidismo e deficiência adrenal)
+Síndrome de DiGeorge
+Autossômica
+Genes na região cromossômica 22q11.2
+Genes no cromossomo 10p13
+Face incomum com implantação baixa das orelhas, disfunção cardíaca congênita (p. ex., anormalidades no arco da aorta), aplasia ou hipoplasia tímica, hipoparatireoidismo com tetania hipocalcêmica, infecções recorrentes e retardo de desenvolvimento
+Síndrome linfoproliferativa ligada ao X
+Ligada ao X
+SH2D1A (tipo 1)
+XIAP (tipo 2)
+Assintomática até o início da infecção por vírus Epstein-Barr; segue-se a mononucleose fulminante ou fatal com insuficiência hepática, linfomas de células B, esplenomegalia e anemia aplásica
+Deficiência associada à proteína Zeta 70 (ZAP-70)
+Autossômicas recessivas
+—
+Infecções comuns e oportunistas
+Sem células CD8
+AIRE = regulador autoimune; CD = grupamento de diferenciação; SH2D1A = gene 1A que contém o domínio SH2; STAT = transdutor de sinal e ativador de transcrição; TYK = tirosina quinase; UNG= uracila-DNA glicosilases; WASP = proteína da síndrome de Wiskott-Aldrich; XIAP = inibidor de apoptose ligado ao X.
+
+
+Imunodeficiências humoral e celular combinadas
+Imunodeficiências humorais e celulares combinadas (defeitos nas células T) são responsáveis por cerca de 20% das imunodeficiências primárias ( Imunodeficiências humoral e celular combinadas).
+A forma mais importante é Imunodeficiência combinada grave (IDCG) Em algumas formas de imunodeficiência combinada (p. ex., deficiência de purina nucleosídeo fosforilase), os níveis de Ig são normais ou elevados, mas em razão da atividade deficiente da célula T ocorre diminuição da formação de anticorpos.
+Para a avaliação diagnóstica das imunodeficiências humorais e celulares combinadas, Exames laboratoriais específicos e avançados para imunodeficiências*.
+
+Defeitos de células fagocíticas
+Os defeitos de células fagocíticas representam cerca de 10 a 15% das imunodeficiências primárias e prejudicam a capacidade dos fagócitos (p. ex., monócitos, macrófagos e granulócitos, como os neutrófilos e os eosinófilos) de destruir patógenos ( Defeitos de células fagocíticas). São características as infecções cutâneas por Staphylococcus e bactérias Gram-negativas.
+Os defeitos de células fagocíticas mais comuns (embora ainda raros) são Doença granulomatosa crônica Deficiência de adesão dos leucócitos (tipos 1 e 2) Neutropenia cíclica Síndrome de Chédiak-Higashi
+Para avaliação diagnóstica dos defeitos de células fagocíticas, Exames laboratoriais iniciais e adicionais para imunodeficiências e Exames laboratoriais específicos e avançados para imunodeficiências*.
+
+Deficiências de complemento
+As deficiências de complemento são raras (≤ 2%); incluem deficiências isoladas de componentes ou inibidores do complemento e podem ser hereditárias ou adquiridas ( Deficiências de complemento). As deficiências hereditárias são autossômicas recessivas, exceto nas deficiências do inibidor de C1, que são autossômicas dominantes, e da properdina, ligada ao X. Essas deficiências resultam em opsonização defeituosa, fagocitose e lise de patógenos, além de prejudicarem a remoção de imunocomplexos.
+As consequências mais sérias são
+Infecção recorrente, que ocorre por causa da opsonização defeituosa
+Doenças autoimunes (p. ex., LES, glomerulonefrite), que ocorrem por causa da remoção defeituosa de complexos antígeno-anticorpo
+Uma deficiência em uma proteína reguladora do complemento causa o angioedema hereditário.
+Deficiências do complemento podem afetar a via clássica e/ou alternativa ( Sistema Complemento). A via alternativa compartilha C3 e C5 até C9 com a via clássica, mas tem componentes adicionais: fator D, fator B, properdina (P) e fatores regulatórios H e I.
+Para avaliação diagnóstica das deficiências do complemento, Exames laboratoriais iniciais e adicionais para imunodeficiências e Exames laboratoriais específicos e avançados para imunodeficiências*.
+
+Fundamentos geriátricos
+Há alguma diminuição da imunidade com o avanço da idade. Por exemplo, no idoso, o timo tende a produzir menor número de células T naive, portanto poucas células estão disponíveis para responder a novos antígenos. Além disso, o número de células T não decresce (devido à oligoclonalidade), mas essas células podem reconhecer somente um limitado número de antígenos.
+A transdução do sinal (transmissão do sinal de ligação com o antígeno através da membrana celular para a célula) é prejudicada, consequentemente as células T têm menos probabilidade de responder aos antígenos. Além disso, as células T helper não têm muita capacidade para sinalizar para as células B no sentido de produzir anticorpos.
+O número de neutrófilos não diminui, mas essas células se tornam menos efetivas na fagocitose e ação microbiana.
+Subnutrição, comum em idosos, prejudica as respostas imunes. Cálcio, zinco e vitamina E são particularmente importantes para a imunidade. O risco de deficiência de cálcio é maior em idosos em parte porque, com o envelhecimento, o intestino passa a absorver menos cálcio. Além disso, idosos não ingerem quantidades adequadas de cálcio na dieta. A deficiência de zinco é muito comum nos idosos em instituições e nos pacientes que permanecem em suas residências.
+Certas doenças (p. ex., diabetes, doença renal crônica, desnutrição), que são mais comuns em idosos, e determinados tratamentos (p. ex., imunossupressores, fármacos e tratamentos imunomoduladores), que idosos são mais propensos a usar, também podem prejudicar a imunidade.

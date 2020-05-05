@@ -1,0 +1,11 @@
+Enzimas de Restrição
+
+As enzimas de restrição ou também denominadas de endonucleases de restrição, são as ferramentas básicas da engenharia genética, desempenhando função de clivagem (corte) da molécula de DNA em pontos específicos, em reconhecimento a determinadas seqüências de nucleotídeos. 
+
+Foram inicialmente descobertas em células bacterianas, relacionadas ao mecanismo de defesa contra DNA exógeno, a exemplo parasitose viral, inativando o potencial infeccioso do organismo invasor a partir da fragmentação do material genético do mesmo. 
+
+Hoje em dia, a biologia molecular utiliza centenas de endonucleases capazes de seccionar o duplo filamento polinucleotídico da molécula de DNA em lugares determinados. Dessa forma, submetidos à técnica de eletroforese, os pedaços secionados pelas enzimas passam por análise comparativa de bandas transversais reveladas em um filme, permitindo, por exemplo, a identificação de pessoas: possíveis suspeitos de um crime ou na determinação da paternidade, tendo o laudo legitimidade relativa de competência jurisdicional. 
+
+Segue abaixo um quadro demonstrativo de algumas enzimas restritivas com indicação da seqüência de reconhecimento de bases nitrogenadas e o ponto de corte.
+
+Nos exames de paternidade, aplicando-se a eletroforese em fragmentos de DNA, obtidos por ação de enzimas de restrição em amostras sangüíneas dos entes envolvidos: mãe (M), filhos (F1, F2, F3 e F4) e o suposto pai (SP), indicam por bandas eletrondensas que a herança de seqüenciamentos presentes nos filhos e ausentes na mãe, somente pode ter sido transferidos aos filhos pelo pai. No caso exemplificado a seguir, constata-se a contribuição genética provável do suposto pai, indicada por círculos vermelhos no filme revelado da eletroforese.

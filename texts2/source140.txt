@@ -1,0 +1,33 @@
+Corrente Elétrica
+
+A corrente elétrica designa o movimento ordenado de cargas elétricas (partículas eletrizadas chamadas de íons ou elétrons) dentro de um sistema condutor.
+Esse sistema apresenta uma diferença de potencial elétrico (ddp) ou tensão elétrica.
+A corrente elétrica que transita nos resistores pode transformar energia elétrica em energia térmica (calor), num fenômeno conhecido como Efeito Joule.
+A resistência de um fio condutor facilita ou dificulta a passagem da corrente elétrica, sendo calculada através da fórmula da Primeira Lei de Ohm (R=U/I).
+Os aparelhos eletrônicos, pilhas e baterias, apresentam o polo negativo e o polo positivo. Isso explica a diferença de potencial (ddp) presente no circuito de cada um deles.
+Observe que o sentido da corrente elétrica é caracterizado de duas maneiras. Uma delas é a “corrente elétrica real”, ou seja, aquela que possui o sentido do movimento dos elétrons.
+A outra maneira é a “corrente elétrica convencional”, cujo sentido é contrário ao movimento dos elétrons e é marcada pelo movimento das cargas elétricas positivas.
+No Sistema Internacional de Unidades (SI), a intensidade da corrente elétrica é medida em Ampère (A), a resistência em Ohm (Ω) e a tensão elétrica (ddp) é medida em Volts (V).
+Leia também Efeito Joule e Leis de Kirchhoff.
+Condutores Elétricos
+Os condutores elétricos são materiais que permitem a movimentação dos elétrons, ou seja, a passagem da corrente elétrica. Um material é considerado um condutor elétrico dependendo da diferença de potencial ao qual ele está submetido.
+
+Os melhores condutores elétricos são os metais, por outro lado, os materiais que dificultam a movimentação dos elétrons são chamados de isolantes. São exemplos madeira, plástico e papel.
+Há três tipos de condutores:
+Sólidos - caracterizado pelo movimento dos elétrons livres;
+Líquidos - movimento de cargas positivas e negativas;
+Gasosos - movimento de cátions e ânions.
+
+Tipos de Corrente Elétrica
+Corrente Contínua (CC): possui sentido e intensidade constantes, ou seja, apresenta diferença de potencial (ddp) contínua, gerada por pilhas e as baterias.
+Corrente Alternada (CA): possui sentido e intensidade variados, ou seja, apresenta diferença de potencial (ddp) é alternada, gerada pelas usinas.
+
+Tensão Elétrica
+A tensão elétrica, também chamada de diferença de potencial (ddp), caracteriza a diferencial do potencial elétrico de dois pontos num condutor. É, portanto, a força decorrente da movimentação dos elétrons em determinado circuito.
+No sistema Internacional (SI), a tensão elétrica é medida em Volts (V). Para calcular a tensão elétrica de um circuito elétrico, utiliza-se a expressão:
+
+U = R x I
+Onde,
+U= Tensão elétrica (V)
+R = Resistência (Ω)
+i= Intensidade da corrente (A)

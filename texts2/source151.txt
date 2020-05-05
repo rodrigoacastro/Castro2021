@@ -1,0 +1,40 @@
+Catálise e Catalisadores
+
+A catálise pode ser definida como o aumento da velocidade de uma reação, provocado por um catalisador. O catalisador é a substância que acelera a reação química, sem ser consumido durante o processo, como é o caso da platina no exemplo anterior.
+
+Existem reações químicas espontâneas que não acontecem em temperatura ambiente, ou ocorre de forma muito lenta. A reação do gás oxigênio com o gás hidrogênio, por exemplo, praticamente não ocorre em condições normais, porém, se for adicionada uma porção de platina em pó nessa mistura, a reação ocorrerá no mesmo instante. Então, podemos dizer que a platina catalisou a reação. Veja:
+
+Basicamente, a catálise pode ser classificada em:
+
+Catálise homogênea – todas as substâncias da reação se encontrem no mesmo físico, formando um conjunto homogêneo. Sistemas gasosos catalisados por um gás são exemplos de catálise homogênea.
+Catálise heterogênea – o sistema em reação se encontra num estado físico diferente do catalisador. Em geral, a catálise heterogênea ocorre quando uma reação entre líquidos ou gases é catalisada por uma substância sólida.
+Sabemos que, para que uma reação química ocorra é necessário que as moléculas possuam uma quantidade mínima de energia capaz de enfraquecer as ligações químicas dos reagentes e produzir outras substâncias, chamada de energia de ativação. Isso funciona como uma barreira energética, que precisa ser ultrapassada para que a reação venha a ocorrer. Assim, quanto menor for a energia de ativação, maior será a velocidade da reação.
+
+A função do catalisador é, então, criar um caminho alternativo para a reação, de modo que a energia de ativação seja menor. Veja o exemplo:
+
+A energia de ativação para esta reação sem catalisador corresponde a 45 kcal/mol, ao passo que, com a ação do catalisador (que pode ser a platina em pó), essa quantidade mínima de energia cai para 14 kcal/mol. Isso pode ser representado graficamente:
+
+Se analisarmos o gráfico, podemos concluir que o catalisador nunca interfere na quantidade de energia librada ou absorvida pela reação; não interfere no rendimento da reação, ou seja, a quantidade de produto formado; e pode atuar tanto na reação direta quanto na reação inversa.
+
+Entre os principais tipos de catalisadores podemos destacar:
+Enzimas – catalisadores biológicos, que aceleram importantes reações do metabolismo de seres vivos. Um exemplo de enzima é a ptialina (ou amilase salivar) presente na saliva, que catalisa a hidrólise de moléculas de amido. Certos produtos de limpeza também contêm enzimas que facilitam a quebra de moléculas de substâncias responsáveis pelas manchas em tecidos.
+
+Metais – principalmente os metais de transição, como platina (Pt), cobalto (Co), níquel (Ni), paládio (Pd), entre outros.
+
+Ácidos – os íons H+ são catalisadores de diversas reações na Química Orgânica, como, por exemplo, a reação de sacarose com água, que produz moléculas de glicose e frutose.
+
+Bases – as hidroxilas também agem como catalisadores.
+
+Óxidos metálicos – como, por exemplo, Al2O3, C2O3, V2O5, etc.
+
+A catálise é uma alternativa bastante viável à indústria química. Pequenas quantidades de catalisadores podem ser utilizadas várias vezes, o que torna o processo mais barato. A fabricação de plástico e de produtos de borracha são exemplos de processo nos quais são utilizados catalisadores.
+
+Outro bom exemplo de reação catalítica é a que ocorre com a camada de ozônio. A destruição da camada de ozônio é causada por reações catalisadas por compostos orgânicos fluorados (clorofluorcarbonos ou CFC), presentes em sprays, geladeiras e ar condicionado.
+
+Referências bibliográficas:
+
+FELTRE, Ricardo. Química volume 2. São Paulo: Moderna, 2005.
+
+USBERCO, João, SALVADOR, Edgar. Química volume único. São Paulo: Saraiva, 2002.
+
+Por: Mayara Lopes Cardoso

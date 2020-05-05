@@ -1,0 +1,13 @@
+A alotropia é uma propriedade que alguns elementos químicos possuem de realizar ligações por meio de ligações covalentes (com compartilhamento de elétrons) e, assim, formar duas ou mais substâncias simples diferentes. As substâncias simples são aquelas formadas por um único tipo de elemento.
+
+A diferença entre essas variedades alotrópicas pode ocorrer por dois motivos principais, sendo que o primeiro remete à quantidade de átomos. Por exemplo, o oxigênio pode formar dois alótropos, o gás oxigênio e o ozônio, cuja diferença é que, no gás oxigênio, os átomos unem-se dois a dois, formando moléculas biatômicas (O2), enquanto o ozônio forma moléculas triatômicas (O3).
+
+O fósforo é outro exemplo de elemento que possui várias variedades alotrópicas, sendo que as principais são o fósforo branco e o vermelho. Ambos apresentam estrutura tetraédrica, mas a diferença também está na quantidade de átomos que se ligam. No caso do fósforo branco, sua fórmula pode ser expressa por P4,o que significa que suas moléculas são formadas por quatro átomos de fósforo. Já o fósforo vermelho é simbolizado por Pn, pois existem evidências de que ele se trata de macromoléculas formadas pela ligação das estruturas tetraédricas mencionadas (P4):
+
+Mas o elemento que possui a maior variedade de formas alotrópicas é o enxofre, incluindo as moléculas de S2, S4, S6 e S8, que se diferenciam pela quantidade de átomos em cada molécula.
+
+No entanto, o enxofre possui duas variedades alotrópicas principais que não se diferenciam pela atomicidade. A segunda característica que diferencia as variedades alotrópicas é o arranjo espacial dos átomos.
+
+Por exemplo, no caso do enxofre, ele possui dois alótropos, que são o enxofre rômbico e o monoclínico, que possuem a mesma fórmula molecular, S8, sendo que o arranjo espacial dos seus átomos no retículo cristalino é diferente, resultando em formatos diferentes, conforme se pode ver abaixo:
+
+O carbono possui duas variedades alotrópicas naturais, que são a grafita e o diamante, mas ambos são representados por Cn, pois eles são formados por um número muito grande e indeterminado de átomos. Assim, a diferença entre eles está no arranjo cristalino também. Veja na figura abaixo que os átomos de carbono na grafite formam placas de hexágonos que são atraídas mutuamente, enquanto, no diamente, cada átomo está ligado tetraedricamente a outros quatro átomos:

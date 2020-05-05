@@ -1,0 +1,33 @@
+Candidíase mucocutânea crônica 
+
+A candidíase mucocutânea crônica é uma infecção persistente ou recorrente por cândida devido a defeitos hereditários nas células T.
+(Ver também Visão geral das imunodeficiências e Abordagem ao paciente com distúrbios de Imunodeficiência.)
+A candidíase mucocutânea crônica é um distúrbio de imunodeficiência primária que envolve defeitos nas células T. A hereditariedade pode ser
+Autossômica dominante: envolve uma mutação no transdutor de sinal e ativador da transcrição do gene 1 (STAT1).
+Autossômica recessiva: envolve uma mutação no gene regulador autoimune (AIRE)
+Na forma recessiva (autoimune-poliendocrinopatia-candidose-distrofia ectodérmica) tipicamente se desenvolvem manifestações autoimune; elas incluem doenças endócrinas (p. ex., hipoparatireoidismo, insuficiência adrenal, hipogonadismo, distúrbios tireoidianos, diabetes), alopecia areata, anemia perniciosa e hepatite. As mutações também podem ocorrer em genes que codificam várias proteínas envolvidas na resposta imune inata a fungos - nomeadamente as seguintes:
+PTPN22 (proteína tirosina fosfatase, não receptor tipo 22 [também chamadaalso called LYP, ou tirosina fosfatase linfoide], que está envolvida na sinalização de receptores de linfócitos T)
+Dectina-1 (um receptor de reconhecimento de padrões inato essencial para o controle de infecções por fungos)
+CARD9 (proteína 9 contendo um domínio de recrutamento associado a caspase, que é uma molécula adaptadora importante na produção de IL-17 e na proteção contra invasão fúngica)
+Os pacientes têm anergia cutânea à Candida, ausência de resposta proliferativa ao antígeno da Candida (mas resposta proliferativa normal aos mitógenos) e resposta intacta com anticorpos para Candida e outros antígenos. A candidíase recorre ou persiste, inicia-se em geral durante a infância, mas algumas vezes durante a adolescência. Este período da vida não é afetado. Alguns pacientes também têm imunodeficiência humoral (às vezes chamada deficiência de anticorpos), caracterizada por respostas anormais de anticorpos a antígenos polissacarídeos apesar dos níveis normais de imunoglobulinas.
+Sinais e sintomas
+A candidíase oral é comum, como infecções no couro cabeludo, pele, unhas, mucosa gastrointestinal e vaginal. A gravidade é variável. As unhas podem ser espessadas, quebradiças e descoradas com eritema e edema na região periungueal. As lesões cutâneas são crostosas, pustulosas, eritematosas e hiperqueratóticas. As lesões do couro cabeludo podem causar alopecia cicatricial.
+Neonatais frequentemente apresentam infecções bucais e candidíase na região das fraldas, ou ambas.
+Diagnóstico
+Avaliação clínica
+As lesões por Candida são confirmadas por testes padrão (p. ex., exame de lâmina dos raspados com coloração por hidróxido de potássio).
+O diagnóstico da candidíase mucocutânea crônica baseia-se na presença de candidíase recorrente na pele ou mucosas quando nenhuma outra causa conhecida de infecção por cândida está presente (p. ex., diabetes, uso de antibióticos).
+Examina-se nos pacientes doenças endócrinas com base na suspeita clínica.
+Se uma mutação AIRE é detectada, o exame pode ser oferecido aos irmãos e filhos do paciente.
+Tratamento
+Drogas antifúngicas
+Tratamento das manifestações endócrinas e autoimunes
+Em geral, as infecções podem ser controladas com antifúngicos tópicos. Se os pacientes têm uma resposta ruim ao antifúngicos tópicos, é necessário tratamento por longo período com drogas antifúngicas sistêmicas (p. ex., anfotericina B, fluconazol, catoconazol). Imunoglobulina deve ser considerada se os pacientes têm deficiência de anticorpos.
+Manifestações autoimunes (incluindo endócrinas) são tratadas de maneira agressiva.
+O transplante de células-tronco hematopoiéticas foi bem-sucedido em dois casos e pode ser considerado como o tratamento derradeiro em casos graves.
+
+Pontos-chave
+A herança da candidíase mucocutânea crônica é autossômica dominante ou recessiva.
+Os pacientes com a forma recessiva podem ter manifestações autoimunes (incluindo endócrinas).
+Diagnosticar a doença confirmando a candidíase mucocutânea e excluindo outras causas.
+Tratar a candidíase com antifúngicos (usando um fármaco sistêmico se necessário), e tratar as manifestações autoimunes.
