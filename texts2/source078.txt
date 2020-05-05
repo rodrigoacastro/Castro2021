@@ -1,0 +1,33 @@
+Tensão elétrica
+
+Tensão elétrica (denotada por ∆V), também conhecida como diferença de potencial (DDP), é a diferença de potencial elétrico entre dois pontos ou a diferença em energia potencial elétrica por unidade de carga elétrica entre dois pontos. Sua unidade de medida é o volt – homenagem ao físico italiano Alessandro Volta. A diferença de potencial é igual ao trabalho que deve ser feito, por unidade de carga contra um campo elétrico para se movimentar uma carga qualquer. Uma diferença de potencial pode representar tanto uma fonte de energia (força eletromotriz), quanto pode representar energia "perdida" ou armazenada (queda de tensão). Um voltímetro pode ser utilizado para se medir a DDP entre dois pontos em um sistema, sendo que usualmente um ponto referencial comum é a terra. A tensão elétrica pode ser causada por campos elétricos estáticos, por uma corrente elétrica sob a ação de um campo magnético, por campo magnético variante ou uma combinação de todos os três.[1][2] 
+
+Tensão e Lei de Ohm
+
+Por analogia, a tensão elétrica seria a "força" responsável pela movimentação de elétrons. O potencial elétrico mede a força que uma carga elétrica experimenta no seio de um campo elétrico, expressa pela lei de Coulomb. Portanto a tensão é a tendência que uma carga tem de ir de um ponto para o outro. Normalmente, toma-se um ponto que se considera de tensão=zero e mede-se a tensão do resto dos pontos relativamente a este.
+
+A tensão elétrica entre dois pontos, ou seja [(+) e (-)] é definida matematicamente como a integral de linha do campo elétrico:
+
+
+Para facilitar o entendimento da tensão elétrica pode-se fazer uma analogia entre esta e a pressão hidráulica. Quanto maior a diferença de pressão hidráulica entre dois pontos, maior será o fluxo, caso haja comunicação entre estes dois pontos. O fluxo (que em eletrodinâmica seria a corrente elétrica) será assim uma função da pressão hidráulica (tensão elétrica) e da oposição à passagem do fluido (resistência elétrica). Este é o fundamento da lei de Ohm, para a corrente contínua:
+
+    V = R x I ou q = R x I
+	
+onde:
+
+    R = Resistência (ohms)
+    I = Intensidade da corrente (ampères)
+    V = Diferença de potencial ou tensão (volts)
+    U = Energia potencial(joule)
+
+Em corrente alternada, substitui-se a resistência pela impedância:
+
+    U = Z x I
+
+onde:
+
+    Z = Impedância (ohms)
+
+Pelo método fasorial, em corrente alternada, todas as variáveis da equação são complexas. A impedância representa, além da resistência a passagem de corrente elétrica, também o deslocamento angular na forma de onda produzido pelo equipamento (capacitores e bobinas ou indutores).
+
+Podemos resumir em tais fórmulas matemáticas que a tensão eléctrica seria a diferença de potencial elétrico, entre dois pontos, que geraria uma força capaz de movimentar os elétrons entre esses dois pontos distintos no espaço. O valor numérico desta grandeza física, medida em volts, seria então o resultado da multiplicação entre o valor da resistência (em ohms) e o valor da corrente (em ampères). 

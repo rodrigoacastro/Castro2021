@@ -1,0 +1,38 @@
+Saiba Mais Sobre Radiofármacos
+
+Entenda o que são Radiofármacos e o seu uso na Radiologia
+
+Olá pessoal, você já deve ter lido muito a palavra radiofármaco por aqui. A explicação do significado e do uso dos radiofármacos é um dos assuntos mais pedidos pelos visitantes do Radiologia Blog. Por isso, neste artigo você vai conhecer tudo sobre radiofármacos para não ter mais dúvidas e errar aquela questão na prova.
+O que é um Radiofármaco? 
+
+Os radiofármacos são substâncias utilizadas na medicina nuclear para o diagnóstico e para o tratamento. Estas substâncias são produzidas com elementos com funções diferentes: o fármaco e o radionuclídeo. Dessa forma, o fármaco que é um medicamento, exerce as funções comuns de um medicamento, mas sem ação terapêutica. O radionuclídeo é um elemento que emite radiação eletromagnética, radiação gama. Quando estas substâncias são unidas, forma-se um medicamento marcado com material radioativo, que chamamos de radiofármacos.
+
+Mas.. porque é necessário produzir um radiofármaco?
+
+Qualquer medicamento, como este que você usa quando sente dor de cabeça, tem características físico-químicas que determinam a sua farmacocinética, isso é, a característica do medicamento ser transportado até o órgão-alvo, ser metabolizado e eliminado do organismo. Por exemplo, quando pessoas sentem dores nos rins, o medicamento que ela usa, deve chegar aos rins, ser metabolizado e depois ser eliminado do organismo, caso a pessoa fazer uso de um medicamento para dor no estômago, ao invés de um medicamento para os rins, ela vai continuar sentindo dores nos rins, sendo assim, os medicamentos tem característica de só serem úteis ao seus órgãos de interesse.
+
+Bem, seguindo este conceito, os medicamentos marcados com material radioativo se fixam aos órgãos de interesse, são metabolizados e eliminados, enquanto emitem radiação gama de dentro do órgão. A emissão de radiação gama de dentro do órgão pode ser usada para tratamento ou diagnóstico, dependendo do radionuclídeo utilizado.
+Radiofármacos no Diagnóstico
+
+Os radiofármacos em sua maioria são utilizados para o diagnóstico na medicina nuclear. O método mais tradicional é a cintilografia que utiliza o iodo123 e o tecnécio 99m. O tecnécio 99m é o mais utilizado no Brasil, para exames de cintilografia da tireoide e cintilografia renal estática. Outro método é a Tomografia Por Emissão de Pósitrons, que utiliza o fluor-18, este tem meia vida curta é muito utilizado na oncologia.
+
+Nos exames de cintilografia, é injetado o radiofármaco no paciente e depois um determinado tempo ele se deposita nos órgãos. O paciente é posicionado em equipamento chamado Gama-Câmara, onde é realizada a leitura da emissão de radiação naquele órgão onde está depositado o radiofármaco. Esta leitura do equipamento são transformadas em imagens, onde é possível diagnosticar qualquer alteração no organismo do paciente.
+
+Nos exames de PET (tomografia por emissão de pósitrons), é utilizo o radiofármaco fluordesoxiglicose marcado com fluor-18. Após injetado no paciente o equipamento PET faz a leitura da radiação emitida pelo paciente e transforma em imagens cintilográficas em conjunto com imagens tomográficas, melhorando a qualidade das imagens, sendo possível unir a fisiologia do organismo com a anatomia. 
+
+Radiofármacos no Tratamento 
+
+O radiofármaco utilizado tratamento é o I131 (iodo 131). O I131 é utilizado no tratamento de câncer de tireóide, com poucos efeitos colaterais para o organismo do paciente. A iodoterapia é mais eficaz em pacientes com níveis altos de TSH (hipotiroidismo). Essa substância estimula o tecido da tireoide e as células cancerosas a absorver o iodo radioativo. 
+Produção de Radiofármacos 
+
+radiofarmacos 2
+
+Um nuclídeo é um elemento com a estabilidade determinada pelo seu número atômico (Z) e seu número de massa (A), ou seja, a sua estabilidade depende do número do prótons e neutrons. Quando o elemento tem um núcleo instável, ele emite energi, ao emitir energia, o elemento se transforma em outro estável. Quando está instável, o nuclídeo é denominado radionuclídeo e emite partículas alfa, beta negativo, beta positivo e elétrons, também emitem raios gama e raios-x. Este é um processo natural chamado radioatividade. 
+
+Os radionuclídeos utilizados na medicina nuclear, tanto no diagnóstico quanto no tratamento, são produzidos artificialmente em reatores ou aceleradores de partículas e geradores de radiosótopos. 
+
+Após a produção artificial dos nuclídeos, os fármacos são produzidos e fracionados sintetizados com os nuclídeos. O processo é realizado em instalações denominadas Células Quentes, que protegem os trabalhadores da radiação. Em laboratórios especializados os radiofármacos ainda passam por processos de controle de qualidade. 
+
+Entre as instituições que produzem radiofármacos no Brasil estão o Instituto de Engenharia Nuclear (IEN), Instituto de Pesquisas Energéticas e Nucleares (IPEN) e o Centro de Desenvolvimento da Tecnologia Nuclear (CDTN). Para conhecer mais sobre a produção de radiofármacos visite o site da Comissão Nacional de Energia Nuclear - CNEN. 
+
+Até a próxima.

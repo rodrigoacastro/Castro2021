@@ -1,0 +1,21 @@
+IRRADIAÇÃO TÉRMICA
+
+A irradiação ou radiação é o processo mais importante de propagação de calor, pois é através dele que o calor do Sol chega até a Terra. Sem esse processo não haveria vida na Terra.
+
+A irradiação é o processo de transferência de calor através de ondas eletromagnéticas, chamadas ondas de calor ou calor radiante. 
+
+Enquanto a condução e a convecção ocorrem somente em meios materiais, a irradiação ocorre também no vácuo.
+
+De um modo geral podemos dizer que, em diferentes quantidades, todos os corpos emitem energia radiante devido a sua temperatura. Estas radiações, ao serem absorvidas por outro corpo, provocam, nele, uma elevação de temperatura.
+
+Quando uma pessoa está próxima de um corpo aquecido, em geral, recebe calor pelos três processos: condução, convecção e irradiação. Quanto maior for a temperatura do corpo aquecido, maior será a quantidade de calor transmitida por radiação.
+
+Absorção e reflexão
+
+A radiação térmica ao incidir em um corpo tem uma parte absorvida e outra refletida pelo corpo. Corpos escuros absorvem a maior parte da radiação que incide sobre eles, enquanto os corpos claros refletem quase totalmente a radiação térmica incidente. É por isso que um corpo preto, quando colocado ao Sol, tem sua temperatura sensivelmente elevada, ao contrário dos corpos claros, que absorvem pouco calor.
+
+O calor de uma fogueira é transmitido, principalmente, por irradiação.
+
+A tartaruga recebe calor do sol por irradiação e, da areia, por condução.
+
+O ar ao seu redor se aquece por convecção.

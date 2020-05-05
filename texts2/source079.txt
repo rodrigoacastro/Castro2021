@@ -1,0 +1,29 @@
+Fontes de campo magnético
+
+A magnetita é um mineral magnético que tem a propriedade de atrair objetos de ferro
+
+De acordo com a história, há séculos o homem observou que determinadas pedras têm propriedades de atrair pedaços de ferro ou de realizar interação entre si. Essas pedras ficaram conhecidas como ímãs e seus fenômenos chamados de fenômenos magnéticos. Hoje é comum encontrarmos ímãs artificiais em diversos equipamentos elétricos, como por exemplo, nos alto-falantes, nas televisões de tubo etc. É comum também percebermos essa propriedade em algumas ferramentas, como nas chaves de fendas.
+
+O termo magnetismo, estudado na física, é derivado de Magnésia, uma região situada na Grécia. Um ímã gera um campo magnético à sua volta, que pode ser constatado aproximando-se dele uma bússola ou acrescentando limalhas de ferro. Nesses dois casos veremos a interação da agulha da bússola e das limalhas junto ao campo magnético gerado pelo ímã.
+
+Ao aprofundar os estudos sobre magnetismo, o físico Oersted observou que ao aproximar a agulha magnética de um fio condutor percorrido por uma corrente elétrica ela também sofria deflexão, isto é, desviava-se. Com isso, ele pôde concluir que o fio condutor percorrido por corrente elétrica gera à sua volta um campo magnético. Vejamos então algumas fontes de campo magnético.
+
+Condutor retilíneo
+
+Um condutor retilíneo nada mais é do que um fio percorrido por uma corrente elétrica. Ao fazer passar uma corrente elétrica sobre um fio, verifica-se que ele gera um campo magnético. Podemos determinar a intensidade do campo magnético em volta de um condutor retilíneo através da seguinte equação:
+
+Espira circular
+
+Uma espira circular é um fio condutor enrolado. Verifica-se também que uma espira circular percorrida por corrente elétrica gera um campo magnético, sendo possível determinar a intensidade desse campo magnético através da equação:
+
+Verifica-se que em uma espira circular as linhas de indução magnética são circunferências concêntricas perpendiculares ao plano da espira.
+
+Bobina chata
+
+Denominamos bobina uma justaposição de várias espiras circulares. Em uma bobina chata a espessura do enrolamento é menor que o diâmetro de cada espira. A intensidade do campo magnético no interior de uma bobina chata é dada por:
+
+Solenoide
+
+Chamamos de solenoide um condutor longo e enrolado que forma um tubo constituído de espiras igualmente espaçadas. A intensidade do vetor campo magnético no interior de um solenoide é determinada pela seguinte equação:
+
+Onde N/L representa o número de espiras por unidade de comprimento. E, em relação à equação acima, μ representa a permeabilidade magnética do condutor.

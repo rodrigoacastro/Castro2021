@@ -1,0 +1,36 @@
+Eletricidade
+
+A Eletricidade é o movimento, usualmente de elétrons, produzido a partir de dois pontos de um condutor. É, em termos gerais, a área da Física que estuda os fenômenos causados pelo trabalho das cargas elétricas.
+
+Essa forma de energia está presente no nosso cotidiano não só nos aparelhos eletrônicos, mas também na natureza - descargas elétricas que resultam em relâmpagos, por exemplo. A eletricidade é, atualmente, o principal tipo de energia existente.
+Principais Áreas de Estudo
+
+O conceito é tão amplo que existem áreas de estudo que se ocupam cada uma de um aspecto da eletricidade:
+
+Eletrostática: dedica-se ao comportamento das cargas elétricas sem movimento, ou em estado de repouso.
+Eletrodinâmica: ao contrário da eletricidade estática, a eletrodinâmica é, como indica o seu nome, dinâmica e, portanto, está em constante movimento.
+Eletromagnetismo: estuda a relação da eletricidade com a capacidade de atrair e reprimir polos.
+
+História da Eletricidade
+
+A eletricidade foi descoberta pelo “pai da Ciência”, o filósofo grego Tales de Mileto (625 a.C. -547 a.C).
+
+O achado que viria a revolucionar o mundo foi descoberto ao acaso, quando o pensador esfregou uma substância chamada âmbar com pele de animal e observou que a partir disso pequenos objetos se movimentavam atraídos como pelo efeito de um ímã.
+
+Na sequência, iniciaram-se e alargaram-se os estudos nessa matéria durante largos anos. Entre outros pesquisadores, Otto von Guericke inventa uma máquina de cargas elétricas e Stephen Gray examina a diferença do comportamento dos condutores e dos isolantes elétricos.
+
+Benjamin Franklin inventou o pára-raios no século XVIII. No século XIX, Luigi Galvani inventou a pilha voltaica, até que Hans Christian Örsted descobriu a relação da eletricidade e o magnetismo. Finalmente, surge a hidrelétrica, que é atualmente a principal fonte de energia do Brasil.
+
+O que é Eletricidade Estática?
+
+A eletricidade estática é o processo de concentração de cargas elétricas em repouso que, a partir do contato ou aproximação com outro corpo se atrita e, transferindo carga para esse corpo, manifesta-se.
+
+Exemplo disso são as explosões que podem acontecer com materiais inflamáveis.
+
+A eletricidade estática é objeto de estudo da área eletrostática, tal como foi mencionado acima.
+
+Eletricidade e Magnetismo
+
+Eletricidade e Magnetismo são ambos fenômenos que se relacionam entre si. Uma vez que o magnetismo tem a capacidade de atrair corpos, a eletricidade, por sua vez, produz um efeito magnético na medida em que está sujeita a condutores que permitem a sua movimentação.
+
+O eletromagnetismo se ocupa da relação estabelecida entre eletricidade e magnetismo.
