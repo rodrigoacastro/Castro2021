@@ -1,0 +1,10 @@
+.;Freq
+Process_Medium_Range;260
+Agent_Process_Medium; 79
+Process_Medium; 79
+Agent_Process; 17
+Agent_Process_Range;  5
+Agent_Process_Medium_Range;  2
+Agent_Process_Beneficiary;  1
+Agent_Process_Medium_Beneficiary;  1
+Process_Medium_Range_Beneficiary;  1
