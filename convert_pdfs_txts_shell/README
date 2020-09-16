@@ -1,11 +1,15 @@
+THIS PROCESS ONLY WORKS IN WINDOWS, IF THIS FOLDER IS IN THE DESKTOP
+
 In order to convert pdf files to txt format, all these folders must be together in a master folder (let's say "convert_pdfs_txts_shell", so all you need to do is:
 
-1) put all pdf files you want to convert in the folder "pdf_files"
-2) run the file "pdf2text_currentdir.sh"
-3) check in the command line window if there was any error in the conversion process
-4) if not, collect the converted txt files in the folder "txt_files"
-5) open the txt files and verify their quality (some errors are expected but the file should not be completely corrupted)
-6) remove the correctly converted txt files from the "txt_files" folder and their respective pdfs from the "pdf_files"
-7) as a last measure,  try the process again for those that were not converted after doing step 6
+1) check if the folder "convert_pdfs_txts_shell" is in your desktop
+2) put the folder "convert_pdfs_txts_shell" with all the other files and folders inside
+3) put all pdf files you want to convert in the folder "pdf_files"
+4) run the file "pdf2text_currentdir.sh"
+5) check in the command line window if there was any error in the conversion process
+6) if not, collect the converted txt files in the folder "txt_files"
+7) open the txt files and verify their quality (some errors are expected but the file should not be completely corrupted)
+8) remove the correctly converted txt files from the "txt_files" folder and their respective pdfs from the "pdf_files"
+9) as a last measure,  try the process again for those that were not converted after doing step 6
 
-Other than that, good work!
+If you reached this point, good work! Other than that, you can send me a message so I can try to help you.
