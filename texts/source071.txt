@@ -1,0 +1,29 @@
+Eletricidade
+
+A Eletricidade é a parte da Física que se dedica à compreensão de qualquer fenômeno relacionado com o repouso ou movimento de cargas elétricas.
+
+A Eletricidade é o ramo da Física que se dedica à compreensão de todos os fenômenos de origem elétrica. Cotidianamente existem inúmeros fenômenos e equipamentos que funcionam a partir da eletricidade. O corpo humano, por exemplo, usa princípios elétricos para executar algumas de suas funções, como é o caso da transformação das imagens que atingem a retina em pulsos elétricos que se direcionam para o cérebro.
+
+Origem
+
+O filósofo Tales de Mileto (624 a.C. – 546 a.C.) observou que a seiva de árvore cristalizada, denominada de âmbar, após ser atritada com pedaços de lã, adquiria a propriedade de atrair pequenos materiais, como fragmentos de madeira e palha. Novos estudos sobre Eletricidade só foram desenvolvidos no século XVII com os experimentos de eletrização por atrito desenvolvidos por Otto Von Guericke. A partir de então, inúmeros estudos relacionados com a corrente elétrica e formas de geração e uso da eletricidade ocorreram.
+
+No século XIX, a partir de experimentos realizados por Oersted, verificou-se que a eletricidade poderia gerar magnetismo e vice-versa. A partir de então, foram intensificados os estudos sobre eletricidade e magnetismo, o que deu origem ao desenvolvimento do Eletromagnetismo. A energia elétrica gerada por hidroelétricas, usinas nucleares ou termoelétricas, por exemplo, é produzida a partir de processos eletromagnéticos.
+
+A palavra grega para âmbar é eléktron, logo, essa é a raiz dos termos elétrico, eletricidade, elétron etc.
+
+Subdivisões da Eletricidade
+
+O estudo da Eletricidade em Física é feito em três partes, a saber:
+
+1. Eletrostática
+
+A Eletrostática estuda o comportamento e a interação entre cargas elétricas totalmente em repouso. Os principais conceitos estudados em Eletrostática são os processos de eletrização, força de interação elétrica entre cargas, campo elétrico e potencial elétrico.
+
+2. Eletrodinâmica
+
+A Eletrodinâmica dedica-se à compreensão dos fenômenos que envolvem as cargas elétricas em movimento. Os principais conceitos relacionados com a Eletrodinâmica são: corrente elétrica, circuitos elétricos, resistores, geradores elétricos, receptores elétricos e capacitores.
+
+3. Eletromagnetismo
+
+O Eletromagnetismo analisa os fenômenos que relacionam Eletricidade e Magnetismo. Os fenômenos e efeitos relacionados com a indução eletromagnética são o principal objeto de estudo em Eletromagnetismo.
