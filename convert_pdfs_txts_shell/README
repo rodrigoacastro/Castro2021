@@ -1,4 +1,4 @@
-In order to convert pdf files to txt format, all these folders must be together, so all you need to do is:
+In order to convert pdf files to txt format, all these folders must be together in a master folder (let's say "convert_pdfs_txts_shell", so all you need to do is:
 
 1) put all pdf files you want to convert in the folder "pdf_files"
 2) run the file "pdf2text_currentdir.sh"
