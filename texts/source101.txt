@@ -1,0 +1,740 @@
+Célula
+
+Capítulo 1
+
+1  HISTÓRICO
+A invenção de lentes de aumento e a sua combinação no microscópio permitiu uma maior compreensão dos constituintes dos organismos.
+Em 1590, os irmãos Jansen inventaram o microscópio.1 Em 1611, Kepler apresentou o projeto de um microscópio composto.2 Em 1665, o físico e biólogo Robert Hooke analisou fatias de cortiça em um microscópio composto construído por ele. Este aparelho conferia um aumento de 270 vezes. Ele observou compartimentos, os quais designou células (cell em inglês, do latim cella, que significa câmara, pequeno cômodo).3,4,5
+O microscopista holandês Antoni van Leeuwenhoek (1632-1723) dedicava-se à fabricação de microscópios e à pesquisa. Colecionou 419 lentes e 247 microscópios. Foi o primeiro a registrar células livres. Em 1674, relatou a descoberta do protozoário; em 1677, do espermatozoide humano, e, em 1683, da bactéria.6,7,8
+Com a melhoria dos microscópios compostos, Robert Brown, em 1833, descobriu um elemento esférico no centro de uma célula, denominando-o núcleo (do latim nuculeus, semente de uma noz pequena, a núcula).9,10
+Em 1838, Schleiden formulou o princípio de que todos os vegetais são constituídos de células. Em
+1 LAGO, S. R.; CARVALHO, C. R. Biologia: Citologia. São Paulo: IBEP. pp. 7, 10. 2 ALBERTS, B.; JOHNSON, A.; LEWIS, J.; RAFF, M.; ROBERTS, K.; WALTER, P. Molecular Biology of the cell. 4.ed. New York: Garland Science, 2002. p. 550. 3 GENESER, F. Histologia: com bases moleculares. 3.ed. Buenos Aires: Médica Panamericana/ Rio de Janeiro: Guanabara Koogan, 2003. p. 1. 4 HAM, A. W.; CORMACK, D. H. Histologia. 8.ed. Rio de Janeiro: Guanabara Koogan, 1983. p. 3. 5 LAGO & CARVALHO. Op. cit., pp. 7, 10. 6 ALBERTS et al. Op. cit., p. 550. 7 LEEUWENHOEK, A. Observationes D. Anthonii Lewenhoeck, de natis è semine genitali animalculis. R. Soc. (Lond.) Philosoph. Trans., v. 12, pp. 1040-1046, 1677. Disponível em: http://rstl.royalsocietypublishing.org/content/12/133-142/1040 [acessado em 29 de maio de 2014] 8 MORAES, E. G. S. Espermocitologia: espermocitograma em critério estrito. 2.ed. Caxias do Sul: Ed. da Universidade de Caxias do Sul, 2007. p. 59. 9 GENESER. Op. cit., p. 1. 10 LAGO & CARVALHO. Op. cit., p. 8.
+
+1839, o anatomista e fisiologista alemão Theodor Schwann (1810-1882) estendeu esse princípio para os animais. Assim, foi estabelecida a teoria celular, que afirma que a célula é a menor unidade de vida.11,12,13
+2  CONCEITO
+A célula é a menor unidade estrutural e funcional dos organismos. Unidade estrutural porque as células constituem os tecidos e os órgãos, e unidade funcional porque são capazes de exercer as funções básicas da vida, como metabolismo, produção de energia e reprodução.14,15
+3  CLASSIFICAÇÃO
+As células são classificadas em procariontes e eucariontes (do grego pro, primeiro; eu, verdadeiro, e karyon, noz, núcleo).16 Os procariontes surgiram muito antes dos eucariontes. Há datação de fósseis de procariontes de três bilhões de anos. Os eucariontes apareceram provavelmente há um bilhão de anos.17
+Os procariontes são as células que não possuem envoltório nuclear delimitando o material genético. Não possuem também organelas membranosas e citoesqueleto, de modo que não ocorre o transporte de vesículas envolvidas na entrada (endocitose) e na saída (exocitose) de substâncias. É o caso das bactérias e das algas azuis.18,19
+As células eucariontes possuem envoltório nuclear, formando um núcleo verdadeiro, o que protege o DNA do movimento do citoesqueleto. O
+11 GENESER. Op. cit., p. 1. 12 LAGO & CARVALHO. Op. cit., p. 8. 13 MARQUES, M. J. Células de Schwann. In: CARVALHO, H. F.; COLLARES-BUZATO, C. B. Células: uma abordagem multidisciplinar. Barueri: Manole, 2005. p. 248. 14 DE ROBERTIS, E. M. F.; HIB, J. De Robertis Bases da Biologia celular e molecular. 3.ed. Rio de Janeiro: Guanabara Koogan, 2001. p. 1. 15 ROSS, M. H.; PAWLINA, W. Histologia: texto e atlas, em correlação com Biologia celular e molecular. 6.ed. Rio de Janeiro: Guanabara Koogan, 2012. pp. 24, 104. 16 HAM & CORMACK. Op. cit., p. 7. 17 DE ROBERTIS & HIB. Op. cit., pp. 3-4. 18 Ibid. 19 JUNQUEIRA, L. C.; CARNEIRO, J. Biologia celular e molecular. 9.ed. Rio de Janeiro: Guanabara Koogan, 2013. pp. 3-4, 14-15, 296.
+1
+
+TATIANA MONTANARI
+
+citoplasma dos eucariontes, diferente daquele dos procariontes, é subdividido em compartimentos, aumentando a eficiência metabólica, o que permite que atinjam maior tamanho sem prejuízo das suas funções. Essas células são encontradas nos protozoários, fungos, plantas e animais.20,21
+O Quadro 1.1 resume as principais características diferenciais entre procariontes e eucariontes.
+4  A MICROSCOPIA COMO MÉTODO DE ESTUDO
+Os microscópios permitem a observação da célula e da sua estrutura pelo aumento proporcionado através das suas lentes.
+4.1  Constituintes do microscópio de luz
+O microscópio de luz (Figura 1.1) é composto por uma parte mecânica, que serve de suporte;22 uma parte óptica, que amplia o objeto visualizado, e uma fonte de iluminação, que consiste na luz comum, o que justifica o seu nome.
+A parte mecânica inclui a base (ou pé), o braço, o tubo (ou canhão), o revólver, a platina (ou mesa), o chariot e os diafragmas de campo luminoso e do condensador. O equipamento deve ser segurado pelo braço e pela base para ser transportado. O tubo e o revólver são os locais onde as lentes de aumento são inseridas. A lâmina é colocada sobre a platina para observação e é deslocada pelo chariot. Os diafragmas regulam a passagem do feixe luminoso (Figura 1.1).23
+A parte óptica é constituída por três sistemas de lentes: o condensador, as objetivas e as oculares. O condensador concentra a luz e a projeta como um cone sobre o objeto em estudo. A luz passa por ele e penetra na objetiva. A objetiva projeta uma imagem aumentada do objeto em direção à ocular, a qual amplia a imagem recebida e a projeta para a retina do observador (Figura 1.1).24
+As objetivas permitem diferentes aumentos do objeto, podendo ser, por exemplo, de 5, 10, 40 e 100x. Elas também diferem na qualidade da imagem devido à sua abertura numérica. Na objetiva de 5x, ela é
+20 ALBERTS et al. Op. cit., p. 30. 21 JUNQUEIRA & CARNEIRO. Biologia celular e molecular. Op. cit., pp. 3-5, 14-16, 293, 296. 22 Ibid. p. 22. 23 BEÇAK, W.; PAULETE, J. Técnicas de Citologia e Histologia. Rio de Janeiro: Livros Técnicos e Científicos, 1976. pp. 3, 10. 24 JUNQUEIRA & CARNEIRO. Biologia celular e molecular. Op. cit., p. 22.
+
+0,12; na objetiva de 10x, 0,25; na objetiva de 40x, 0,65, e, na objetiva de 100x, 1,25.25
+A abertura numérica (AN) é calculada multiplicando o índice de refração da substância interposta entre o objeto e a lente objetiva (n) pelo seno do semiângulo do cone de luz captado pela objetiva (u), ou seja, AN = n x sen u.26,27
+Nas objetivas de 5 a 40x, o ar é esta substância, e o seu índice de refração é igual a 1, mas, na objetiva de 100x, o óleo de imersão deve ser colocado entre a lâmina e a objetiva, e o índice de refração é 1,515, o que aumenta a abertura numérica e consequentemente a qualidade da imagem.28
+As objetivas trazem inscrições que especificam suas características:29,30,31 Ex: Plan 40/ 0,65
+/ 0,17 sendo: Plan - objetiva planacromática (objetiva com imagem plana e acromática);
+40 - aumento de 40x; 0,65 - valor da abertura numérica;  - óptica infinita, o que permite que o comprimento do tubo (a distância da rosca da objetiva até a ocular) seja modificado pelo acoplamento de acessórios, como câmara fotográfica ou câmara CCD para monitor. Antigamente, com a óptica comum, o tubo era de 160mm, a distância onde a imagem era formada na ocular; 0,17 - espessura em milímetros da lamínula que deve ser usada sobre a lâmina.
+As oculares também variam no aumento que fornecem. O aumento mais usado é o de 10x. Atualmente as oculares são de campo amplo, permitindo um maior campo de visão.
+A ampliação do objeto é igual ao aumento da objetiva multiplicado pelo aumento da ocular. Entretanto não basta o aumento da imagem, deve haver um discernimento dos detalhes, o que é dado pelo poder de resolução do sistema óptico.32,33
+25 CARL ZEISS MICROSCOPY. Axiostar transmitted-light microscope operating manual. Göttingen, 1999. n. B 40-031. p. 1.7. 26 HAM & CORMACK. Op. cit., p. 16. 27 MOELLRING, F. K. La microscopía desde el principio. Oberkochen: Carl Zeiss. p. 39. 28 Ibid. 29 CARL ZEISS MICROSCOPY. Op. cit., p. 1.6. 30 MELLO, M. L. S.; VIDAL, B. de C. Práticas de Biologia celular. São Paulo: Edgar Blücher; Campinas: Fundação de Desenvolvimento da UNICAMP, 1980. pp. 2-3. 31 MOELLRING. Op. cit., p. 28. 32 BEÇAK & PAULETE. Op. cit., p. 7. 33 JUNQUEIRA, L. C.; CARNEIRO, J. Histologia básica: texto e atlas. 12.ed. Rio de Janeiro: Guanabara Koogan, 2013. p. 4.
+2
+
+HISTOLOGIA
+
+Quadro 1.1 - Quadro comparativo entre procariontes e eucariontes:34,35
+
+Procariontes
+
+Eucariontes
+
+Envoltório extracelular: cápsula e parede bacteriana Envoltório extracelular: glicocálix (glicoproteínas,
+
+(proteínas e glicosaminoglicanos)
+
+glicolipídios e proteoglicanas) ou parede celular (celulose e
+
+pectina)
+
+Abundância de moléculas de lipopolissacarídeo na membrana plasmática, que conferem proteção como a resistência às enzimas hidrolíticas e aos sais biliares das bactérias entéricas
+
+Membrana plasmática constituída por fosfolipídios, colesterol, glicolipídios, glicoproteínas e proteoglicanas
+
+Ausência de organelas membranosas
+
+Presença de organelas membranosas
+
+Moléculas da cadeia respiratória presentes na membrana Moléculas da cadeia respiratória situadas na membrana
+
+interna da membrana plasmática
+
+interna das mitocôndrias
+
+Nucleoide: ausência de envoltório nuclear, DNA circular, Núcleo: presença de envoltório nuclear, moléculas de DNA
+
+não associado a proteínas histônicas e que não se condensa lineares, associadas a histonas e que se condensam em
+
+em cromossomos
+
+cromossomos no momento da divisão
+
+Presença de filamentos circulares de DNA Não há plasmídeos extracromossômicos (plasmídeos)
+
+Ribossomos livres; coeficiente de sedimentação do Ribossomos livres ou associados ao retículo
+
+ribossomo: 70S (subunidades ribossômicas: 50S+30S)
+
+endoplasmático; coeficiente de sedimentação do
+
+ribossomo: 80S (subunidades ribossômicas: 60S+40S)
+
+Não há separação entre os processos de duplicação de DNA (replicação), síntese de RNA a partir do DNA (transcrição) e síntese de proteínas a partir do RNA (tradução)
+
+Há separação entre os processos de replicação e transcrição, que ocorrem no núcleo, e a tradução, que acontece no citoplasma
+
+Ausência de citoesqueleto
+
+Presença de citoesqueleto
+
+Não realizam endocitose e exocitose
+
+Realizam endocitose e exocitose
+
+Frequentemente partem da superfície prolongamentos filamentosos: os flagelos e as fímbrias. Os flagelos são estruturas rígidas, constituídas por três espirais da polimerização da proteína flagelina e com um gancho na ponta, que servem para a movimentação da bactéria ao encontro de nutrientes ou afastando-se de substâncias tóxicas. As fímbrias são mais curtas e mais finas que os flagelos e promovem a aderência das bactérias às células hospedeiras ou a transferência de DNA entre duas bactérias durante a conjugação
+
+Não há fímbrias e, naquelas células com flagelo, a sua constituição envolve a polimerização da proteína tubulina
+
+Fissão
+
+Mitose ou meiose
+
+34 DE ROBERTIS & HIB. Op. cit., pp. 3-5. 35 JUNQUEIRA & CARNEIRO. Biologia celular e molecular. Op. cit., pp. 3-5, 16, 293-297, 300, 304, 306.
+3
+
+TATIANA MONTANARI
+
+Figura 1.1 - Componentes do microscópio de luz: 1 - oculares; 2 - tubo (ou canhão); 3 - braço; 4 - parafuso que fixa o tubo; 5 botão que regula a intensidade luminosa; 6 - interruptor; 7 - parafuso micrométrico; 8 - parafuso macrométrico; 9 - parafuso do chariot (movimento lateral); 10 - parafuso do chariot (movimento anteroposterior); 11 - diafragma do campo luminoso; 12 - suporte da lente condensadora; 13 - alavanca do diafragma do condensador; 14 - lente condensadora (ou condensador); 15 - parafusos de centralização; 16 - platina (ou mesa); 17 - objetivas, e 18 - revólver. Fonte: Carl Zeiss Microscopy. Axiostar transmitted-light microscope operating manual. Göttingen, 1999. n. B 40-031. p. 1.2. Cortesia Carl Zeiss do Brasil Ltda.
+
+Resolução é a menor distância para que dois pontos sejam visualizados separadamente. O limite de resolução (d) é calculado dividindo o comprimento de onda (λ) da luz empregada pela abertura numérica da lente condensadora (ANcond) e da objetiva (ANobj), isto é, d = λ / ANcond + Anobj.36
+Embora a iluminação desse tipo de microscópio seja a luz branca, para o cálculo do limite de resolução, usa-se a faixa do verde-amarelo (0,55m) para a qual o olho é mais sensível. Considerando 0,9 e 1,25 a abertura numérica da condensadora e da objetiva de 100x, respectivamente, o limite de resolução é, portanto, 0,25m (1m = 1mm/1000, isto é, um micrômetro corresponde a um milésimo de milímetro).37,38,39
+36 MOELLRING. Op. cit., p. 40. 37 BEÇAK & PAULETE. Op. cit., p. 8. 38 MOELLRING. Op. cit., p. 40.
+
+O limite de resolução do olho humano é de 0,2mm.40
+4.2  Preparo do material
+Para a formação da imagem ao microscópio de luz, o material biológico deve ser fino o suficiente para a luz atravessá-lo.41 Podem ser realizados esfregaços de sangue e sêmen, por exemplo. A gota do material é espalhada na lâmina com o auxílio de uma outra lâmina posicionada em ângulo de 45. Células obtidas por raspagem da mucosa oral ou do
+39 ROSS & PAWLINA. Op. cit., pp. 2, 13, 15. 40 Ibid. p. 15. 41 WEISS, L. A Célula. In: WEISS, L.; GREEP, R. O. Histologia. 4.ed. Rio de Janeiro: Guanabara Koogan, 1981. pp. 3, 11.
+4
+
+HISTOLOGIA
+
+colo uterino no exame de Papanicolaou são espalhadas na lâmina com a própria espátula da coleta. Órgãos ou parte destes, no entanto, devem ser cortados em fatias bem finas.42,43
+Para a obtenção de cortes histológicos, o primeiro passo é fixar o material coletado para evitar a autólise e preservar a morfologia e a composição química do tecido. Fixadores bastante usados são o formol (ou paraformaldeído), o glutaraldeído e misturas fixadoras, como o líquido de Bouin, que é preparado com formol, ácido acético e ácido pícrico, onde cada substância tem uma qualidade e corrige o defeito da outra.44
+O material biológico deve ser endurecido para ser cortado, o que é conseguido incluindo-o em uma substância que se solidifica depois de penetrá-lo, como, por exemplo, a parafina. Para isso o órgão ou um pedaço deste, após a fixação, deve ser desidratado em uma série alcoólica de concentração crescente e diafanizado em xilol. Na estufa, a 50-56oC, ele é impregnado por parafina líquida. Depois é colocado em um molde (uma caixinha de papel, por exemplo), com mais parafina líquida. Como essa última etapa é feita fora da estufa, à temperatura ambiente, a parafina solidifica-se, formando um bloco.45
+Esse bloco é cortado em um aparelho especial, o micrótomo, em fatias de 5 a 8m de espessura.46 Os cortes são dispostos em lâminas de vidro.
+Como os tecidos são geralmente incolores, os histologistas inventaram soluções corantes que têm afinidades diferentes para certas organelas e estruturas, possibilitando a sua localização.47 Para o material ser corado, a parafina deve ser dissolvida, o que é obtido colocando a lâmina em xilol, e o tecido precisa ser hidratado, já que esses corantes são solúveis em água. A hidratação é conseguida passando a lâmina em uma série alcoólica decrescente e em água. A lâmina é então mergulhada nos corantes.48
+Uma técnica de coloração muito usada é a hematoxilina e eosina (HE). A hematoxilina é um corante azul-violeta, rico em cargas positivas (corante catiônico), e a eosina é um corante rosa, rico em cargas negativas (corante aniônico). As cargas
+42 BEÇAK & PAULETE. Op. cit., pp. 98-99. 43 TABOGA, S. R.; VILAMAIOR, P. S. L. Métodos de estudo da célula. In: CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. pp. 55-57. 44 BEHMER, O. A; TOLOSA, E. M. C. de; FREITAS NETO, A. G. de. Manual de Técnicas para Histologia normal e patológica. São Paulo: EDART, Ed. da Universidade de São Paulo, 1976. pp. 27-32. 45 Ibid. p. 42. 46 HAM & CORMACK. Op. cit., p. 13. 47 JUNQUEIRA & CARNEIRO. Biologia celular e molecular. Op. cit., p. 22. 48 ROSS & PAWLINA. Op. cit., p. 2.
+
+positivas da hematoxilina ligam-se a cargas negativas do tecido, como os grupos fosfato (-PO42-) dos ácidos nucleicos, o que faz com que o núcleo da célula fique corado em azul, violeta ou roxo. As cargas negativas da eosina ligam-se a cargas positivas do tecido, como os radicais amino (-NH3+) das proteínas básicas do citoplasma, tornando-o rosa ou avermelhado.49,50,51
+A despeito da definição atual em química para base e ácido (base é a substância capaz de aceitar prótons, e ácido é aquela que doa prótons), tradicionalmente os corantes catiônicos são referidos como básicos, e os aniônicos, como ácidos. Nesse caso, corante básico é aquele capaz de formar uma ligação eletrostática com grupos carregados negativamente no tecido, enquanto o corante ácido forma uma ligação eletrostática com grupos positivos do tecido.52
+As regiões do tecido coradas pela hematoxilina são ditas basófilas pela afinidade ao corante básico, enquanto aquelas coradas pela eosina são ditas acidófilas ou eosinófilas.53
+Além da hematoxilina, são corantes básicos (ou seja, catiônicos) comumente usados o azul de metileno, o azul de toluidina, o azul de Alcian (Alcian blue) e a fucsina básica. Outros exemplos de corantes ácidos (aniônicos) são o xylidine ponceau, o sirius red, o fast green, o orange G, a floxina, o azul de anilina e o verde luz.54,55
+As moléculas de alguns corantes básicos, como o azul de toluidina, polimerizam-se umas com as outras quando expostas a altas concentrações de poliânions no tecido. A propriedade de absorção desses agregados difere daquela da molécula individual, modificando a cor exibida. Assim, no caso do azul de toluidina, ao invés de azul, a estrutura cora-se em púrpura. Essa alteração de absorvência é denominada metacromasia.56,57
+Na citoquímica ou histoquímica, técnicas de coloração evidenciam componentes específicos da célula. A reação do ácido periódico - Schiff (PAS de periodic acid - Schiff) é utilizada para corar carboidratos, como o glicogênio e as glicoproteínas.
+49 GARTNER, L. P.; HIATT, J. L. Tratado de Histologia em cores. 3.ed. Rio de Janeiro: Elsevier, 2007. p. 2. 50 HAM & CORMACK. Op. cit., pp. 14-15. 51 PADYKULA, H. A. Histoquímica e citoquímica. In: WEISS, L.; GREEP, R. O. Histologia. 4.ed. Rio de Janeiro: Guanabara Koogan, 1981. pp. 78-79. 52 GENESER. Op. cit., p. 31. 53 OVALLE, W. K.; NAHIRNEY, P. C. Netter Bases da Histologia. Rio de Janeiro: Elsevier, 2008. p. 4. 54 PADYKULA. Op. cit., pp. 77-78. 55 TABOGA, S. R.; VILAMAIOR, P. S. L. Métodos de estudo da célula. Op. cit., p. 61. 56 GARTNER & HIATT. Op. cit., p. 2. 57 ROSS & PAWLINA. Op. cit., p. 6.
+5
+
+TATIANA MONTANARI
+
+Essas substâncias são coradas de vermelho ou magenta, devido ao corante fucsina básica utilizado no preparo do reativo de Shiff. O método de Feulgen, específico para a desoxirribose do DNA, cora de vermelho ou magenta o núcleo (é o mesmo corante do PAS). O azul de Alcian cora glicosaminoglicanos (açúcares ricos em grupos sulfato e carboxila, portanto, com cargas negativas). O Sudan é utilizado para demonstrar lipídios na célula; os cortes são feitos sob congelamento e não envolvem o uso de solventes orgânicos, como o xilol, para não dissolver a gordura.58,59
+Os corantes ácidos podem ser usados em combinações para colorir de forma seletiva diferentes constituintes. Por exemplo, na técnica de Mallory, o azul de anilina cora o colágeno; a fucsina ácida, o núcleo e o citoplasma, e o orange G, as hemácias.60
+Para uma maior durabilidade do preparado, ele é desidratado em uma série alcoólica crescente e em xilol, e uma lamínula é colada sobre a lâmina com um meio de montagem, como o bálsamo-do-Canadá sintético. Agora o material está pronto para ser observado ao microscópio de luz.
+4.3  Como usar o microscópio de luz
+– retirar a capa do microscópio e guardá-la; verificar se a objetiva de menor aumento (5x) está no caminho óptico, isto é, na direção do orifício da platina (começar sempre com essa objetiva); limpar as lentes com algodão; examinar inicialmente o corte histológico a olho nu; colocar a lâmina com a lamínula voltada para cima sobre a platina, encaixada no chariot (carro em francês); ligar a fonte luminosa e regular a intensidade da iluminação;
+– deslocando o chariot com os seus parafusos, fazer coincidir o material biológico com o centro do orifício da platina; focalizar o material com o parafuso macrométrico e depois com o parafuso micrométrico; ajustar a distância interpupilar, aumentando ou diminuindo a distância entre as oculares; ajustar a dioptria, regulando o foco com o parafuso micrométrico olhando somente pela ocular fixa, depois, com esse olho fechado e o outro aberto, posicionado na ocular regulável, ajustar o foco girando o anel presente no corpo dessa ocular;
+
+mantê-los se as lentes são somente esféricas, porque o foco do aparelho compensa o defeito dos olhos. Entretanto, no caso de lentes cilíndricas, os óculos devem ser utilizados. Para confirmar se as lentes são desse tipo, observe um objeto segurando os óculos com os braços estendidos, ao girar os óculos do plano horizontal para vertical, a largura do objeto aumentará em detrimento da sua altura.61
+– para observar em aumentos maiores, trocar a objetiva de 5x para a de 10x girando o revólver e ajustar o foco com o micrométrico; nesse aumento, regular a trajetória dos raios luminosos para se obter uma excelente imagem. Essa técnica foi proposta por August Köhler, em 1893 e é, por isso, referida como iluminação de Köhler.62,63
+A iluminação de Köhler consiste em fechar o diafragma de campo luminoso, o que resulta em um ponto de luz; regular a altura do condensador, mexendo o parafuso do condensador até o ponto de luz ser visível com as bordas nítidas (a posição correta do condensador é um pouco abaixo da lâmina); centralizá-lo com os parafusos de centralização do condensador; abrir o diafragma de campo até as suas bordas coincidirem com o limite do campo do microscópio e centralizar novamente, se necessário; abrir o diafragma de campo luminoso o suficiente para as bordas não serem mais vistas, não deve ser aberto em demasia para evitar um excesso de luz no tubo, o que prejudicaria a qualidade da imagem; retirar a ocular fixa, olhar pelo tubo e regular a abertura do diafragma do condensador com a sua alavanca de modo a ter 2/3 do campo iluminados.64,65 Para evitar a retirada da ocular, pode-se posicionar a alavanca do diafragma do condensador conforme a abertura numérica especificada na objetiva. Assim, para a objetiva de 10x, cuja abertura numérica é 0,25, deve-se abrir o diafragma do condensador em ¼.
+– se a luz estiver muito fraca ou forte, ajustá-la no botão que regula a intensidade de luz. Pouca luz confere uma coloração amarelada à imagem, e luz em excesso pode prejudicar a visão;
+– se um aumento de 40x for desejado, girar o revólver posicionando essa objetiva no caminho óptico e ajustar o foco com o micrométrico; abrir o diafragma do condensador segundo a inscrição na objetiva (0,65);
+
+O aluno que usa óculos não tem necessidade de
+58 GENESER. Op. cit., pp. 32-34. 59 TABOGA & VILAMAIOR. Métodos de estudo da célula. Op. cit., pp. 62, 64-65. 60 ROSS & PAWLINA. Op. cit., p. 6.
+
+61 MOELLRING. Op. cit., pp. 13-14. 62 KÖHLER, A. Zeitschrift für wissenschaftliche Mikroskopie [Revista de
+microscopia científica], v. 10, pp. 443-440, 1893. 63 MOELLRING. Op. cit., p. 45. 64 CARL ZEISS MICROSCOPY. Op. cit., p. 3.4. 65 ROSS & PAWLINA. Op. cit., p. 12.
+6
+
+HISTOLOGIA
+
+– se um aumento de 100x for necessário, girar o revólver de maneira que a objetiva de 40x saia do caminho óptico, mas a de 100x não entre, pingar uma gota de óleo de imersão sobre o preparado e colocar a objetiva de 100x no caminho óptico. Ajustar o foco com o micrométrico. Abrir totalmente o diafragma do condensador (a abertura numérica dessa objetiva é de 1,25). Ao terminar o uso da objetiva de imersão, girar o revólver trocando-a pela de 5x (nunca pela de 40x que encostará no óleo). Limpar o óleo da objetiva e da lâmina com algodão umedecido em álcool;
+– se a objetiva de 100x não for usada, após a observação com a objetiva de 40x, retornar a colocar a objetiva de 10x e posteriormente a de 5x no caminho óptico para retirar a lâmina; ajustar o diafragma do condensador para tal abertura;
+– guardar a lâmina na caixa, no devido lugar; diminuir a intensidade luminosa e desligar o interruptor; cobrir o microscópio com a sua capa.
+4.4  Outros tipos de microscopia
+O microscópio de luz pode conter recursos que permitem uma observação diferenciada.
+A microscopia de polarização emprega um feixe de luz polarizada que permite estudar certos aspectos da organização molecular do tecido. A luz torna-se polarizada através do filtro polarizador posicionado logo abaixo do condensador. O filtro analisador colocado entre as objetivas e as oculares verifica o efeito das estruturas do tecido sobre o feixe polarizado. O plano de polarização do analisador é perpendicular à direção de vibração da luz polarizada e a absorve, tendo-se um campo escuro. Se, ao atravessar um objeto, a luz polarizada é desviada, de maneira que o plano de luz não fique mais perpendicular ao do analisador, uma imagem brilhante do objeto se forma. Esse é o caso de estruturas cristalinas ou constituídas por moléculas alongadas e paralelas, que dividem o feixe de luz em dois. Um feixe é absorvido pelo analisador, mas o outro, perpendicular ao polarizador, atravessa o analisador e formará a imagem. Essas estruturas são ditas anisotrópicas ou birrefringentes, pois apresentam dois índices de refração diferentes. As estruturas isotrópicas não são vistas, pois não desviam o plano de polarização da luz, e o feixe que passa pelo polarizador chega inalterado ao analisador, onde é retido.66,67,68
+66 JUNQUEIRA & CARNEIRO. Biologia celular e molecular. Op. cit., pp. 23-24. 67 MELLO & VIDAL. Op. cit., p. 7.
+
+A microscopia de contraste de fase permite observar células vivas, sem coloração. Quanto maior a densidade de um corpo, maior o índice de refração e menor a velocidade da luz que o atravessa. Como as estruturas celulares têm índices diferentes, dão origem a diferenças de fase entre as ondas luminosas emergentes. Dispositivos colocados na lente condensadora e nas objetivas transformam essas diferenças de fase em diferenças de amplitude, resultando uma variação na intensidade luminosa percebida pelo contraste claro e escuro.69,70
+Na microscopia de fluorescência, a luz ultravioleta é usada como radiação excitadora. Por ter menor comprimento de onda (cerca de 0,2µm), possibilita um maior poder de resolução: 0,1µm.71 Ela permite localizar constituintes celulares fluorescentes ou combinados com corantes fluorescentes diretamente ou através de anticorpos (imunocitoquímica).72
+Na microscopia confocal, um feixe de laser varre todos os pontos do plano focal do material biológico. A luz emitida pela preparação atravessa um pequeno orifício e forma uma imagem bidimensional. A série de imagens de diferentes planos focais é utilizada para reconstruir uma imagem tridimensional do objeto em um computador.73 A resolução é de 0,2 a 0,5µm.74
+O microscópio eletrônico de transmissão (MET) é um equipamento diferente do microscópio de luz. O aquecimento de um filamento de tungstênio (cátodo) emite elétrons, os quais são acelerados devido a uma diferença de potencial de 50 a 100kV entre o cátodo e o ânodo, que é uma placa metálica perfurada, com carga positiva, por onde passam os elétrons. Lentes (bobinas) eletromagnéticas concentram o feixe. A lente condensadora focaliza o feixe no plano do objeto; a lente objetiva forma a imagem do objeto, e as lentes projetoras ampliam a imagem, projetando-a sobre a tela fluorescente (o ecran), o filme fotográfico ou a câmara para captura.75
+Pelo menor comprimento de onda (0,1nm), o feixe de elétrons permite maior poder de resolução que a luz. O limite de resolução do microscópio eletrônico é de 1nm. Um nanômetro é um milésimo de micrômetro (1nm = 1m/1000) ou um milionésimo de
+68 TABOGA, S. R.; VILAMAIOR, P. S. L. Microscopias. In: CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. p. 47. 69 BEÇAK & PAULETE. Op. cit., pp. 11-13. 70 JUNQUEIRA & CARNEIRO. Biologia celular e molecular. Op. cit., p. 24. 71 ROSS & PAWLINA. Op. cit., p. 19. 72 TABOGA & VILAMAIOR. Microscopias. Op. cit., p. 49. 73 GENESER. Op. cit., p. 19. 74 ROSS & PAWLINA. Op. cit., p. 19. 75 GENESER. Op. cit., p. 20.
+7
+
+TATIANA MONTANARI
+
+milímetro.76 Consegue-se aumentos superiores a 500.000 vezes.77
+Devido ao baixo poder de penetração do feixe de elétrons, os cortes devem ser ultrafinos, com 40 a 80nm. Para tanto o material deve ser incluído em resinas muito mais duras do que a parafina. Antigamente usava-se para esse fim um material plástico, o metacrilato, mas atualmente são usadas resinas epóxi, como Epon, Araldite ou Spur. O bloco é cortado com navalha de vidro ou diamante em um ultramicrótomo.78,79
+Os elétrons são desviados por porções do objeto que contêm átomos de elevado peso molecular. Essas regiões ficam escuras, são eletrodensas. As partes da amostra através das quais os elétrons passam aparecem claras, são eletrolúcidas. Para aumentar o contraste impregna-se os cortes de tecido com metais pesados, como o ósmio, o chumbo e o urânio.80
+Cortes semifinos (0,5 a 2µm) podem ser efetuados para serem observados ao microscópio de luz. Os cortes são dispostos em lâminas de vidro e corados geralmente com azul de metileno ou azul de toluidina, corantes tiazínicos que exibem metacromasia. Assim, os componentes do tecido são corados em azul, quando ortocromáticos, e em rosa, quando metacromáticos.81,82
+As estruturas celulares são melhor visualizadas nos cortes semifinos do que naqueles de parafina. Enquanto, nos cortes de parafina, com 3 a 8µm de espessura, a resolução é raramente inferior a 0,6µm, nos cortes de resina acrílica ou epóxi, com 0,5 a 2µm de espessura, ela se aproxima ao valor teórico do microscópio de luz, que é da ordem de 0,2µm.83
+No microscópio eletrônico de varredura (scanning electron microscope), os elétrons não atravessam o objeto. A preparação é recoberta por uma camada delgada de metal pesado (por exemplo, ouro ou paládio) e bombardeada com feixe de elétrons muito estreitos (10nm de diâmetro), que varrem o material linearmente. Os elétrons refletidos e emitidos são captados por detectores que geram uma imagem tridimensional da superfície da amostra em um monitor. O poder de resolução é de apenas 10nm, mas
+76 ROSS & PAWLINA. Op. cit., pp. 2, 15, 20. 77 GENESER. Op. cit., p. 20. 78 BEÇAK & PAULETE. Op. cit., p. 20. 79 HAM & CORMACK. Op. cit., p. 28. 80 Ibid. 81 LOWE, J. S.; ANDERSON, P. G. Stevens & Lowe´s Human Histology. 4.ed. Philadelphia: Elsevier, Mosby, 2015. p. 7. 82 PADYKULA. Op. cit., pp. 79, 81. 83 LOWE & ANDERSON. Op. cit., pp. 5, 7-8.
+
+a nitidez da profundidade da imagem é de até 10 vezes maior àquela obtida com o microscópio de luz.84,85
+Na criofratura (freeze-fracture), o tecido congelado é fraturado com o golpe de uma navalha e uma réplica da superfície é realizada pela evaporação de platina. O tecido é digerido por uma substância que não ataca a réplica, e ela é observada ao microscópio eletrônico de transmissão. Como a evaporação é oblíqua, nas estruturas salientes, a deposição é maior no lado proximal, ficando este mais escuro, enquanto o lado distal fica mais claro e, nas depressões, ocorre o inverso. Isso ressalta o relevo da superfície. O grão de platina permite uma resolução inferior a 3nm.86
+5  MORFOLOGIA CELULAR
+O tamanho e a forma da célula estão relacionados à sua função e são determinados por fatores extrínsecos e intrínsecos, como, por exemplo, pressões externas, organização do citoesqueleto, quantidade de citoplasma e de organelas e acúmulo de produtos de reserva ou secreção.87
+As células epiteliais são geralmente poliédricas, ou seja, com várias faces.88 Quando a largura e o comprimento da célula são maiores que a sua altura, a célula é dita pavimentosa. Quando a altura é igual à largura e ao comprimento, é denominada cúbica. Quando a altura da célula é maior que a sua largura e o seu comprimento, a célula é colunar (cilíndrica ou prismática). As células pavimentosas facilitam a passagem de substâncias como ocorre com as células dos vasos sanguíneos (endotélio). As células cúbicas e colunares têm a altura aumentada pela maior presença de organelas para exercer atividade de secreção, absorção ou transporte de íons (Figuras 1.2 e 1.3).89
+O núcleo geralmente reflete a morfologia da célula, pois seu maior eixo é paralelo ao eixo longitudinal da célula. Como frequentemente não se veem os limites das células (a membrana plasmática é muito fina e não é visível ao microscópio de luz), pode-se ter uma ideia da forma da célula pelo núcleo.
+90,91
+84 GARTNER & HIATT. Op. cit., pp. 7, 10. 85 GENESER. Op. cit., p. 21. 86 WEISS. Op. cit., p. 12. 87 HADLER, W. A.; SILVEIRA, S. R. Histofisiologia dos epitélios: correlação entre a morfologia e a função dos epitélios. Campinas: Ed. da UNICAMP, 1993. pp. 10, 13, 15. 88 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 66. 89 OVALLE & NAHIRNEY. Op. cit., pp. 31-34. 90 GENESER. Op. cit., p. 43. 91 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 67.
+8
+
+HISTOLOGIA
+
+T. Montanari
+Figura 1.2 - Imagem obtida ao microscópio de luz de células pavimentosas ( ) de um vaso sanguíneo e de células cúbicas ( ) de um túbulo renal. HE. Objetiva de 100x (1.373x).
+
+T. Montanari Figura 1.4 - Célula adiposa. HE. Objetiva de 100x.
+
+Isso não é válido para células que retêm seus
+produtos de secreção ou de reserva, porque o núcleo fica comprimido por essas substâncias.92 É o caso da célula caliciforme do intestino, que sintetiza e
+armazena glicoproteínas (Figura 1.3).
+
+T. Montanari
+Figura 1.3 - Fotomicrografia de células colunares e de células caliciformes ( ) no intestino. M - microvilos. HE. Objetiva de 100x (1.373x).
+
+No tecido conjuntivo, há uma grande variabilidade de células e consequentemente formas celulares. Ocorre inclusive mudanças na morfologia em um tipo celular conforme o estado funcional e o ambiente. Por exemplo, as células adiposas, inicialmente fusiformes, adquirem uma forma esférica com o armazenamento de lipídios (Figura 1.4) e, no tecido adiposo, por causa da compactação, podem ser poliédricas.93
+No tecido nervoso, é muito comum células irregulares, com prolongamentos que permitem o contato com outras células (Figura 1.5).94
+
+T. Montanari
+Figura 1.5 - Astrócito (forma estrelada) fazendo contato com os prolongamentos de um neurônio (piramidal). É apontado um oligodendrócito próximo ao prolongamento do neurônio. Cérebro. Método de Golgi. Objetiva de 100x (1.373x).
+As células musculares têm uma maior constância na morfologia, sendo adaptadas à atividade contrátil. São alongadas: fusiformes ou cilíndricas e, quando se contraem, promovem o encurtamento do tecido (Figura 1.6).95
+
+92 HADLER & SILVEIRA. Op. cit., p. 10. 93 GARTNER & HIATT. Op. cit., pp. 118, 132. 94 GENESER. Op. cit., p. 2
+
+95 Ibid.
+
+9
+
+TATIANA MONTANARI
+
+T. Montanari Figura 1.6 - Corte longitudinal do músculo estriado cardíaco. HE. Objetiva de 40x (550x).
+6  COMPONENTES CELULARES
+6.1  Membrana celular e citoesqueleto
+6.1.1  Constituição da membrana celular
+Delimitando a célula, há a membrana celular (ou plasmática), que mede 9 a 10nm de espessura (nas organelas, a membrana tem cerca de 7nm) e, portanto, não é visível ao microscópio de luz. Ela se apresenta ao microscópio eletrônico como uma estrutura trilaminar: duas linhas escuras separadas por uma linha central clara, o que é designada unidade de membrana (Figura 1.7).96
+
+Os fosfolipídios são o principal componente da bicamada lipídica. Eles são anfipáticos, ou seja, exibem uma porção polar (hidrofílica), a cabeça, e uma porção apolar (hidrofóbica), a cauda, que corresponde a duas cadeias de ácidos graxos, sendo uma delas geralmente insaturada, o que provoca uma pequena dobra na cauda (Figura 1.9). Em meio aquoso, os fosfolipídios organizam-se em duas camadas com a porção hidrofóbica voltada para o interior e a porção hidrofílica para o exterior (Figura 1.8). Cadeias de ácido graxos mais curtas e cadeias insaturadas aumentam a fluidez da membrana.99
+O colesterol é responsável pela estabilidade mecânica da bicamada, devido à interação do seu anel esteroide com as regiões hidrocarbonadas da cauda dos outros lipídios. Essa interação diminui a permeabilidade da bicamada a pequenas moléculas solúveis em água.100
+As proteínas estão arranjadas assimetricamente na membrana. Podem ser classificadas em: integrais, periféricas, ancoradas à membrana e semi-inseridas. As proteínas integrais (ou transmembranas) são anfipáticas e estão inseridas na bicamada lipídica, de modo que para sua extração é necessário dissolver a membrana com solventes orgânicos. As proteínas periféricas estão ligadas não covalentemente a outras proteínas ou à superfície lipídica e são extraídas por métodos que preservam a integridade da membrana, como variação de pH, eliminação de Ca2+ e tratamento com EDTA. As proteínas ancoradas à membrana são ligadas covalentemente aos fosfolipídios (processos de acilação ou prenilação na face citosólica e âncora de glicofosfatidilinositol na face não citosólica), exigindo métodos drásticos para sua extração. As proteínas semiinseridas estão posicionadas na parte hidrofóbica da membrana e na parte hidrofílica do citosol (Figura 1.8).
+101,102,103
+As proteínas de membrana podem servir como proteínas estruturais, enzimas, ligantes, canais, carreadores e receptores. As proteínas ligantes ancoram o citoesqueleto à matriz extracelular. Os canais e os carreadores permitem a passagem de substâncias. Os receptores geralmente correspondem à porção oligossacarídica das glicoproteínas e dos glicolipídios e ligam-se a hormônios e a outras moléculas que influenciam o funcionamento celular.104
+
+Figura 1.7 - Imagem obtida ao microscópio eletrônico de transmissão de células germinativas vizinhas, mostrando a membrana plasmática com sua aparência trilaminar, denominada unidade de membrana ( ). 15.000x.
+
+A porção glicídica das glicoproteínas, dos glicolipídios e das proteoglicanas da membrana
+
+A membrana celular é uma bicamada lipídica, com proteínas, glicoproteínas, glicolipídos e proteoglicanas inseridas. Esse arranjo recebeu o nome de modelo mosaico fluido (Figura 1.8).97,98
+96 HAM & CORMACK. Op. cit., pp. 101-103. 97 ALBERTS et al. Op. cit., pp. 584, 592-593, 598, 612-613.
+
+98 SANTOS JÚNIOR, A. R. dos; VICENTE, C. P. Biomembranas. In:
+CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri:
+Manole, 2013. p. 96. 99 ALBERTS et al. Op. cit., pp. 584-585, 588. 100 Ibid. p. 588. 101 Ibid. pp. 594-595. 102 GENESER. Op. cit., pp. 45-46. 103 SANTOS JÚNIOR & VICENTE. Op. cit., pp. 102-104. 104 ROSS & PAWLINA. Op. cit., pp. 31-32.
+10
+
+HISTOLOGIA
+
+plasmática constitui o glicocálix (Figuras 1.8 e 1.10).105
+
+apresenta um grupo carboxila (-COO-).106
+
+Figura 1.8 - Ilustração da membrana plasmática e do glicocálix. A bicamada lipídica está em vermelho; as proteínas, em azul, e as cadeias glicídicas, em preto. Baseado em Holtzman, E.; Novikoff, A. B. Células e estrutura celular. 3.ed. Rio de Janeiro: Guanabara, 1985. p. 55.
+
+Figura 1.10 - Eletromicrografia da superfície de uma célula, onde o glicocálix (G) é visível. M – microvilos. 13.500x. Cortesia de Maria Cristina Faccioni-Heuser e Matilde Achaval Elena, UFRGS.
+
+O glicocálix tem 10 a 50nm de espessura e carga negativa por causa dos grupos sulfato e carboxila das cadeias glicídicas. Devido a essa carga elétrica, ele atrai cátions, como os íons Na+, aumentando a sua disponibilidade para o uso da célula e criando um ambiente hidratado pela atração de água. Glicoproteínas e proteoglicanas secretadas são adsorvidas pelo glicocálix e contribuem para a sua constituição.107, 108,109,110
+Todas as células eucariontes têm glicocálix. Ele protege a célula de danos químicos e físicos e permite o reconhecimento e a adesão das células. Os oligossacarídeos do glicocálix podem atuar como antígenos, como o sistema ABO de grupos sanguíneos nas hemácias. Em algumas células, como as do epitélio intestinal, as glicoproteínas do glicocálix têm propriedades enzimáticas.111,112,113,114
+
+Figura 1.9 - Representação do fosfolipídio. Baseado em Alberts, B.; Johnson, A.; Lewis, J.; Raff, M.; Roberts, K.; Walter, P. Molecular Biology of the cell. 4.ed. New York: Garland Science, 2002. p. 585.
+
+As proteoglicanas consistem em um eixo central
+
+proteico com glicosaminoglicanos covalentemente
+
+ligados, como as cerdas de uma escova. Os
+
+glicosaminoglicanos são açúcares não ramificados,
+
+compostos por duas unidades que se repetem: um
+
+aminoaçúcar
+
+(N-acetilglicosamina
+
+ou
+
+N-
+
+acetilgalactosamina), geralmente sulfatado (-OSO3-), e
+
+um ácido urônico (glicurônico ou idurônico), que
+
+105 ALBERTS et al. Op. cit., pp. 612-613.
+
+6.1.2  Transporte celular
+Moléculas pequenas e apolares, como, por exemplo, O2, CO2, nitrogênio (N2), benzeno e óxido nítrico (NO), e moléculas pequenas, polares e não
+106 GARTNER & HIATT. Op. cit., pp. 71, 73. 107 ALBERTS et al. Op. cit., pp. 612-613. 108 DE ROBERTIS & HIB. Op. cit., pp. 50-51. 109 GARTNER & HIATT. Op. cit., p. 16. 110 SANTOS JÚNIOR & VICENTE. Op. cit., pp. 106, 109. 111 ALBERTS et al. Op. cit., pp. 612-613. 112 GARTNER & HIATT. Op. cit., pp. 16, 230, 406. 113 GENESER. Op. cit., pp. 46-47. 114 SANTOS JÚNIOR & VICENTE. Op. cit., pp. 106-107, 109.
+11
+
+TATIANA MONTANARI
+
+carregadas, como H2O, ureia, glicerol e etanol, atravessam rapidamente a membrana por difusão simples, deslizando entre as moléculas de lipídios a favor do gradiente de concentração.115,116,117
+Moléculas carregadas, como íons, aminoácidos e nucleotídeos, e moléculas não carregadas maiores, como a glicose e a sacarose, precisam da intermediação de proteínas da membrana para o transporte. Quando esse transporte é a favor do gradiente eletroquímico é denominado difusão facilitada.118
+Como a difusão simples e a difusão facilitada não envolvem o dispêndio de energia, são consideradas situações de transporte passivo.119
+O transporte de substâncias pelas proteínas transportadoras contra um gradiente eletroquímico envolve a quebra de ATP e é denominado transporte ativo. É o caso do transporte de Na+ e K+ pela Na+-K+ ATPase (ou bomba de Na+ e K+).120
+As proteínas transportadoras podem realizar os seguintes tipos de transporte: uniporte, quando um único soluto é transportado de um lado da membrana para outro; simporte, quando o transporte de um soluto depende do transporte de um segundo na mesma direção, e antiporte, quando o transporte de um soluto leva ao transporte de um outro na direção oposta.121
+
+substâncias pela fusão de vesículas à membrana é a exocitose.123
+A pinocitose (do grego, pínein, beber)124 ou endocitose de fase fluida é a ingestão de fluido e solutos através de vesículas de superfície lisa, com 50 a 80nm de diâmetro, formadas a partir da invaginação da membrana. A endocitose mediada por receptor é uma captura seletiva de macromoléculas, que envolve vesículas revestidas com receptores. As cavéolas, que são revestidas pela proteína caveolina, possuem 50 a 100nm, e as vesículas revestidas por clatrina, cerca de 200nm. Muitas cavéolas em células endoteliais (revestimento dos vasos sanguíneos) estão envolvidas na transcitose, processo pelo qual as vesículas derivadas de uma superfície atravessam a célula e liberam o seu conteúdo na outra superfície. Há ainda a macropinocitose, onde uma projeção da membrana circunda e internaliza o material (Figuras 1.11 e 1.12).125,126
+
+A glicose entra na célula do intestino por carreadores
+localizados na superfície apical em um sistema de transporte simporte com Na+. Ela passa para o fluido
+extracelular, de onde vai para o sangue, por carreadores
+nas superfícies laterais e basal que realizam difusão facilitada de modo uniporte. O gradiente de Na+ que dirige o transporte da glicose é mantido pela Na+-K+
+ATPase na membrana plasmática basolateral. Essa proteína mantém a concentração interna de Na+ baixa.
+Para isso, faz um transporte antiporte: há a saída de três Na+ da célula e a entrada de dois K+.122
+
+A entrada de substâncias na célula com a Figura 1.11 - Nesse capilar, observam-se cavéolas ( ) e invaginação da membrana plasmática em vesículas é macropinocitose ( ). H – hemácia. 19.800x. denominada endocitose, enquanto a saída de
+
+115 ALBERTS et al. Op. cit., p. 616. 116 GARTNER & HIATT. Op. cit., p. 20. 117 GENESER. Op. cit., p. 47. 118 ALBERTS et al. Op. cit., pp. 617-618. 119 Ibid. 120 Ibid. pp. 618, 624. 121 Ibid. pp. 620-621. 122 Ibid. pp. 621, 623-624.
+
+123 ROSS & PAWLINA. Op. cit., p. 34. 124 DE ROBERTIS. Op. cit., p. 138. 125 LOWE & ANDERSON. Op. cit., pp. 13-17. 126 OVALLE & NAHIRNEY. Op. cit., p. 23.
+12
+
+HISTOLOGIA
+O citoesqueleto é uma complexa rede de filamentos proteicos: os filamentos de actina, os filamentos intermediários, os filamentos de miosina e os microtúbulos (Figura 1.13).130
+
+Figura 1.12 - Eletromicrografia em aumento maior, mostrando a depressão da membrana plasmática para a pinocitose (pi). G – complexo de Golgi. Cortesia de Maria Cristina Faccioni-Heuser, UFRGS.
+A fagocitose (do grego, phageîn, comer) é a ingestão de partículas maiores, tais como microorganismos ou restos celulares, através da emissão de pseudópodos e a formação de grandes vesículas (maiores que 250nm), os fagossomos.127,128
+6.1.3  Funções da membrana celular
+A membrana celular é uma barreira seletiva à passagem de moléculas solúveis em água, capaz de controlar a entrada e a saída de metabólitos. A permeabilidade seletiva da membrana é devida à hidrofobicidade dos componentes lipídicos e do caráter dos seus canais proteicos.
+A membrana gera diferenças nas concentrações iônicas entre o interior e o exterior da célula, criando um gradiente, cuja energia potencial é utilizada para dirigir vários processos de transporte, conduzir sinais elétricos e produzir ATP. Ela serve ainda como suporte estrutural para enzimas e receptores e permite a interação entre as células e a fixação da célula à matriz extracelular.129
+
+Figura 1.13 - Eletromicrografia do citoplasma de neurônio, onde se observa o citoesqueleto entre as organelas. Cortesia de Patrícia do Nascimento e Matilde Achaval Elena, UFRGS.
+Os filamentos de actina (5 a 9nm de diâmetro) são resultantes da polimerização da proteína actina G (G globular). Estão por todo o citoplasma, mas são mais concentrados na periferia. Contribuem para a forma celular; sustentam os microvilos e os estereocílios, especializações da superfície celular; permitem o transporte de vesículas na endocitose e na exocitose; participam na adesão das células; posicionam macromoléculas, como o RNAm e complexos enzimáticos; são importantes para a migração celular durante o desenvolvimento embrionário ou em cultura; organizam o anel contrátil, responsável pela citocinese, e constituem os filamentos finos das células musculares, contribuindo na contração.131,132
+Os filamentos intermediários (8 a 10nm de diâmetro) são formados por proteínas fibrosas. Conforme o tipo celular, há citoqueratina, vimentina, desmina, proteína ácida fibrilar glial, periferina ou neurofilamentos. Há ainda as laminas que integram o envoltório nuclear. Os filamentos intermediários são bastante resistentes e estão envolvidos na manutenção
+
+6.1.4  Constituição do citoesqueleto
+127 DE ROBERTIS. Op. cit., p. 138. 128 ROSS & PAWLINA. Op. cit., p. 35. 129 ALBERTS et al. Op. cit., pp. 583-584.
+
+130 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., pp. 40-41. 131 ALBERTS et al. Op. cit., pp. 908-909, 931, 946, 949, 962. 132 LINO NETO, J.; GOÉS, R. M.; CARVALHO, H. F. Citoesqueleto. In:
+CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri:
+Manole, 2013. pp. 425, 427-432.
+13
+
+TATIANA MONTANARI
+
+da forma da célula e no posicionamento de organelas.133,134
+A citoqueratina é exclusiva das células epiteliais, mas é uma família grande com mais de 50 isoformas. Os filamentos de citoqueratina (também denominados tonofilamentos) podem se agrupar em feixes, as tonofibrilas. Esses filamentos contribuem para a adesão das células e conferem resistência mecânica ao tecido.135,136
+A vimentina é expressa em células de origem mesenquimal, como nas células epiteliais que revestem os vasos sanguíneos (células endoteliais) e as cavidades (células mesoteliais) e nos fibroblastos, que são células do tecido conjuntivo. Ela forma uma rede em volta do núcleo, mantendo sua posição na célula.137,138
+A desmina é encontrada nas células musculares e nas células mioepiteliais.139
+A proteína ácida fibrilar glial (GFAP de glial fibrillary acidic protein) é identificada nos astrócitos e nas células de Schwann; a periferina ocorre em muitas células do sistema nervoso periférico, e os neurofilamentos, nos neurônios.140
+Há ainda as laminas, que estão no nucleoplasma e estão associadas ao envoltório nuclear.141
+Os filamentos de miosina (10 a 15nm de diâmetro) estão presentes nas células musculares, onde pela sua espessura são denominados filamentos grossos (ou espessos). O deslizamento dos filamentos finos ao longo dos filamentos grossos promove a contração muscular. A miosina também ocorre em células não musculares, como, por exemplo, no anel contrátil da citocinese.142,143
+Os microtúbulos (25nm de diâmetro) são estruturas cilíndricas, ocas, constituídas por 13 protofilamentos com as proteínas globulares  e tubulinas.144 Eles se originam no centro organizador de microtúbulos (MTOC), onde há um par de centríolos envoltos em uma matriz de tubulinas.145 Os centríolos têm um arranjo de nove trincas periféricas
+133 DE ROBERTIS. Op. cit., pp. 74-76. 134 ROSS & PAWLINA. Op. cit., pp. 67-68. 135 DE ROBERTIS. Op. cit., pp. 75, 113. 136 ROSS & PAWLINA. Op. cit., pp. 67, 504. 137 HADLER & SILVEIRA. Op. cit., p. 24. 138 ROSS & PAWLINA. Op. cit., pp. 68-69. 139 LOWE & ANDERSON. Op. cit., pp. 77, 81. 140 ROSS & PAWLINA. Op. cit., pp. 66, 68. 141 Ibid. 142 Ibid. pp. 64, 318, 325. 143 WEISS. Op. cit., pp. 49, 215. 144 ALBERTS et al. Op. cit., pp. 909, 914-915. 145 Ibid. pp. 930, 1031.
+
+de microtúbulos. Eles medem 0,2µm de diâmetro e 0,5µm de comprimento.146
+Cada microtúbulo possui uma extremidade negativa, que não cresce e que geralmente está embutida no MTOC, e uma extremidade positiva, onde as tubulinas se polimerizam em direção à periferia da célula.147
+Os microtúbulos mantêm a forma da célula; posicionam organelas e permitem o deslocamento das vesículas, das organelas e dos cromossomos. Nas células epiteliais, centríolos posicionados próximo à superfície servem de base para formar o axonema (nove duplas periféricas e um par central de microtúbulos), que é a estrutura interna dos cílios e do flagelo (Figura 1.14).148,149
+Figura 1.14 - Início da formação do flagelo a partir do centríolo distal da célula germinativa. 63.000x.
+A média de vida dos microtúbulos é de cerca de 10 minutos.150
+Há proteínas que se associam aos filamentos e aos microtúbulos, possibilitando ou inibindo a sua polimerização e promovendo a sua interação com outros componentes da célula ou com a matriz extracelular.
+As MAP (de microtubule-associated proteins) -1, -2, -3, -4 e -τ e a TOGρ regulam a montagem dos microtúbulos e ancoram-nos a organelas. As MAPs também são responsáveis pela estabilidade dos
+146 GARTNER & HIATT. Op. cit., p. 49. 147 ROSS & PAWLINA. Op. cit., p. 61. 148 HAM & CORMACK. Op. cit., pp. 138-144. 149 WEISS. Op. cit., pp. 52, 54. 150 GARTNER & HIATT. Op. cit., p. 47.
+14
+
+HISTOLOGIA
+
+microtubúlos dos cílios e do flagelo.151
+A miosina I conecta os filamentos de actina à membrana e permite o deslocamento de vesículas e organelas. A miosina II interage com os filamentos de actina para promover a contração nas células musculares e não musculares, como as plaquetas, no anel contrátil da citocinese, nas fibras de estresse dos fibroblastos e na trama terminal das células epiteliais. A miosina V desloca as vesículas e organelas ao longo dos filamentos de actina.152
+As dineínas e as cinesinas movimentam vesículas e organelas ao longo dos microtúbulos, sendo que as dineínas o fazem em direção à extremidade negativa, portanto, no sentido do centro da célula e as cinesinas para a extremidade positiva, ou seja, para a periferia.153
+6.1.5  Junções celulares
+São especializações da membrana plasmática nas faces laterais das células que selam o espaço intercelular, promovem a coesão ou possibilitam a passagem de substâncias de uma célula para outra. São ainda especializações da superfície basal das células que permitem a adesão à matriz extracelular subjacente.
+Utilizando a célula epitelial do intestino como exemplo, identificam-se as seguintes estruturas: zônula de oclusão, zônula de adesão, desmossomos, junções comunicantes, interdigitações e hemidesmossomos (Figura 1.15).
+A zônula de oclusão (ou junção tight; do inglês, estreita) está localizada na porção mais apical das superfícies laterais, como um cinto ao redor da célula (por isso, o termo zonula, diminutivo do latim zona, cinta) (Figura 1.15). Ela é formada pelas proteínas transmembranas claudinas e ocludinas (do latim claudere e occludere, que significam fechar) e, no lado citoplasmático, pelas proteínas ZO-1, ZO-2 e ZO-3, entre outras. Filamentos de actina ancoram-se às proteínas periféricas.154,155,156,157
+As proteínas transmembranas unem os folhetos externos das membranas celulares vizinhas em vários pontos. Essa fusão impede a passagem de substâncias
+151 ROSS & PAWLINA. Op. cit., p. 62. 152 ALBERTS et al. Op. cit., pp. 941-942, 945-946, 949-950, 952, 959962. 153 ROSS & PAWLINA. Op. cit., p. 62. 154 COLLARES-BUZATO, C. B. Junções celulares. In: CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. p. 144. 155 GENESER. Op. cit., pp. 129-131. 156 KIERSZENBAUM, A. L.; TRES, L. L. Histologia e Biologia celular: uma introdução à Patologia. 3.ed. Rio de Janeiro: Elsevier, 2012. p. 14. 157 KÜHNEL, W. Atlas de Citologia, Histologia e Anatomia microscópica para teoria e prática. Rio de Janeiro: Guanabara Koogan, 1991. p. 60.
+
+maiores que 1,5nm, permitindo somente a difusão de água, íons e pequenas moléculas. Isso delimita compartimentos de composição química diferente.158
+A permeabilidade da junção pode ser modulada. Por exemplo, a ativação de cotransportadores de Na+ e nutrientes pela glicose e por certos aminoácidos induz um aumento da permeabilidade da junção, possibilitando a entrada de nutrientes inclusive por entre as células epiteliais.159,160
+As zônulas de oclusão também impedem a migração dos componentes da membrana plasmática entre a superfície apical e a superfície basolateral da célula, confinando as proteínas transportadoras. Assim, contribuem para a polaridade da célula.161
+A zônula de adesão está situada em uma faixa circular na célula imediatamente inferior à zônula de oclusão (Figura 1.15). Ela é formada pelas glicoproteínas transmembranas caderinas, que, na presença de Ca2+, ligam as membranas vizinhas. Permanece um espaço de 15 a 25nm. Na face interna da membrana plasmática, há as cateninas (-catenina, -catenina e -catenina ou placoglobina), a vinculina e a -actinina, que interconectam as caderinas aos filamentos de actina.162
+Além de promover a adesão das células, a zônula de adesão é importante para o estabelecimento de outras junções, para a manutenção da polaridade e para o reconhecimento celular.163
+Os desmossomos (do grego desmos, ligação; soma, corpo) são estruturas em disco, com 100 a 500nm de comprimento. Na presença de Ca2+, as proteínas transmembranas desmogleínas e desmocolinas da família das caderinas unem as membranas vizinhas, permanecendo um espaço intercelular de 25nm. O lado citoplasmático dessas proteínas interage com as placoglobinas, que, por sua vez, se associam às desmoplaquinas. A estas últimas ancoram filamentos de citoqueratina (tonofilamentos) nas células epiteliais, de desmina nas células musculares e de vimentina nas células de origem mesenquimal (Figuras 1.15 e 1.16).164
+158 COLLARES-BUZATO. Op. cit., pp. 142, 144-145. 159 Ibid. p. 147. 160 TURNER, J. R. Show me the pathway! Regulation of paracellular permeability by Na+-glucose transport. Adv. Drug Deliv. Rev., v. 41, pp. 265-281, 1999. 161 COLLARES-BUZATO. Op. cit., p. 145. 162 Ibid. pp. 143, 147-148. 163 Ibid. pp. 147-150. 164 Ibid. pp. 150-151.
+15
+
+TATIANA MONTANARI
+Os desmossomos permitem a adesão das células, sendo abundantes em tecidos sujeitos a estresse mecânico.165
+O pênfigo é uma doença autoimune, em que o organismo produz anticorpos contra as desmogleínas, desfazendo os desmossomos. Há a formação de bolhas nas mucosas e na pele e perda do líquido tissular, o que pode levar à morte. O tratamento baseia-se na administração de corticosteroides e outros agentes imunossupressores.166
+
+As junções comunicantes (ou junções gap; do inglês, fenda) (Figura 1.15) consistem em canais hidrofílicos formados pelas proteínas transmembranas conexinas. Seis conexinas arranjam-se circularmente resultando no conéxon, que faz correspondência com aquele de outra célula. A luz do canal produzido é bastante estreita: tem 1,5nm de diâmetro, limitando a passagem somente de substâncias menores que 1kD, como íons, monossacarídeos, aminoácidos, nucleotídeos, vitaminas, alguns hormônios e os mensageiros secundários monofosfato de adenosina cíclico (AMPc), monofosfato de guanosina cíclico (GMPc) e 1,4,5-trifosfato de inositol (IP3).167,168
+Essas substâncias são responsáveis pela comunicação entre as células. Portanto, essas junções promovem o acoplamento elétrico e metabólico, sendo importantes, por exemplo, na sincronização, na diferenciação e na proliferação das células.169
+
+Figura 1.15 - Eletromicrografia de células vizinhas, onde se observam as junções celulares: zônulas de oclusão e de adesão (ZO/ZA), desmossomo (D), junções comunicantes (JC) e interdigitações (In). O conjunto das zônulas de oclusão e de adesão e dos desmossomos é denominado complexo unitivo. 21.000x. Cortesia de Maria Cristina Faccioni-Heuser e Matilde Achaval Elena, UFRGS.
+
+As junções comunicantes são reguladas, abrindo-se
+quando o pH intracelular é elevado ou quando a concentração de Ca2+ é baixa e fechando-se quando o pH diminui e o nível de Ca2+ aumenta.170
+
+As interdigitações (invaginações ou pregas basolaterais) resultam de um imbricamento das superfícies laterais e basais das células vizinhas, que aumenta o seu contato e reforça a sua adesão. Em certas células epiteliais, o pregueamento da membrana basolateral aumenta a superfície para a inserção de proteínas transportadoras, contribuindo para o transporte de líquido e íons (Figura 1.15).171,172,173
+
+165 Ibid. pp. 142, 151-152. 166 Ibid. pp. 152-153. 167 ALBERTS et al. Op. cit., pp. 1074-1075. 168 COLLARES-BUZATO. Op. cit., pp. 153-154. 169 Ibid. pp. 154-155. 170 GARTNER & HIATT. Op. cit., p. 103. 171 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 68. 172 LOWE & ANDERSON. Op. cit., p. 44.
+
+Figura 1.16 - Ilustração do desmossomo. Baseado em Alberts et al., 2002. p. 1073.
+173 ROSS & PAWLINA. Op. cit., pp. 140, 142. 16
+
+HISTOLOGIA
+
+Os hemidesmossomos localizam-se na base das células epiteliais e, como o nome sugere, parecem a metade de um desmossomo. São constituídos pelas proteínas transmembranas integrinas, que se ligam à laminina e ao colágeno do tipo IV da lâmina basal. O lado citoplasmático das integrinas associa-se às proteínas erbina, plectina e BPAG1 (de bullous pemphigoid antigen 1, ou seja, antígeno do penfigoide bolhoso 1, também denominada BP230, por ter 230kDa). A erbina medeia a associação da BP230 com a integrina, e a plectina e a BP230 interligam as integrinas com os filamentos de citoqueratina (tonofilamentos). A plectina ainda interage com os filamentos de actina, a miosina II e os microtúbulos. Há ainda a proteína integral BPAG2 (também chamada BP180, por ter 180kDa, ou colágeno do tipo XVII) que deve estabilizar a interação da integrina com o citoesqueleto.174,175,176
+Essas junções permitem a adesão da célula epitelial à matriz extracelular subjacente, conferindo ao tecido resistência ao estresse mecânico.177
+Nas junções de adesão focal, as integrinas ligamse a glicoproteínas da matriz extracelular, como a fibronectina e, através da talina, vinculina, paxilina, FAK (focal adhesion kinase) e -actinina, a feixes de filamentos de actina (fibras de estresse).178
+A interação da célula com a matriz extracelular, através dessas junções, é importante para vários eventos, como migração, diferenciação, proliferação e inclusive sobrevivência.179
+O Quadro 1.2 compila os tipos de junções celulares, os seus constituintes e as suas funções.
+6.2  Núcleo e ciclo celular
+O tamanho e a forma do núcleo variam conforme o tipo celular. Geralmente mede entre 5 e 10µm e é alongado, ovoide, esférico ou lobulado. O núcleo tem o material genético, o ácido desoxirribonucleico (DNA), o qual está enrolado em proteínas básicas, as histonas, formando a cromatina. Segundo o grau de condensação, ela é classificada em eucromatina (difusa e transcrita) e heterocromatina (condensada e geralmente inativa). O núcleo está presente quando a célula encontra-se na interfase do ciclo celular (Figura
+
+1.17). Durante a divisão, a cromatina condensa-se em cromossomos e a membrana nuclear desintegra-se.180
+Devido aos grupos fosfato do DNA, o núcleo é basófilo. Com HE, a eucromatina cora-se levemente ou não se evidencia, enquanto a heterocromatina cora-se bem com a hematoxilina (Figura 1.17).181
+T. Montanari Figura 1.17 - Neurônio do gânglio sensorial, onde é possível observar o núcleo claro, eucromático, com alguns grumos de heterocromatina e nucléolo proeminente. HE. Objetiva de 100x (851x).
+O comprimento total do DNA é de cerca de 1,8m. A dupla hélice de DNA mede 2nm de espessura. Um segmento de DNA enrola-se em torno de um octâmero de histonas, formando o nucleossomo (10nm), que é a unidade da estrutura da cromatina. O filamento de nucleossomos é espiralado na fibrila de cromatina (30nm). Esse estágio de compactação diminui em cerca de 40 vezes a extensão do DNA. As fibrilas de cromatina formam alças ancoradas no esqueleto proteico da matriz nuclear ou do cromossomo, resultando nas fibras de cromatina, as quais, na eucromatina, exibem um arranjo mais frouxo (300nm) e, na heterocromatina, estão firmemente comprimidas (700nm). Durante a divisão celular, sofrem condensação nos cromossomos (1400nm) (Figura 1.18).182
+
+174 COLLARES-BUZATO. Op. cit., pp. 161-162. 175 LOWE & ANDERSON. Op. cit., p. 42. 176 ROSS & PAWLINA. Op. cit., p. 151. 177 COLLARES-BUZATO. Op. cit., p. 161. 178 Ibid. pp. 157-159. 179 Ibid. pp. 158-161.
+
+180 GENESER. Op. cit., pp. 83-86. 181 Ibid. p. 85. 182 ROSS & PAWLINA. Op. cit., pp. 81-83.
+17
+
+TATIANA MONTANARI
+
+Quadro 1.2 - Quadro comparativo sobre as junções celulares:
+
+Zônula de oclusão
+
+Proteínas
+
+Proteínas do lado
+
+transmembranas citoplasmático
+
+claudinas e ocludinas
+
+ZO-1, ZO-2, ZO-3 e outras
+
+Zônula de adesão caderinas
+
+Desmossomo
+Junções comunicantes
+
+caderinas: desmogleínas e desmocolinas
+conexinas
+
+cateninas (∞-catenina, β-catenina e γ-catenina ou placoglobina), vinculina e ∞-actinina
+placoglobinas e desmoplaquinas
+---
+
+Hemidesmossomo Contato focal
+
+integrinas e BPAG2 (BP180 ou colágeno do tipo XVII)
+integrinas
+
+erbina, plectina e BPAG1(ou BP230)
+vinculina, talina, paxilina, FAK e ∞actinina
+
+Filamentos associados actina
+actina
+citoqueratina, desmina ou vimentina ---
+citoqueratina e actina
+actina
+
+Funções
+efeito selador, impede a passagem de substâncias maiores de 1,5nm, polaridade e compartimentalização
+adesão entre as células, estabelecimento de outras junções, polaridade e reconhecimento celular
+adesão entre as células, estabilidade mecânica
+passagem de substâncias até 1,5nm, comunicação entre as células, acoplamento elétrico e metabólico
+adesão da célula à matriz extracelular (à laminina e ao colágeno do tipo IV da lâmina basal)
+interação da célula com a matriz extracelular para a migração (p. ex., fibronectina), diferenciação, proliferação e sobrevivência
+
+O núcleo é delimitado pelo envoltório nuclear (ou carioteca), constituído por duas membranas separadas pelo espaço perinuclear (Figuras 1.17 e 1.19). Cada membrana mede cerca de 6nm, e o espaço entre elas, 10 a 30nm. Em vários pontos, as membranas fundemse em poros delimitados por complexos proteicos, os complexos de poro. Eles medem 100 a 125nm de diâmetro e são constituídos por três conjuntos de anéis proteicos, filamentos citoplasmáticos, um transportador e uma cesta nuclear. Por eles, há o transporte de substâncias entre o núcleo e o citoplasma.183,184
+A membrana externa do envoltório nuclear é contínua a do retículo endoplasmático e tem ribossomos associados. Essas organelas sintetizam proteínas transmembranas das membranas nucleares. A membrana interna é associada à cromatina e à lâmina nuclear, uma camada de 80 a 100nm constituída principalmente pelos filamentos intermediários laminas A, B e C, arranjados em uma
+183 GARTNER & HIATT. Op. cit., pp. 51-52. 184 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 50.
+
+rede.185,186 A lâmina nuclear está envolvida na organização nuclear, na regulação do ciclo celular, na diferenciação e na expressão de genes e na replicação e na transcrição do DNA. Serve de suporte para as membranas do envoltório nuclear e para a cromatina. As laminas separam-se durante a mitose, desintegrando o envoltório nuclear, e reúnem-se quando a mitose termina, refazendo-o.187
+O nucléolo é uma área não circundada por membrana, geralmente esférica, com 1 a 3µm de diâmetro, onde ocorre a produção dos ribossomos. Nele o DNA ribossômico (DNAr) é transcrito em RNAr, e este é envolvido por proteínas para formar as subunidades ribossômicas (Figuras 1.17, 1.19 e 1.20).188
+185 AEBI, U.; COHN, J.; BUHLE, L.; GERACE, L. The nuclear lamina is a meshwork of intermediate-type filaments. Nature, v. 323, pp. 560-564, 1986. 186 GARTNER & HIATT. Op. cit., pp. 51-52. 187 ROSS & PAWLINA. Op. cit., pp. 87, 89. 188 LOWE & ANDERSON. Op. cit., p. 19.
+18
+
+2nm 11nm 30nm 300nm
+
+HISTOLOGIA
+
+700nm
+
+1400nm
+Figura 1.18 - Ilustração da organização da cromatina e de seus estágios de compactação. Baseado em Alberts et al., 2002. p. 230.
+
+Figura 1.19 - Eletromicrografia de espermátide redonda, mostrando o núcleo com eucromatina (eu) e nucléolo bem desenvolvido ( ). É possível observar o envoltório nuclear com sua membrana dupla ( ) apesar do acrossoma (a) recobrir parte do núcleo. 10.909x.
+
+Em HE, o nucléolo cora-se em rosa-azulado, devido
+à afinidade por corantes ácidos e básicos (Figura 1.17).189
+
+Ao microscópio eletrônico, é possível distinguir, no nucléolo, três áreas: a pars amorpha (porção amorfa), clara, corresponde às alças de DNA das regiões organizadoras nucleolares (NOR de nucleolar organizer regions), que codificam o RNAr; a pars fibrosa (porção fibrosa), com o DNAr sendo transcrito em RNAr, e a pars granulosa (porção granulosa), onde as moléculas de RNAr sofrem o processamento final e se associam às proteínas provenientes do citoplasma para constituir as subunidades ribossômicas (Figura 1.20).190,191
+
+Figura 1.20 - Neste núcleo (N), distinguem-se os componentes do nucléolo: organizador nucleolar (on), pars fibrosa (pf) e pars granulosa (pg). 10.208x.
+
+189 Ibid. 190 ALBERTS et al. Op. cit., p. 331. 191 LOWE & ANDERSON. Op. cit., pp. 19-20.
+19
+
+TATIANA MONTANARI
+
+No humano, há cinco pares de cromossomos com NOR: cromossomos 13, 14, 15, 21 e 22. Embora sejam 10 NOR, devido à sua fusão, a maioria das células apresenta um único nucléolo.192
+Células inativas possuem nucléolos pouco definidos, mas células metabolicamente ativas, com intensa síntese proteica apresentam nucléolos grandes ou múltiplos.193
+O ciclo celular consiste em duas etapas: a interfase e a mitose, entre as quais a célula se alterna de forma cíclica.194
+A interfase é dividida em: G1, S e G2. Na fase G1, há o crescimento da célula com intensa síntese de RNA e de proteínas necessárias para a replicação do DNA. Na fase S, há a duplicação do DNA. Na fase G2, há a verificação se o DNA foi duplicado de forma correta e a síntese de RNA e de proteínas essenciais para a divisão celular.195
+Em células que se dividem rapidamente, a fase G1 demora várias horas; a fase S, aproximadamente 7h e a fase G2, cerca de uma hora. Em células do epitélio do trato gastrointestinal, por exemplo, as fases G1 e S levam 10 a 20h cada, e a fase G2, 1 a 7h.196
+Células diferenciadas que param de sofrer mitose de forma permanente (p. ex., neurônio) ou temporária (p. ex., linfócito) são consideradas na fase Go (“o” do inglês outside, fora do ciclo).197,198
+A capacidade da célula em iniciar e avançar no ciclo celular é dirigida pelas ciclinas e pelas quinases dependentes de ciclina (CDKs). No início da fase G1, a ciclina D é sintetizada e liga-se à CDK4 e à CDK6. No fim da fase G1, a ciclina E é produzida e liga-se à CDK2. Esses três complexos permitem a progressão para a fase S. A ciclina A liga-se à CDK2 e à CDK1, e a célula sai da fase S e entra na fase G2, induzindo a formação da ciclina B. Essa ciclina liga-se à CDK1, possibilitando a saída da fase G2 e a entrada na fase M. Após executarem a sua função, as ciclinas entram na via ubiquitinaproteassoma para degradação.199
+Há também pontos de verificação (checkpoint) para proteger contra uma transição prematura entre as fases. Eles verificam a realização correta de eventos, como o crescimento celular, a transcrição do DNA e a
+192 JUNQUEIRA & CARNEIRO. Biologia celular e molecular. Op. cit., p. 159. 193 LOWE & ANDERSON. Op. cit., pp. 19, 33. 194 GENESER. Op. cit., p. 95. 195 GARTNER & HIATT. Op. cit., p. 64. 196 WEISS. Op. cit., p. 55. 197 GARTNER & HIATT. Op. cit., p. 63. 198 ROSS & PAWLINA. Op. cit., pp. 91-92. 199 GARTNER & HIATT. Op. cit., p. 64.
+
+segregação dos cromossomos, antes de permitir que a célula prossiga o ciclo celular.200
+Na mitose (fase M), a célula divide-se em duas, e o material genético duplicado na interfase é repartido entre as células-filhas. A mitose pode ser subdividida em quatro fases: prófase, metáfase, anáfase e telófase.
+201
+Na prófase, há a condensação da cromatina em cromossomos. Como ocorreu a duplicação do DNA na interfase, cada cromossomo possui duas cromátides (Figuras 1.21 e 1.22). As cromátides-irmãs estão unidas pelo centrômero, constituído por heterocromatina com sequências de DNA específicas. Aderido a cada uma das faces externas do centrômero, há o cinetócoro, complexo proteico de estrutura discoide, ao qual se fixam os microtúbulos do fuso mitótico. Com a condensação da cromatina, os nucléolos desaparecem. Finalmente há a desintegração do envoltório nuclear em consequência da fosforilação das laminas, o que rompe a lâmina nuclear.202, 203
+Na metáfase, os cromossomos, ligados aos microtúbulos do fuso, migram para o equador da célula (Figuras 1.21 e 1.22).204
+Na anáfase, há a separação das cromátides-irmãs pela degradação das coesinas e a sua migração para os polos da célula através do deslizamento ao longo dos microtúbulos promovido pelas dineínas (Figuras 1.21 e 1.23).205
+Na telófase, há a descondensação dos cromossomos em cromatina, com reaparecimento do nucléolo. Com a desfosforilação das laminas, a carioteca é refeita. Há a divisão do citoplasma (citocinese) devido ao anel contrátil de filamentos de actina e moléculas de miosina II, originando duas células-filhas iguais à célula-mãe (Figura 1.21).206,207
+As células germinativas são ainda capazes de se dividir por meiose (do grego meiosis, diminuição), derivando células-filhas haploides.208 A meiose consiste de duas etapas de divisões, antecedidas somente por uma etapa de duplicação do DNA.209
+Na primeira meiose, a prófase é bastante longa, dividida nos seguintes estágios: leptóteno, zigóteno,
+200 Ibid. 201 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., pp. 56-59. 202 HAM & CORMACK. Op. cit., pp. 41, 45, 97. 203 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 56. 204 Ibid. 205 ROSS & PAWLINA. Op. cit., p. 97. 206 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 56. 207 ROSS & PAWLINA. Op. cit., pp. 89, 97. 208 ALBERTS et al. Op. cit., p. 1130. 209 ROSS & PAWLINA. Op. cit., pp. 97, 99.
+20
+
+HISTOLOGIA
+
+paquíteno, diplóteno e diacinese. No leptóteno, os cromossomos são longos e finos, associados ao envoltório nuclear. No zigóteno, os cromossomoshomólogos pareiam-se através da formação do complexo sinaptonêmico, uma estrutura tripartite que liga os cromossomos um ao outro (Figura 1.21). No paquíteno, inicia a condensação do material genético e ocorre a troca de segmentos entre os cromossomoshomólogos (recombinação gênica ou crossing-over). No diplóteno, o complexo sinaptonêmico dissolve-se, e os cromossomos-homólogos tentam se separar, mas ficam unidos nos locais de crossing-over (quiasmas). Na diacinese, os cromossomos estão bastante espiralizados, há o desaparecimento dos quiasmas, do nucléolo e da carioteca e há a formação do fuso de microtúbulos.210,211
+Na metáfase, há a disposição dos cromossomoshomólogos no equador da célula. Os cromossomos interagem com os microtúbulos através do cinetócoro, que geralmente está próximo ao centrômero. Na anáfase, os cromossomos-homólogos separam-se e migram para os polos opostos da célula. A segregação aleatória de um membro paterno ou materno de cada par contribui para a variabilidade genética. Na telófase, há a descondensação dos cromossomos, a reconstituição do envoltório nuclear e a citocinese. São formadas duas células-filhas, com metade do número de cromossomos da célula-mãe, mas cada cromossomo apresenta duas cromátides (Figura 1.21).212,213
+A segunda meiose assemelha-se à mitose. A prófase é mais curta e mais simples do que a prófase da primeira meiose (ou até mesmo ausente). Nela ocorre a condensação da cromatina em cromossomos e o desaparecimento do nucléolo e da carioteca. Na metáfase, os cromossomos dispõem-se no equador da célula. Na anáfase, as cromátides-irmãs separam-se pela clivagem da coesina pela enzima separase e migram para os polos opostos da célula. Na telófase, há a descondensação dos cromossomos, a reorganização do envoltório nuclear e a citocinese das células em outras duas células-filhas, agora realmente haploides, tanto ao que se refere ao número de cromossomos como à quantidade de DNA (Figura 1.21).214,215
+A meiose reduz a quantidade do material genético
+
+dos gametas de diploide para haploide e, com a fusão deles na fertilização, a diploidia da espécie é restabelecida. Proporciona ainda a variabilidade genética através da troca de segmentos entre os cromossomos maternos e paternos no crossing-over e da segregação aleatória desses cromossomos nos gametas.216
+Injúria severa provoca a morte da célula por necrose, onde ocorre seu intumescimento e sua ruptura, com liberação das enzimas lisossômicas, causando dano ao tecido e reação inflamatória. Condições fisiológicas normais ou estímulos patológicos brandos induzem a apoptose, onde há a diminuição no volume celular, perda da função mitocondrial e alterações nucleares. Estas são: picnose, em que há condensação da cromatina, retraindo o núcleo em uma massa basófila até um corpo esférico, escuro (Figura 1.24); cariorrexis, onde a clivagem do DNA por endonucleases dependentes de Ca2+ e Mg2+ fragmenta o núcleo (Figura 1.25), e cariólise, em que a atividade aumentada da DNAase dissolve o DNA, levando ao desaparecimento do núcleo. Os corpos apoptóticos, com fragmentos do núcleo e do citoplasma, são fagocitados por macrófagos ou por células vizinhas, sem resposta inflamatória.217,218
+6.3  Lamela anulata (ou lamelas anulares)
+São pilhas de membranas com complexos de poro. São comuns em células germinativas e em algumas células tumorais (Figura 1.26).219
+6.4  Retículo endoplasmático e ribossomos
+O retículo endoplasmático foi observado pela primeira vez, em 1897, por Garnier, que o denominou ergastoplasma.220
+O retículo endoplasmático é constituído por um sistema de membranas em forma de túbulos, vesículas e cisternas. Se os ribossomos estão associados, o retículo endoplasmático é designado retículo endoplasmático rugoso (RER) (Figura 1.27). Se não houver ribossomos, é dito retículo endoplasmático liso (REL) (Figura 1.28).221,222
+
+210 Ibid. pp. 98-99. 211 WEISS. Op. cit., pp. 70-71. 212 RECCO-PIMENTEL, S. M.; AGUIAR JÚNIOR, O.; VEIGA-
+MENONCELLO, A. C. P. Meiose. In: CARVALHO, H. F.; RECCO-
+PIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. p. 542. 213 ROSS & PAWLINA. Op. cit., pp. 98-99. 214 Ibid. p. 99. 215 WEISS. Op. cit., pp. 70-71.
+
+216 ROSS & PAWLINA. Op. cit., pp. 97-98. 217 HAM & CORMACK. Op. cit., pp. 96-98. 218 ROSS & PAWLINA. Op. cit., pp. 80, 99-102. 219 WEISS. Op. cit., p. 23. 220 LAGO & CARVALHO. Op. cit., p. 9. 221 ROSS & PAWLINA. Op. cit., pp. 48-49, 53. 222 WEISS. Op. cit., p. 26.
+
+21
+
+TATIANA MONTANARI
+
+T. Montanari
+Figura 1.21 - Esquema comparativo entre a mitose e a meiose. Adaptado de Browder, L. W.; Erickson, C. A.; Jeffery, W. R. Developmental Biology. Philadelphia: Saunders College, 1991. p. 25.
+
+T. Montanari
+
+T. Montanari
+
+M P
+I
+
+I A
+
+Figura 1.22 - Fotomicrografia de células em interfase (I) e em mitose: prófase (P) e metáfase (M). Raiz de cebola. Hematoxilina férrica. Objetiva de 100x (1.373x).
+
+Figura 1.23 - Além da célula em interfase (I), há uma célula em anáfase (A). Raiz de cebola. Hematoxilina férrica. Objetiva de 100x (1.373x).
+
+S
+
+T. Montanari
+Figura 1.24 - Corte de testículo, com células germinativas em metáfase ou em apoptose. Nas células apoptóticas, notar a posição excêntrica do núcleo, a condensação do material genético junto à carioteca e o surgimento de vacúolos na célula. S - célula de Sertoli. HE. Objetiva de 100x.
+
+T. Montanari
+Figura 1.25 - Célula apoptótica com o material genético já fragmentado. HE. Objetiva de 100x.
+
+22
+
+HISTOLOGIA
+nuclear, a membrana celular ou o exterior, os ribossomos estão associados ao retículo endoplasmático.225,226,227
+80S
+
+60S
+
+40S
+
+Figura 1.26 - Lamela anulata em célula germinativa de camundongo.
+
+RNAr5S
+
+RNAr28S RNAr5,8S
+
+RNAr18S
+
+Figura 1.27 - Retículo endoplasmático rugoso. 22.000x.
+
+~49proteínas
+
+~33proteínas
+
+Figura 1.29 - Ilustração das subunidades ribossômicas dos eucariontes. Baseado em Alberts et al., 2002. p. 343.
+
+Figura 1.28 - Retículo endoplasmático liso. 13.000x.
+
+As células sintetizadoras de proteínas possuem
+núcleo claro, por causa da cromatina frouxa; nucléolo
+bem desenvolvido para a produção de ribossomos, e
+citoplasma basófilo, devido aos grupos fosfato do RNAr (Figuras 1.17 e 1.30).228
+
+Os ribossomos são pequenas partículas (12nm de largura e 25nm de comprimento), compostas de proteínas e RNAr. Cada ribossomo é composto por uma subunidade maior e uma subunidade menor, com valores de sedimentação de 60S e 40S, respectivamente (Figura 1.29).223 Os ribossomos são responsáveis pela síntese de proteínas.224
+Os ribossomos ficam livres no citoplasma quando sintetizam proteínas do citosol, do núcleo, das mitocôndrias e dos peroxissomos. Eles se associam a uma fita de RNAm, formando grupos em forma de círculos, espirais ou rosetas, denominados polissomos ou polirribossomos. Quando as proteínas são destinadas para as demais organelas, para o envoltório
+223 GARTNER & HIATT. Op. cit., p. 23. 224 WEISS. Op. cit., p. 26.
+
+O retículo endoplasmático liso contém enzimas para a síntese de lipídios, inclusive dos fosfolipídios da membrana celular e dos hormônios esteroides, o metabolismo do glicogênio e a detoxicação de certas drogas, inclusive álcool. Ele está ainda envolvido na formação e na reciclagem da membrana e, em algumas células, no sequestro de Ca2+.229,230
+225 GENESER. Op. cit., p. 50. 226 RECCO-PIMENTEL, S. M.; PIMENTEL, E. R.; AUGUSTO, T. M. Ribossomos e síntese proteica. In: CARVALHO, H. F.; RECCOPIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. p. 317. 227 ROSS & PAWLINA. Op. cit., pp. 49-52. 228 Ibid. pp. 52, 81, 84. 229 Ibid. p. 53. 230 WEISS. Op. cit., p. 26.
+23
+
+TATIANA MONTANARI
+
+reticulare interno.232,233
+
+O complexo de Golgi não se cora nos cortes
+histológicos corados com HE, mas apresenta a
+capacidade de reduzir os sais de metais, como, por exemplo, os sais de ósmio e de prata (Figura 1.32).234,235,
+236
+
+T. Montanari
+Figura 1.30 - O neurônio da medula espinal exibe características de célula sintetizadora de proteínas: núcleo claro, devido à cromatina frouxa, nucléolo proeminente ( ) e grânulos basófilos (substância de Nissl) no citoplasma, referentes ao retículo endoplasmático rugoso e aos ribossomos. Cromatina sexual ( ). HE. Objetiva de 100x (1.045x).
+
+T. Montanari
+
+A abundância nessa organela membranosa confere eosinofilia ao citoplasma das células sintetizadoras de hormônios esteroides, como as células da adrenal (Figura 1.31).231
+T. Montanari
+
+Figura 1.32 - Células do epidídimo, cujo complexo de Golgi ( ) é bem desenvolvido para a síntese de glicoproteínas. Impregnação pela prata com núcleo contracorado pelo Feulgen. Objetiva de 100x (1.373x).
+
+Figura 1.31 - Células da adrenal, cujo citoplasma eosinófilo se deve à riqueza em retículo endoplasmático liso para a síntese de hormônios esteroides. A vacuolização é resultado da perda das gotículas lipídicas no processamento histológico. HE. Objetiva de 40x (550x).
+6.5  Complexo de Golgi
+Em 1898, o neuro-histologista italiano Camillo Golgi descobriu essa organela. Ele havia fixado alguns fragmentos de cérebro em uma solução de bicromato e depois impregnado com um sal de prata. Ao examinar os neurônios ao microscópio, observou um material escuro, arranjado em rede, o qual denominou apparato
+231 ROSS & PAWLINA. Op. cit., p. 53.
+
+A microscopia eletrônica mostra que o Golgi é constituído por um conjunto de três a 10 cisternas achatadas e empilhadas e vesículas. A cisterna mais próxima ao núcleo e ao retículo endoplasmático, situada no lado convexo da organela, é designada face cis (do latim cis, deste lado), enquanto a que se localiza na região oposta, voltada para o exterior, no lado côncavo, é a face trans (do latim trans, do outro lado). Antes da face cis do Golgi, há a rede cis do Golgi, formada por sáculos e túbulos interconectados que recebem vesículas do retículo endoplasmático e, após a face trans, há a rede trans do Golgi, de onde saem as vesículas de secreção (Figura 1.33).237
+As proteínas sintetizadas no retículo endoplasmático rugoso vão para o complexo de Golgi, onde são acrescentados resíduos de açúcares, um processo denominado glicosilação. Elas podem ser ainda sulfatadas, fosforiladas ou sofrerem processamento proteolítico, que as convertem em proteínas ativas. Lipídios também são glicosilados e sulfatados nessa organela. O Golgi realiza o
+232 HAM & CORMACK. Op. cit., p. 120. 233 OVALLE & NAHIRNEY. Op. cit., p. 17. 234 BEÇAK & PAULETE. Op. cit., pp. 48-50. 235 GENESER. Op. cit., p. 56. 236 WEISS. Op. cit., p. 27. 237 GENESER. Op. cit., pp. 56-57.
+24
+
+HISTOLOGIA
+
+empacotamento e a distribuição das macromoléculas
+para a secreção, para a membrana plasmática ou para outras organelas.238
+
+necessidade energética das células, sendo que são abundantes naquelas que demandam energia e são concentradas em regiões na célula onde a energia é requerida (Figuras 1.34 e 1.35). Isso porque produzem ATP através da oxidação de carboidratos, lipídios e aminoácidos.241,242,243,244
+
+Figura 1.33 - As cisternas do Golgi organizam-se em cis, média e trans. Antes da face cis, há a rede cis do Golgi, que recebe vesículas do retículo endoplasmático ( ) e, após a face trans, há a rede trans do Golgi, de onde saem as vesículas de secreção ( ). 33.333x.
+6.6  Mitocôndrias
+
+T. Montanari
+Figura 1.34 - Mitocôndrias coradas em um túbulo renal. Altmann. Objetiva de 100x (1.373x).
+
+Altmann, no final do século XIX, observou as mitocôndrias em uma grande variedade de células, corando-as seletivamente com fucsina ácida (Figura 1.34). Ele as denominou bioblastos, sugerindo que consistiam em formas elementares de vida que se encontravam presentes em todos os tipos celulares e que, como as bactérias, eram capazes de uma existência independente.239
+
+As mitocôndrias evoluíram a partir de procariontes aeróbicos, as bactérias Eubacterium, que foram engolfadas por células eucarióticas primitivas.240
+Essas organelas estão presentes em praticamente todas as células eucarióticas. Não são encontradas nas hemácias e nas células terminais do epitélio da pele. A forma e o tamanho delas variam, podendo ser esféricas, alongadas ou pleomórficas, com 0,5 a 1µm de diâmetro e 1 a 10µm de comprimento (Figuras 1.34 a 1.36). Além da morfologia, a quantidade e a localização das mitocôndrias estão relacionadas à
+238 BERTACHINI-LOMBELLO, C.; LOURENÇO, L. B.; CARVALHO, H. F. Complexo de Golgi. In: CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. pp. 340-350. 239 HAM & CORMACK. Op. cit., p. 109. 240 ROSS & PAWLINA. Op. cit., p. 57.
+
+T. Montanari Figura 1.35 - As mitocôndrias (bastões azulados) são abundantes no túbulo distal do rim, onde ocorre transporte ativo de íons. Corte semifino corado com azul de toluidina. Objetiva de 100x (1.922x).
+241 ALBERTS et al. Op. cit., p. 769. 242 OVALLE & NAHIRNEY. Op. cit., pp. 12-13. 243 PIMENTEL, E. R. Mitocôndria. In: CARVALHO, H. F.; RECCOPIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. pp. 369-372. 244 ROSS & PAWLINA. Op. cit., pp. 56-59.
+25
+
+TATIANA MONTANARI
+
+As mitocôndrias ainda regulam a concentração de certos íons no citoplasma, um papel que compartilham com o retículo endoplasmático liso.245
+A mitocôndria apresenta duas membranas, sendo que a membrana interna invagina-se nas cristas. O compartimento entre as duas membranas é o espaço intermembranoso (8 a 10nm de espessura). Limitada pela membrana interna, há a matriz mitocondrial (Figura 1.36).246
+
+produzir ATP através da ATP-sintetase também localizada na membrana mitocondrial interna.251
+A matriz mitocondrial contém o DNA mitocondrial, ribossomos, RNAt, grânulos que armazenam Ca2+ e outros cátions, enzimas que participam da β-oxidação dos ácidos graxos e enzimas do ciclo do ácido cítrico (ou ciclo de Krebs).252
+A glicose e os aminoácidos são degradados no citoplasma a piruvato, o qual entra na mitocôndria e é convertido em acetil-coenzima A (acetil-CoA). A oxidação de ácidos graxos em acetil-CoA ocorre na matriz mitocondrial.253 A acetil-CoA combina-se com o ácido oxaloacético para formar ácido cítrico, dando início ao ciclo do ácido cítrico. Nesse ciclo, CO2 é produzido pelas reações de descarboxilação e quatro pares de H+ são removidos por reações catalisadas por desidrogenases. Os íons H+ reagem com oxigênio para formar H2O.254 Para cada molécula de piruvato, são geradas 12,5 moléculas de ATP (uma molécula de glicose produz duas moléculas de piruvato).255
+Em condições aeróbicas, glicólise extramitocondrial, ciclo do ácido cítrico e fosforilação oxidativa originam 30 ou 32 moléculas de ATP por molécula de glicose. Na glicólise, que é anaeróbica, o rendimento líquido é somente duas moléculas de ATP por cada glicose.256,257
+
+Figura 1.36 - Mitocôndrias. 44.000x.
+A membrana mitocondrial externa possui proteínas transmembranas, as porinas, que permitem a passagem de moléculas hidrossolúveis de até 10kD, o que faz com que o espaço intermembranoso tenha um conteúdo semelhante ao citosol.247 Ela contém enzimas, como a fosfolipase A2, a monoaminoxidase e a acetilcoenzima A sintase.248
+A membrana mitocondrial interna é praticamente impermeável a íons, elétrons e prótons, devido à riqueza em cardiolipina, um fosfolipídio que exibe quatro cadeias de ácidos graxos.249 No entanto, há canais iônicos e permeases que permitem a passagem seletiva de íons e moléculas do espaço intermembranoso para a matriz mitocondrial e em sentido inverso.250
+Nessa membrana, encontram-se as cadeias respiratórias, constituídas por três complexos enzimáticos: o complexo da NADH-desidrogenase, o complexo do citocromo b-c1 e o complexo da citocromo oxidase. Esses complexos formam uma cadeia transportadora de elétrons e funcionam como bombas de H+, transportando-os da matriz mitocondrial para o espaço intermembranoso. Assim, é estabelecido um gradiente eletroquímico que fornece energia para
+245 Ibid. pp. 57-58. 246 OVALLE & NAHIRNEY. Op. cit., p. 12. 247 GARTNER & HIATT. Op. cit., p. 40. 248 ROSS & PAWLINA. Op. cit., p. 57. 249 GARTNER & HIATT. Op. cit., p. 40. 250 DE ROBERTIS. Op. cit., p. 163.
+
+Por causa da grande quantidade de membranas, as mitocôndrias contribuem para a acidofilia do citoplasma. Devido ao conteúdo fosfolipídico das membranas, essas organelas podem ser coradas em magenta com fucsina ácida (Figura 1.34) ou em violeta-preto pelo método de Regaud. Podem ainda ser identificadas pela presença da citocromo-oxidase através de reações histoquímicas ou pela coloração supravital com verde Janus. A citocromooxidase oxida esse corante, e as mitocôndrias coram-se em azul ou verde, enquanto o resto do citoplasma permanece incolor.258,259,260
+As mitocôndrias são geradas daquelas préexistentes por fissão. O tempo médio de vida é de aproximadamente 10 dias.261
+6.7  Lisossomos
+251 GARTNER & HIATT. Op. cit., p. 40. 252 ROSS & PAWLINA. Op. cit., pp. 57-58. 253 PIMENTEL. Op. cit., pp. 372, 374, 382. 254 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 30. 255 PIMENTEL. Op. cit., p. 380. 256 ALBERTS et al. Op. cit., pp. 94, 769, 771, 777-778. 257 PIMENTEL. Op. cit., pp. 380-382. 258 BEÇAK & PAULETE. Op. cit., pp. 47, 224. 259 ROSS & PAWLINA. pp. 56-57. 260 WEISS. Op. cit., p. 37. 261 GARTNER & HIATT. Op. cit., p. 41.
+26
+
+HISTOLOGIA
+
+O cientista belga Christian Duve postulou, em 1955, a existência dos lisossomos a partir de dados bioquímicos. Ele e seus colaboradores encontraram enzimas hidrolíticas, como a fosfatase ácida, em frações de células hepáticas de ratos, obtidas por centrifugação diferencial.262,263
+
+Enzimas lisossômicas podem ser liberadas pelas células para realizar digestão extracelular, como é o caso dos osteoclastos na remodelação do osso.267
+6.8  Peroxissomos
+
+São pequenas organelas membranosas (0,2 a 0,5µm) com enzimas hidrolíticas, como, por exemplo, fosfatases, proteases, nucleases, glicosidases, lipases, fosfolipases e sulfatases. Essas enzimas são ativas em pH ácido, e esse pH é mantido por H+ ATPases que bombeiam H+ para a organela.264
+Os lisossomos coram-se por técnicas citoquímicas para a fosfatase ácida.265
+O material a ser digerido pode ser internalizado pela endocitose no caso de macromoléculas ou pela fagocitose se são partículas grandes ou microorganismos. Organelas velhas ou em desuso também são digeridas pelos lisossomos, e esse processo é denominado autofagia (Figura 1.37).266
+Figura 1.37 - Eletromicrografia de macrófago rico em lisossomos (L). 6.286x.
+262 HAM & CORMACK. Op. cit., p. 129. 263 OVALLE & NAHIRNEY. Op. cit., p. 20. 264 ALBERTS et al. Op. cit., pp. 739-740. 265 Ibid. p. 740. 266 Ibid. pp. 742-743.
+
+Christian Duve nomeou os peroxissomos em 1965. Pelo trabalho pioneiro na estrutura e função de organelas, com os seus estudos em lisossomos e peroxissomos, ele ganhou o prêmio Nobel de Fisiologia e Medicina em 1974.268,269
+Os peroxissomos são encontrados em quase todos os tipos celulares, mas são mais comuns nas células do fígado e do rim. São organelas membranosas esféricas ou ovoides, medindo 0,1 a 0,5µm, com uma matriz granular fina e, em muitas espécies, com um depósito cristalino.270
+Possuem enzimas da β-oxidação dos ácidos graxos de cadeias longas e muito longas, como a acilcoenzima oxidase, que encurtam as cadeias até o tamanho médio para serem oxidadas nas mitocôndrias. Há também enzimas que oxidam aminoácidos, como a D-aminoácido-oxidase, e que participam da síntese do colesterol e dos ácidos biliares.271
+Em alguns mamíferos e répteis, a degradação do ácido úrico, resultante do catabolismo das purinas, é catalisada pela urato oxidase, que o converte em alantoína, a qual é excretada. Essa enzima não é encontrada nos primatas, em aves e em alguns répteis, e o ácido úrico é excretado. Enquanto, em aves e répteis, o ácido úrico é o principal excreta, nos primatas, é a ureia, produzida nas mitocôndrias e no citosol.272
+A urato oxidase geralmente aparece como um cristaloide, denominado nucleoide. Tendo em vista a ausência dessa enzima no ser humano, os peroxissomos de células humanas não apresentam essa estrutura.273
+Quando da oxidação dos substratos orgânicos nos peroxissomos, há a retirada de átomos de hidrogênio,
+267 AZEREDO-OLIVEIRA, M. T. V.; CARVALHO, H. F. Sistema endossômico-lisossômico. In: CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. p. 359. 268 LOURENÇO, L. B.; FELISBINO, S. L.; CARVALHO, H. F. Peroxissomos. In: CARVALHO, H. F.; RECCO-PIMENTEL, S. M. A Célula. 3.ed. Barueri: Manole, 2013. p. 387. 269 OVALLE & NAHIRNEY. Op. cit., p. 20. 270 Ibid. 271 LOURENÇO et al. Op. cit., pp. 389-391. 272 Ibid. p. 391. 273 ROSS & PAWLINA. Op. cit., p. 59.
+27
+
+TATIANA MONTANARI
+
+que são combinados com o O2, produzindo H2O2 (peróxido de hidrogênio). Essa substância oxidante é prejudicial à célula e é logo degradada pela enzima catalase em água e oxigênio (2H2O2 → 2H2O + O2). A catalase pode também utilizar o oxigênio do peróxido de hidrogênio (transformando-o em água) para oxidar diversas substâncias, como o álcool e medicamentos, contribuindo para a detoxicação.274
+Os peroxissomos podem ser identificados por técnicas citoquímicas para a catalase.275
+Como as mitocôndrias, os peroxissomos formamse pela fissão das organelas pré-existentes, com a importação das proteínas do citoplasma e de fosfolipídios da membrana do retículo endoplasmático.276
+6.9  Proteassomos
+São complexos de proteases presentes no citoplasma ou no núcleo que digerem as proteínas marcadas com ubiquitina.277 Assim, são removidas as enzimas após sua ação, proteínas defeituosas e proteínas codificadas por vírus, que seriam usadas para produzir novos vírus.278
+O proteassomo tem a forma de barril, sendo constituído por quatro anéis sobrepostos. Nas extremidades, há uma partícula reguladora com ATPase, capaz de reconhecer as proteínas ligadas à ubiquitina. Esta é uma proteína pequena altamente conservada na evolução, ou seja, sua estrutura é praticamente a mesma desde as bactérias até o ser humano; ela se liga a um resíduo de lisina da proteína a ser degradada, e outras moléculas de ubiquitina se prendem à primeira. Esse complexo proteico é reconhecido pela partícula reguladora. A proteína a ser removida é desenrolada pela ATPase, com gasto de energia, e introduzida no proteassomo, onde é degradada em peptídeos de oito aminoácidos, os quais são digeridos por enzimas do citoplasma ou têm outros destinos, como participar da resposta imune. As moléculas de ubiquitina são liberadas pelas partículas reguladoras para serem usadas novamente.279
+274 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 39. 275 LOURENÇO et al. Op. cit., p. 387. 276 ALBERTS et al. Op. cit., pp. 686-687, 708-709. 277 ROSS & PAWLINA. Op. cit., p. 47. 278 JUNQUEIRA & CARNEIRO. Histologia básica. Op. cit., p. 39. 279 Ibid.
+
+7 – QUESTIONÁRIO
+1) Qual é o conceito de célula? 2) Qual é o critério usado para classificar as células em procariontes e eucariontes? 3) Quais são os componentes do microscópio de luz e para que servem? 4) Qual é o limite de resolução do microscópio de luz? E do microscópio eletrônico de transmissão? 5) Como se realiza a iluminação de Köhler? 6) Quais são as etapas para a obtenção dos cortes histológicos? 7) Usando a técnica de coloração hematoxilina e eosina como exemplo, explique o que são basofilia e acidofilia? 8) O que é metacromasia? 9) Qual é a técnica de coloração para glicídios e glicoproteínas? 10) Quais são os fatores que contribuem para determinar a mofologia celular? 11) Dê exemplos de formas de células e relacione com a atividade funcional. 12) Qual é a constituição da membrana celular? 13) O que são proteínas integrais e periféricas? 14) O que é o glicocálix? Quais são suas funções? 15) Relacionando com os seus constituintes, qual é a importância da membrana celular? 16) Quais são as moléculas que atravessam mais fácil e rapidamente a membrana? 17) Quais são os tipos de transporte pela membrana? 18) Como é denominado o transporte envolvido com a entrada de material na célula? E aquele envolvido com a saída? 19) Compare pinocitose e fagocitose. 20) Quais são os componentes do citoesqueleto e como atuam? 21) Descreva as junções celulares segundo a sua constituição e função. 22) O nucléolo é uma organela membranosa? Do que ele é constituído? 23) Compare a mitose e a meiose, resumindo os acontecimentos de cada fase. 24) Quais são as etapas de modificações nucleares na apoptose? 25) Descreva as organelas segundo a sua morfologia, função e exemplo de célula onde são predominantes.
+28
+
+

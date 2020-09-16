@@ -1,0 +1,24 @@
+Conceitos da física: conheça os principais
+
+Física está entre as matérias mais temidas dos cursos de engenharia. Entender a razão disso é simples: além de ter muito conteúdo teórico, a parte de cálculo é bastante expressiva.
+Antes de odiar a matéria, responsável inclusive por muitas desistências no curso, é preciso entender que a física nada mais do que a compreensão de alguns conceitos do nosso dia a dia. Entender leis da mecânica, termodinâmica e outras irá ajudá-lo a entender fórmulas, teoremas e tantas outras questões que envolvem a matéria.
+Para ajudar no seu aprendizado, selecionamos os principais conceitos da física, de forma simplificada, para que suas próximas aulas e estudos sejam mais agradáveis e o entendimento da matéria mais fácil:
+
+Mecânica – movimento e repouso dos corpos
+Mecânica é o ramo da física que compreende o estudo e análise do movimento e repouso dos corpos e sua evolução no tempo. Também é responsável pelos seus deslocamentos quando estes estão sob ação de alguma força.
+Os primeiros cientistas que se dedicaram a pesquisar sobre a mecânica, ainda na Idade Moderna, foram Galileu, Kepler e, especialmente, Newton. São eles os responsáveis por lançar as bases do que hoje é conhecido como mecânica clássica. A mecânica convencional, por outro lado, é muito mais ampla e ainda abriga a mecânica quântica, relativística e a teoria quântica dos campos.
+
+Calor e termodinâmica: temperatura, pressão e volume
+Este conceito estuda as causas e efeitos que mudanças de temperatura, pressão e volume podem causar em sistemas físicos. Isso significa que a termodinâmica analisa o movimento da energia e como ela cria movimento.
+São quatro os princípios da termodinâmica: o princípio zero, que rege os estados em equilíbrio; o primeiro princípio, sobre conservação de energia; o segundo princípio, que trata das condições para que um evento físico ou químico ocorram; e o quarto princípio, que estabelece um ponto de referência absoluto para a determinação da entropia.
+A equação mais famosa a termodinâmica é a equação de Mendeleyev, que determina o estado de um gás ideal.
+
+Eletricidade e eletromagnetismo – estudo dos fenômenos resultantes da energia elétrica
+O conceito de eletricidade é um termo geral que abrange todos os fenômenos resultantes da presença de energia elétrica. Isso não se resume apenas às correntes elétricas que passam pelos fios em nossas casas, mas também ao estudo dos relâmpagos, estática, indução e magnetismo. Os conceitos fundamentais que precisam ser aprendidos em relação à eletricidade são carga elétrica, campo elétrico, potencial elétrico, corrente elétrica, potência elétrica, energia elétrica e eletromagnetismo.
+O eletromagnetismo, em especial, refere-se à teoria unificada desenvolvida por James Maxwell para explicar a relação direta entre eletricidade e magnetismo. O estudo dos campos magnéticos, que nada mais são do que cargas elétricas em movimento, dará base para outras matérias da engenharia, principalmente no campo da engenharia elétrica.
+
+Movimento ondulatório: arco-íris, espelhos e cores
+O movimento ondulatório estuda a propagação de uma onda por um meio material ou no vácuo. Uma onda é uma perturbação de alguma propriedade em um meio como densidade, pressão ou campo magnético. Os conceitos mais importantes no movimento ondulatório referem-se ao comprimento e período da onda. O primeiro irá apontar como a oscilação é caracterizada enquanto o segundo o tempo decorrido.
+Também é importante dominar os conceitos de frequência, movimento longitudinal, movimento transversal e os tipos de ondas: unidimensionais, bidimensionais e tridimensionais.
+Em seus estudos sobre a matéria você perceberá que estes conceitos se interligam em determinadas situações. Isso significa que o estudo da Física não deve ser encarado como uma questão isolada, mas complementar. Cada conceito aprendido ajudará no entendimento de outros. Por isso, leia muito e pratique exercícios para ter certeza de que o mal entendimento da matéria não está relacionado à falta de conhecimento de outra.
+Para você, qual desses conceitos é o mais complicado?

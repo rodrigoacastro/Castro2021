@@ -1,0 +1,13 @@
+Pleiotropia e Interação Gênica
+
+Os genes carregam informações sobre o ser vivo. Cor dos olhos, formato do nariz, cor do cabelo… são exemplos destas características que estão no nosso DNA. Alguns genes são responsáveis por uma só característica, porém outros genes funcionam juntos para dar uma característica. Ou um gene pode trazer mais de uma característica.
+Vamos ver como isso acontece ?
+A Pleiotropia é a denominação utilizada para definir o estado de um gene, quando esse possui mais de uma atuação sobre o fenótipo, ou seja, é um mecanismo genético controlador de várias características a partir da expressão de um único gene. A palavra Pleiotropia vem do grego, pleion = mais numeroso e tropos = afinidade, isso quer dizer que  um par de genes alelos condiciona o aparecimento de várias características no mesmo organismo.
+Um exemplo de pleiotropia é:
+existem as duas variedades de cebola: a branca e a avermelhada. A avermelhada é resistente ao ataque de um determinado fungo parasita, enquanto que a branca não é. Estudos mostraram que um único gene recessivo era, em condição homozigótica, o responsável pela manifestação desses dois caracteres: cor vermelha e produção de substâncias que impedem a fixação do fungo parasita, configurando um caso de pleiotropia.
+
+Mas a maior parte das características dos seres vivos resulta da ação de diversos genes, que interagem na determinação desta ou daquela característica. Quando dois ou mais genes, localizados ou não no mesmo cromossomo, agem conjuntamente na determinação de uma característica, fala-se em interação gênica.
+Um exemplo de interação gênica É :
+Periquitos australianos apresentam grande variedade de cores na plumagem. No entanto, na determinação das cores básicas da plumagem – verde, azul, amarela e branca – estão envolvidos dois genes principais: A/a e B/b.
+Periquitos homozigóticos recessivos (aabb) apresentam cor branca; periquitos homozigóticos recessivos aa, mas que possuem ao menos um alelo dominante B(aaBB ou aaBb), são amarelos; periquitos homozigóticos recessivos bb, mas que possuem ao menos um alelo dominante A (AAbb ou Aabb), são azuis; periquitos que apresentam pelo menos um alelo dominante de cada gene (AABB, AABb,AaBB ou AaBb) têm cor verde.
+O cruzamento de periquitos duplo heterozigóticos (AaBb) produz quatro tipos de descendentes: verdes (A_B_), azuis (A_bb), amarelos (aaB_) e brancos (aabb). A proporção, neste caso, apresenta-se assim: 9 verdes: 3 azuis: 3: amarelos: 1 branco.

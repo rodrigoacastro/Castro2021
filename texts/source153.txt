@@ -1,0 +1,60 @@
+Termoquímica
+
+A grande maioria das reações químicas e físicas que se tem conhecimento apresenta ganho ou perda de energia, especialmente sob a forma de calor. Por isso, existe uma área da Química que estuda as trocas de calor, ou seja, as quantidades de calor que são absorvidas ou liberadas numa reação química ou numa transformação física, que recebe o nome de Termoquímica.
+
+No estudo da Termoquímica, as reações químicas são classificadas em dois grupos:
+
+Reações endotérmicas – são as reações que absorvem energia. Nessas reações, a entalpia dos reagentes, ou seja, sua a energia total é menor que a dos produtos, por isso há absorção de energia sob a forma de calor. Veja alguns exemplos de processos endotérmicos:
+
+• A síntese do óxido nítrico, a partir da reação dos gases nitrogênio e oxigênio.
+
+
+• A decomposição do carbonato de cálcio, que produz cal e gás carbônico.
+
+ 
+• A produção do ferro metálico a partir da hematita (Fe2O3).
+
+
+•  O cozimento dos alimentos.
+
+• A fotossíntese realizada pelos vegetais, que absorve a energia proveniente da luz solar. Nesse caso, porém, a energia absorvida está sob a forma de luz e não de calor.
+
+
+Reações exotérmicas – são as reações que liberam ou produzem calor. Em reações desse tipo, a energia desprendida na formação das ligações químicas é maior que a energia gasta no rompimento das ligações químicas dos reagentes. E essa diferença de energia é, então, liberada sob a forma de calor. Por exemplo:
+
+• Processos de combustão, como a queima do carvão.
+
+
+• A queima da glicose durante o processo de respiração que ocorre em nossas células.
+
+
+• A produção da água através da reação dos gases oxigênio e hidrogênio.
+
+
+• A formação do dióxido de enxofre a partir da reação de enxofre e oxigênio.
+
+
+• A produção industrial da amônia através da reação dos gases nitrogênio e hidrogênio.
+
+
+Dentre as transformações químicas também existe ganho ou perda de energia, como ocorre nas mudanças de estado da matéria. Nos processos de fusão, vaporização e sublimação há absorção de calor, enquanto nos processos de solidificação e condensação há liberação de calor. Observe o esquema abaixo:
+
+Mas, além de compreender e classificar as reações que envolvem trocas de calor, é importante, também, fazer a medição dessas grandezas. Para isso, contamos com a calorimetria, que é a área responsável pelo estudo e a medição das quantidades de calor absorvidas ou liberadas no decorrer das transformações químicas e físicas.
+
+A medição dessas quantidades de calor é feita por aparelhos denominados calorímetros. Esses aparelhos são utilizados para determinar a variação de entalpia (?H), que é a medida da quantidade de calor absorvida ou liberada numa reação, sob pressão constante.
+
+Em reações exotérmicas, como ocorre liberação de calor, a entalpia dos reagentes (HR) é maior que a entalpia dos produtos (Hp). Podemos representar isso genericamente:
+
+Graficamente, temos:
+
+Já nas reações endotérmicas, por haver absorção de calor, a entalpia dos reagentes é menor que a entalpia dos produtos. Observe:
+
+Graficamente, temos:
+
+É importante ressaltar que, até, hoje, não se conhece nenhuma forma de medir os valores absolutos das entalpias, ou seja, o conteúdo energético de uma substância, por isso, medimos a variação de entalpia (?H).
+
+Referências
+
+FELTRE, Ricardo. Química volume 2. São Paulo: Moderna, 2005.
+
+USBERCO, João, SALVADOR, Edgard. Química volume único. São Paulo: Saraiva, 2002
