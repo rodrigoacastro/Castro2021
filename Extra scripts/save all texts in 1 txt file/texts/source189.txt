@@ -1,0 +1,37 @@
+Ondas
+
+Para a Física, a onda é uma perturbação que se propaga no espaço ou em qualquer outro meio. Elas são classificadas em relação à natureza, direção e energia de propagação.
+
+As ondas são perturbações que se propagam no espaço ou em meios materiais transportando energia. De acordo com a sua natureza, as ondas podem ser classificadas em dois tipos:
+Ondas mecânicas: são as ondas que se propagam em meios materiais. Por exemplo: as ondas marítimas, ondas sonoras, ondas sísmicas etc. A descrição do comportamento desse tipo de onda é feita pelas Leis de Newton.
+
+Ondas eletromagnéticas: são resultado da combinação de campo elétrico com campo magnético. A sua principal característica é que não precisam de um meio material para propagar-se. São exemplos desse tipo de onda a luz, raio X, micro-ondas, ondas de transmissão de sinais, entre outras. Elas são descritas pelas equações de Maxwell.
+
+Outra classificação das ondas é feita considerando-se a direção de vibração. De acordo com essa característica, uma onda pode ser definida como:
+- Transversal: quando as partículas do meio de propagação vibram perpendicularmente à direção de propagação da onda. Um exemplo desse tipo de onda é a luz.
+- Longitudinais: quando as partículas do meio de propagação vibram na mesma direção em que a onda se propaga, como é o caso das ondas sonoras.
+
+Por fim, quanto à direção de propagação, as ondas podem ser classificadas em:
+- unidimensionais: quando se propagam em apenas uma direção, como a onda em uma corda;
+- bidimensionais: se a propagação ocorre em duas direções, que é o caso da onda gerada por uma perturbação na água;
+- ondas tridimensionais: que se propagam em três dimensões, como as ondas sonoras.
+
+Propriedades das ondas
+Para estudar uma onda, precisamos conhecer algumas de suas propriedades, tais como: a velocidade de propagação, a amplitude, o período e a frequência. Para uma melhor compreensão dessas propriedades, veja a seguir a representação gráfica de uma onda:
+
+O comprimento de onda, que pode ser representado pela letra λ, é a distância entre valores repetidos em uma forma de onda. É calculado com a equação:
+Sendo:
+
+λ – o comprimento de onda;
+c – velocidade da luz no vácuo (possui valor igual a 3.108m/s);
+f – frequência da luz.
+A partir de λ, podemos calcular a velocidade de uma onda com a seguinte fórmula:
+Sendo:
+
+v – velocidade da onda;
+λ – comprimento da onda;
+T – período.
+O período é definido como o espaço de tempo necessário para uma onda caminhar um comprimento de onda.
+A frequência é o inverso do período:
+
+a velocidade de propagação da onda pode ser dada por:

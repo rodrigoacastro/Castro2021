@@ -1,0 +1,33 @@
+Daltonismo
+
+Daltonismo é uma alteração da visão que caracteriza-se pela incapacidade de distinguir algumas cores, principalmente o verde do vermelho. Assim como a hemofilia, o daltonismo é um exemplo de herança ligada ao sexo.
+
+O daltonismo é determinado por um gene recessivo ligado ao cromossomo X, simbolizado por Xd enquanto que o gene alelo dominante, que condiciona a visão normal, é simbolizado por XD.
+
+Genótipos e Fenótipos no Daltonismo
+Sexo	Genótipo	Fenótipo
+Masculino	XDY	Normal
+Masculino	XdY	Daltônico
+Feminino	XDXD	Normal
+Feminino	XDXd	Normal portadora
+Feminino	XdXd	Daltônica
+
+Dos 23 pares de cromossomos humanos, um par está ligado ao sexo. Um cromossomo X e outro Y definem o sexo masculino (XY) e dois cromossomos X o sexo feminino (XX).
+
+Um indivíduo do sexo feminino precisa herdar dos pais os dois cromossomos Xd para ser daltônico. Porém, ele pode herdar um cromossomo Xd e outro XD, tornando-se portador e podendo transmiti-lo aos filhos, mesmo sem apresentar a anomalia.
+
+Assim, a probabilidade de uma mulher normal portadora transmitir a doença a um filho do sexo masculino é de 50%. Se o filho for do sexo feminino, é preciso que o pai também seja daltônico para que ele herde a anomalia.
+
+Se a mãe for daltônica e tiver um filho do sexo masculino, a probabilidade dele também ser é de 100%, pois ela, sendo XdXd, irá sempre transmitir o gene ao filho, que, neste caso, será sempre ser XdY. Uma filha só terá daltonismo se o pai também tiver. Caso contrário, será apenas portadora (XDXd).
+
+Para os homens, basta herdar apenas um cromossomo Xd (da mãe) para manifestar o daltonismo, uma vez que só possuem um cromossomo X. Um homem será sempre normal ou portador e jamais será normal portador.
+
+Se o homem for daltônico e tiver uma filha, ela recebeu o seu cromossomo Xd e será portadora ou daltônica, de acordo com o cromossomo que herdou da mãe (Xd ou XD). Neste caso, filhos do sexo masculino nunca serão daltônicos, pois só recebem do pai o cromossomo Y.​
+
+Isso explica por que o daltonismo é tão raro em mulheres e relativamente frequente nos homens. De fato, cerca de 97% dos daltônicos são do sexo masculino.
+
+Daltonismo
+
+Teste de Daltonismo
+
+Se a pessoa conseguir ver um "2" na imagem acima, provavelmente não tem daltonismo.

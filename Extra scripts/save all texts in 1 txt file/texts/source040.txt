@@ -1,0 +1,24 @@
+O que é uma força centrípeta?
+
+Uma força centrípeta é a força resultante que age sobre um objeto para mantê-lo em movimento ao longo de um trajeto circular.
+Em nosso artigo sobre aceleração centrípeta, aprendemos que qualquer objeto viajando ao longo de um caminho circular de raio rrr com velocidade vvv sofre uma aceleração direcionada ao centro deste caminho,
+
+a = v2/r
+
+No entanto, primeiramente devemos discutir como o objeto começou a mover-se pelo trajeto circular. A 1ª lei de Newton nos diz que um objeto irá continuar seu movimento em um trajeto contínuo a não ser que sofra a ação de uma força externa. A força externa neste caso é a força centrípeta.
+É importante compreender que a força centrípeta não é uma força fundamental, mas apenas um rótulo dado para a força resultante que faz o objeto mover-se em um trajeto circular. A força de tensão em uma bola amarrada em uma corda e a força gravitacional mantendo um satélite em órbita são ambos exemplos de forças centirípetas. Múltiplas forças individuais podem ser relacionada desde que elas se adicionem (por adição vetorial) para dar a força resultante para o centro de um trajeto circular.
+Começando com a 2ª lei de Newton :
+
+a = F/m
+
+e, então, igualar à aceleração centrípeta,
+
+v2/r = F/m
+
+Podemos mostrar que a força centrípeta FcF_cFc​ tem magnitude
+
+Fc = mv2/r
+
+e é sempre dirigido para o centro da trajetória circular. De forma equivalente, se ω\omegaω é a velocidade angular e porque v=rωv=r\omegav=rω, então
+
+Fc = mrω2

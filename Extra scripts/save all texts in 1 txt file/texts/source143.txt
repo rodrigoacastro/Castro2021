@@ -1,0 +1,28 @@
+Efeitos da corrente elétrica
+
+Quando o interruptor é ligado, há passagem de corrente elétrica pelo filamento da lâmpada, o que provoca seu aquecimento e, como consequência, a emiss
+
+No nosso dia a dia, não podemos visualizar diretamente a corrente elétrica, da mesma forma como visualizamos o fluxo de água em uma mangueira, por exemplo. Mas podemos percebê-la de outras maneiras, como pelos efeitos que ela produz (por exemplo: quando ligamos o interruptor de uma lâmpada e ela ascende, quando ligamos a TV, o ventilador etc.). A grande utilização prática da eletricidade deve-se, certamente, à variedade de efeitos produzidos pela corrente. Abaixo vamos destacar algumas de suas principais aplicações.
+
+Efeito térmico
+
+Também conhecemos esse efeito como efeito joule, provavelmente o mais fácil de ser compreendido. Os elétrons transferem energia para os átomos da rede atômica, quando colidem com estes após serem acelerados pelas forças elétricas. Como consequência dessa colisão e transferência de energia, há um aumento na energia de vibração desses átomos e, consequentemente, um aumento em sua temperatura.
+
+Essa caraterística é bastante aplicada em aparelhos que funcionam como produtores de calor ou luz. Os exemplos mais básicos desses aparelhos são os ferros elétricos, lâmpadas incandescentes, secadores de cabelo etc.
+
+Efeito químico
+
+Esse efeito ocorre quando a corrente elétrica atravessa soluções eletrolíticas, provocando transformações químicas. É usado industrialmente nos processos de eletrodeposição, para revestir uma superfície de um metal com uma camada de outro, a fim de conferir a ele um bom acabamento e protegê-lo da corrosão. Os metais utilizados como revestimento são, principalmente, a prata, o ouro, o cromo, o níquel, o zinco, o cobre, o estanho e o cádmio.
+
+Efeito luminoso
+
+Esse efeito baseia-se no fato de gases ionizados emitirem luz quando atravessados por uma corrente elétrica. Como exemplo temos as lâmpadas fluorescentes, as lâmpadas de vapor de mercúrio, as lâmpadas de vapor de sódio etc.
+
+Efeito fisiológico
+
+Quando uma corrente elétrica atravessa um organismo vivo, além dos efeitos térmicos e químicos, ocorrem também efeitos sobre nervos e músculos. Correntes de 10 mA a 15 mA podem provocar câimbra muscular. Correntes até 50 mA podem paralisar a musculatura do aparelho respiratório. Correntes de 50 mA a 100 mA, se agirem em uma pessoa por mais de 0,2 s, levam à morte.
+
+Efeito magnético
+
+Esse efeito se manifesta pela criação de um campo magnético na região em torno da corrente. A existência de um campo magnético, em determinada região, pode ser constatada com o uso de uma bússola: ocorrerá desvio de direção da agulha magnética.
+

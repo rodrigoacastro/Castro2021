@@ -1,0 +1,23 @@
+Eletricidade
+
+A eletricidade é a parte da Física que estuda fenômenos associados às cargas elétricas. Os estudos na área são divididos em: eletrostática, eletrodinâmica e eletromagnetismo.
+
+É impossível imaginar como seria nossa vida sem a eletricidade. Ela está presente em praticamente todos os momentos do nosso dia a dia, quando acendemos uma lâmpada, guardamos um alimento na geladeira para conservá-lo, ao assistirmos à TV, entre tantos outros. Portanto, precisamos dela para viver com qualidade e conforto.
+
+A eletricidade é definida como a parte da ciência que estuda fenômenos que ocorrem graças à existência de cargas elétricas nos átomos que compõem a matéria. Lembrando que os átomos são formados por prótons (portadores de carga positiva), nêutrons, que ficam no núcleo atômico, e por elétrons (portadores de cargas negativas) localizados ao redor do núcleo, em uma região denominada eletrosfera.
+
+Os estudos nessa área são divididos em três partes:
+
+Eletrostática: estuda as cargas elétricas em repouso e abrange os conceitos de tipos de eletrização, força eletrostática, campo elétrico e potencial elétrico;
+
+Eletrodinâmica: responsável pelo estudo das cargas elétricas em movimento. Refere-se principalmente aos conceitos associados à corrente elétrica e aos circuitos elétricos com os seus componentes, como resistores, geradores e capacitores;
+
+Eletromagnetismo: é a parte da eletricidade que estuda a relação entre os fenômenos elétricos e magnéticos, sendo eles a corrente elétrica produzida pela variação de campo magnético, bem como o campo magnético gerado por uma corrente elétrica.
+
+A palavra eletricidade tem origem no termo grego eléktron, que, em português, significa âmbar. O nome está ligado às primeiras observações e estudos sobre os fenômenos elétricos realizados por Tales de Mileto, por volta de 600 a.C., que foram feitos a partir do âmbar, uma resina fóssil que, ao ser atritada, adquire a capacidade de atrair pequenos objetos.
+
+Apesar das descobertas na área terem se iniciado na Grécia Antiga, o grande marco dos estudos na área foi a descoberta do elétron no século XIV feita por J. J. Thompson ao realizar a experiência com os raios catódicos.
+
+A eletricidade até hoje permitiu ao homem realizar feitos incríveis. Pequenos aparelhos como a Lâmpada elétrica, que permitiu a realização de atividades noturnas, são exemplos da grande mudança que essa área ocasionou na sociedade.
+
+Agora, a grande preocupação é obter novas fontes de energia que sejam menos agressivas ao meio ambiente e mais eficientes.

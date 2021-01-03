@@ -1,0 +1,31 @@
+Como acontece uma mutação no DNA?
+
+Qualquer mudança na seqüência de 3 bilhões de letrinhas que formam o nosso genoma é o que chamamos de mutação
+
+O DNA serve como um manual de instruções da vida. Só que alterações ao acaso podem modificar esse manual. Aqui, você confere como funciona o DNA e descobre o que pode dar errado a ponto de ser criada uma mutação.
+
+1. O material genético humano está organizado em 46 cromossomos que ficam no núcleo das células. Os cromossomos são como novelos, cujos fios enrolados são o DNA, um tipo de molécula que guarda as instruções que cada célula precisa para viver
+
+2. O DNA é formado por uma seqüência de pequenas unidades, os nucleotídeos. São as ligações entre eles que fazem o DNA crescer como duas longas fitas, adquirindo a forma de uma hélice dupla
+
+3. Existem quatro tipos de nucleotídeos para fazer essas ligações, que só se unem seguindo certas regras: adeninas (A) só se encaixam com timinas (T); guaninas (G), com citosinas (C). A ordem desse “alfabeto” é o código do nosso “manual” de funcionamento
+
+4. Cada vez que uma célula se divide, ela passa uma cópia do DNA para a outra. A replicação começa com a ação de uma enzima que quebra as ligações das “letras” (os nucleotídeos) que unem as duas fitas do DNA. A hélice dupla se abre como um zíper
+
+5. Ao mesmo tempo, outra enzima se encaixa nas fitas soltas do DNA e começa a criar uma fita complementar. Se a fita antiga tem uma guanina exposta, por exemplo, a enzima encontra uma citosina solta no núcleo e a encaixa para formar a nova fita
+
+6. As enzimas responsáveis pelos encaixes vão adicionando “letras” às fitas soltas num ritmo de 50 delas por segundo, até que, no final, cada fita vira um DNA inteiro, com hélice dupla. É um processo preciso: só rola um erro a cada 1 bilhão de letras!
+
+7. Para corrigir os raríssimos erros, existe um terceiro tipo de enzima, as “enzimas de reparo”. Elas percorrem o novo DNA enquanto ele é feito, fiscalizando os encaixes das letras e consertando as combinações erradas
+
+8. Mesmo com esse controle, fatores como radiação e variação de temperatura podem atrapalhar a replicação do DNA. E qualquer mudança na seqüência de 3 bilhões de letrinhas que formam o nosso genoma é o que chamamos de mutação
+
+OS EFEITOS DA MUTAÇÃO
+
+Quase tudo no corpo ou tem proteínas ou é construído por elas. O DNA é um manual de instrução para a produção de proteínas nas células. Se ele sofre uma mutação, a célula que o contém produzirá proteínas diferentes do que diz o “manual”, como mostra este infográfico.
+
+I. Os genes são pedaços do DNA, ou seja, um trecho da seqüência de letras. Cada gene tem a receita para fazer um tipo de proteína. A produção começa com uma enzima que abre uma parte do DNA e depois tira um “molde” do gene usando outra molécula, o RNA
+
+II. O RNA é uma espécie de DNA com apenas uma fita, e não duas – e onde a letra “T” (de timina) é trocada pela “U” (de uracila). O molde de RNA sai do núcleo e vai para o citoplasma da célula, onde se encaixa num “órgão”, o ribossomo, para começar a produzir proteínas
+
+III. A quantidade e a ordem de letras do molde de RNA determinam a ordem e o tamanho da produção dos aminoácidos, as pequenas substâncias que compõem uma proteína. Por exemplo, uma seqüência de letras “ACA” forma o aminoácido treonina. A troca de só uma letra altera a seqüência de aminoácidos e a proteína esperada não é formada. Isso muda algo no corpo na parte onde a tal proteína atuaria – que pode ser da cor da pele ao sistema digestivo

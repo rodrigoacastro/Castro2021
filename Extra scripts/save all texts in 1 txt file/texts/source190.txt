@@ -1,0 +1,26 @@
+Ondas eletromagnéticas
+
+As ondas eletromagnéticas são formadas pela combinação de campos elétricos e magnéticos. Elas foram descritas por um conjunto de equações formulado por James C. Maxwell.
+
+As ondas eletromagnéticas são resultado das combinações de campos elétricos e campos magnéticos. Foi graças à descoberta das propriedades dessas ondas que hoje em dia podemos ouvir músicas ou notícias nos rádios, assistir a programas de TV, aquecer alimentos em micro-ondas, acessar à internet e mais uma infinidade de coisas.
+As ondas eletromagnéticas resultam da combinação de um campo elétrico e de um magnético que se propagam no espaço
+
+No século XIX, foi o físico escocês James C. Maxwell o primeiro a demonstrar que a oscilação de uma carga elétrica dá origem a campos magnéticos. Esses campos, por sua vez, produzem campos elétricos, assim como a variação de fluxo de campos elétricos origina campos magnéticos. A interação entre esses campos é responsável pelo surgimento das ondas eletromagnéticas.
+Maxwell baseou-se nas Leis de Ampère, Faraday e Coulomb para relacionar diversas equações que atualmente são conhecidas como equações de Maxwell. Essas equações permitiram que ele fizesse a previsão da existência das ondas eletromagnéticas. A confirmação da existência dessas ondas foi feita apenas depois de nove anos, pelo físico alemão Heinrich Hertz, que conseguiu obter ondas eletromagnéticas com todas as características já descritas por Maxwell, o qual morreu antes de ver a confirmação das suas teorias.
+Uma das principais contribuições de Maxwell foi determinar que a velocidade das ondas eletromagnéticas no vácuo é igual a 3.108 m/s, o que corresponde à mesma velocidade já obtida para a propagação da luz. Essa descoberta fez Maxwell suspeitar que a luz era um tipo de onda eletromagnética, o que foi confirmado por Hertz alguns anos mais tarde.
+Uma evidência de que a luz seja uma onda eletromagnética é o fato de a luz do sol chegar até a Terra, apesar da longa distância e da inexistência de um meio material no espaço para a sua propagação.
+
+Em face de todas as suas contribuições, Maxwell é considerado tão importante para o Eletromagnetismo quanto Isaac Newton é para a Mecânica.
+
+Características das ondas eletromagnéticas
+
+São formadas pela combinação de campos elétricos e magnéticos variáveis;
+O campo elétrico e o campo magnético são perpendiculares;
+O campo elétrico e o magnético são perpendiculares à direção de propagação, o que significa que são ondas transversais;
+A velocidade de propagação dessas ondas no vácuo é c = 3 . 108 m/s;
+Ao propagar em meios materiais, a velocidade obtida é menor do que quando a propagação ocorre no vácuo.
+Espectro eletromagnético
+O espectro eletromagnético representa as faixas de frequências ou comprimentos de ondas que caracterizam os diversos tipos de ondas eletromagnéticas, como a luz visível, as micro-ondas, as ondas de rádio, radiação infravermelha, radiação ultravioleta, raios x e raios gama.
+
+Todas essas ondas propagam-se à mesma velocidade quando estão no vácuo.
+O comprimento de uma onda eletromagnética é que determina seu comportamento. Ondas de alta frequência são curtas, e as de baixa frequência são longas. Se a onda interage com uma única partícula ou molécula, seu comportamento depende da quantidade de fótons que ela carrega.

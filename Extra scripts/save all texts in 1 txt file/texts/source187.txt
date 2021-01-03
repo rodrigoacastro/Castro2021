@@ -1,0 +1,14 @@
+Trajetória
+
+A trajetória é considerada o espaço das posições ocupado por um corpo que se move. 
+Ela é totalmente dependente do referencial, pois a trajetória está relacionada aos movimentos, que também dependem do referencial. 
+
+Vejamos alguns exemplos de trajetória: 
+
+Esta figura representa a trajetória de uma parabólica de um corpo.
+
+Com relação aos fogos de artifício, a trajetória dos rastros luminosos, é totalmente dependente dos movimentos.
+
+Quando falamos de ponto material, podemos dizer que quando o ponto material estiver em repouso, sua trajetória será um ponto.
+
+Neste caso, o ponto material está sendo representado pelos relâmpagos, que faz cair direto em certo ponto da superfície terrestre, que é a trajetória.

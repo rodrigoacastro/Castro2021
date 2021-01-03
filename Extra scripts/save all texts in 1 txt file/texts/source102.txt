@@ -1,0 +1,614 @@
+Elaine Bortoleti de Araújo
+
+Radiofármacos são fármacos radioativos utilizados no diagnóstico ou tratamento de patologias e disfunções do organismo humano. Vários radioisótopos são utilizados na preparação de radiofármacos, entre os quais o tecnécio-99m (99mTc), que apresenta características físicas ideais para aplicação em Medicina Nuclear Diagnóstica. Uma vez administrado ao paciente, o radiofármaco deposita-se no órgão ou tecido alvo e imagens podem ser adquiridas a partir da detecção da radiação proveniente do paciente, utilizando-se equipamentos apropriados. Trata-se de um procedimento não invasivo, que possibilita avaliações anatômicas, morfológicas e funcionais. O radionuclídeo 99mTc é obtido a partir do decaimento radioativo de outro radionuclídeo, o molibdênio-99m (elemento pai), podendo ser facilmente disponibilizado, no ambiente hospitalar, a partir de geradores de 99Mo-99mTc. O tecnécio-99m pode ligar-se a diferentes substratos ou ligantes, por reação de complexação, originando radiofármacos com afinidade por diferentes órgãos, sistemas ou receptores no organismo. O conhecimento da química de complexação do elemento tecnécio é de extrema importância para o desenvolvimento destes radiofármacos.
+
+L
+
+L
+
+radiofármacos, tecnécio-99m, Medicina Nuclear, complexação
+
+31
+
+Radiofármacos para diagnóstico e terapia
+Um radiofármaco é uma substância que, por sua forma farmacêutica, quantidade e qualidade de radiação, pode ser utilizada no diagnóstico e tratamento de seres vivos, qualquer que seja a via de administração utilizada. De forma mais simples, podemos dizer que radiofármacos são moléculas ligadas a elementos radioativos (radioisótopos ou radionuclídeos), constituindo dessa forma fármacos radioativos que são utilizados em uma especialidade médica denominada Medicina Nuclear. Os radiofármacos são utilizados em quantidades traços (traçadores radioativos) com a finalidade de diagnosticar patologias e disfunções do organismo. Em menor extensão, são aplicados na terapia de doenças, particularmente no tratamento de tumores radiosensíveis.
+Quando a finalidade é diagnosticar patologias, como por exemplo o infarto do miocárdio ou uma disfun-
+
+ção renal, utiliza-se, na composição compostos por radionuclídeos emis-
+
+dos radiofármacos, radionuclídeos sores de radiação particulada, (α ou
+
+emissores de radiação gama. A β–), que possuem pequeno poder de
+
+radiação gama é uma onda eletro- penetração mas são altamente ener-
+
+magnética e, portanto, apresenta géticas, ionizando o meio que atra-
+
+grande penetrabilidade nos tecidos e vessam e causando uma série de
+
+baixo poder de ionização quando efeitos que resultam na morte das
+
+comparada às radiações particu- células tumorais. Como exemplo de
+
+ladas, representadas pela emissão, radionuclídeos emissores de radiação
+
+pelo núcleo dos átomos radioativos, β– utilizados em terapia, podemos
+
+de partículas alfa (α)
+
+citar o iodo-131, ítrio-
+
+ou de négatrons (β–).
+
+Radiofármacos são
+
+90, lutécio-177, rê-
+
+O menor poder de
+
+moléculas ligadas a
+
+nio-188, estrôncio-
+
+ionização da radia- elementos radioativos que 90 e o samário-153,
+
+ção gama minimiza a
+
+são utilizadas em uma
+
+entre outros.
+
+dose de radiação
+
+especialidade médica
+
+A maioria dos
+
+absorvida pelo paci-
+
+denominada Medicina
+
+procedimentos reali-
+
+ente. Radionuclídeos
+
+Nuclear
+
+zados atualmente
+
+emissores de radia-
+
+em Medicina Nucle-
+
+ção gama, tais como o tecnécio-99m, ar tem finalidade diagnóstica. O
+
+iodo-123, índio-111, galio-67 e o tálio- paciente recebe uma dose de um ra-
+
+201, entre outros, são utilizados na diofármaco composto por um radio-
+
+composição de radiofármacos para nuclídeo gama emissor, e é posterior-
+
+diagnóstico.
+
+mente examinado por um equipa-
+
+Quando a finalidade é terapêutica, mento capaz de detectar a radiação
+
+o efeito deletério da radiação é utili- oriunda do paciente e convertê-la em
+
+zado para destruir células tumorais. uma imagem que representa o órgão
+
+Nesse caso, os radiofármacos são ou sistema avaliado. Esses equipa-
+
+CADERNOS TEMÁTICOS DE QUÍMICA NOVA NA ESCOLA
+
+O tecnécio no diagnóstico de patologias
+
+N° 6 – JULHO 2005
+
+mentos são denominados câmaras- xou vários lugares vazios para os ele- mentos de detecção de radiação
+
+gama ou câmaras de cintilação, e mentos até então desconhecidos e atualmente disponíveis, sem compro-
+
+nesse caso adquirem imagens cinti- previu que os espaços abaixo do metimento dosimétrico para o pacien-
+
+lográficas em um único plano. Mas manganês, correspondentes aos nú- te. Assim, a grande maioria dos
+
+podem ainda estar associados a meros atômicos 43 e 75, seriam even- radiofármacos utilizados atualmente
+
+tomógrafos, que permitem a aquisi- tualmente ocupados por elementos são preparados a partir desse radio-
+
+ção de imagens em cortes, possibili- parecidos a este e, por isso, chamou- nuclídeo (Saha, 1998).
+
+tando a avaliação de um órgão em os de ekamanganês e dvimanganês
+
+O tecnécio-99m é produto do
+
+toda a sua profundidade. As imagens (Murphy e Ferro Flores, 2003).
+
+decaimento radioativo do molibdênio-
+
+tomográficas em Medicina Nuclear
+
+O elemento de número atômico 99. Cerca de 87,5% dos átomos de
+
+são denominadas SPECT, sigla do 43, que ficava entre o manganês e o 99Mo de uma amostra desintegram-
+
+inglês “Single Photon Emission Com- rênio, foi descoberto em 1937 por se por emissão de radiação β– e origi-
+
+puter Tomography” ou seja, Tomogra- Carlo Perrie e Emilio Gino Segrè. Após nam núcleos de 99mTc que, por sua
+
+fia Computadorizada por Emissão de a Segunda Guerra Mundial, o elemen- vez, desintegram-se por emissão de
+
+Fóton Único. Dessa forma, todo exa- to foi batizado com o nome de tecné- radiação gama para originar o 99Tc, o
+
+me em Medicina Nuclear inicia-se cio. Esse nome vem do adjetivo grego qual se desintegra a 99Ru (estável)
+
+com a administração do radiofármaco technetos ou artificial, e foi utilizado (Figura 1) (SAHA, 1998). Dessa forma,
+
+ou fármaco radioativo. Podemos dizer pelo fato de o tecnécio ter sido o pri- 99Mo é chamado de elemento “pai” e
+
+que o radiofármaco é uma das prin- meiro elemento químico preparado 99mTc de elemento “filho”. 99Mo e 99mTc
+
+cipais ferramentas de trabalho do artificialmente (Murphy e Ferro Flores, formam um par radioativo em equi-
+
+médico nuclear.
+
+2003).
+
+líbrio transiente, já que o tempo de
+
+Desenvolver e produzir radiofár-
+
+O tecnécio (Tc) é um metal da se- meia-vida físico do pai é cerca de dez
+
+macos significa estudar, entre outras gunda série de transição da Tabela vezes maior que o do filho. Esse equi-
+
+coisas, a química da interação entre Periódica, pertencente à família 7B, e líbrio possibilita a fabricação do siste-
+
+elementos radioativos e diferentes está localizado entre o molibdênio e ma gerador de radionuclídeo de 99Mo-
+
+32
+
+moléculas (substratos ou ligantes), o rutênio e entre o manganês e o rênio 99mTc.
+
+para a preparação de compostos ra- (Murphy e Ferro Flores, 2003).
+
+Por meio do sistema gerador de
+
+dioativos com afinidade e especifici-
+
+Mn
+
+99Mo-99mTc, o elemento tecnécio-99m
+
+dade por diferentes órgãos, sistemas
+
+Mo Tc Ru
+
+pode ser facilmente disponibilizado
+
+ou patologias. Os substratos para
+
+Re
+
+no hospital ou serviço de Medicina
+
+radiofármacos são geralmente com-
+
+Até o momento, todos os isótopos Nuclear. O gerador é um sistema fe-
+
+postos orgânicos, mas também conhecidos do tecnécio são radioati- chado, composto por uma coluna
+
+podem constituir-se de espécies co- vos, desde o tecnécio-90 ao tecnécio- cromatográfica de óxido de alumínio
+
+loidais ou particuladas, proteínas (anticorpos ou peptídeos) ou mesmo
+
+110, e incluem oito pares de isômeros nucleares, entre eles 99mTc-99Tc (Mur-
+
+(Al2O3), na qual é depositada uma atividade conhecida de 99Mo. 99Mo
+
+células, como as células vermelhas e phy e Ferro Flores, 2003). Isômeros desintegra-se na coluna e origina o
+
+brancas do sangue.
+
+nucleares são nuclídeos que se dife- 99mTc. Fazendo-se passar através da
+
+A natureza do ligante geralmente renciam apenas pelo seu conteúdo coluna uma solução salina estéril
+
+determina a especificidade do radio- energético. O nuclídeo no estado (solução NaCl 0,9%), coleta-se no
+
+fármaco. Outras vezes, a ligação do mais energético (metaestável), libera líquido eluente somente o tecnécio-
+
+elemento radioativo ao substrato pro- energia eletromagnética (radiação 99m na forma de pertecnetato de
+
+move alterações nas propriedades químicas e, conseqüentemente, nas
+
+gama) na transição para um estado isomérico de energia mais baixa.
+
+sódio (Na+TcO4-), enquanto que o 99Mo permanece adsorvido à coluna
+
+propriedades biológicas do compos-
+
+O tecnécio-99m é um radionuclí- de alumina (Figura 2) (Saha, 1998).
+
+to. Dessa forma, após o estudo da deo que apresenta características
+
+Após um período de crescimento
+
+ligação do elemento radioativo ao físicas ideais para utilização em ideal (aproximadamente 24 h), o
+
+substrato, o desenvolvimento de um Medicina Nuclear Diagnóstica: é mo- gerador pode ser novamente eluído
+
+radiofármaco não pode prescindir no-emissor gama de baixa energia com rendimento teórico máximo de
+
+dos estudos de distribuição biológica (140 keV), possui tempo de meia-vida
+
+em animais de experimentação, de físico relativamente curto (6,02 h, ou
+
+modo a determinar a eficácia da distri- seja, a cada intervalo de 6,02 h a ati-
+
+buição ou a especificidade biológica. vidade de uma amostra de tecnécio-
+
+Atualmente, o radionuclídeo mais 99m decai pela metade), e não emite
+
+importante para a preparação de ra- radiação do tipo particulada (α ou β–).
+
+diofármacos com finalidade diagnós- Essas características físicas, em con-
+
+tica é o tecnécio-99m (99mTc).
+
+junto, possibilitam a aquisição de ima-
+
+Ao propor a Tabela Periódica dos elementos em 1869, Mendeleev dei-
+
+gens cintilográficas com excelente resolução, utilizando-se os equipa-
+
+Figura 1: Esquema de decaimento do 99Mo.
+
+CADERNOS TEMÁTICOS DE QUÍMICA NOVA NA ESCOLA
+
+O tecnécio no diagnóstico de patologias
+
+N° 6 – JULHO 2005
+
+(Murphy e Ferro Flores, 2003).
+
+disponíveis e são comercializados na
+
+Na forma de pertecnetato de só- forma liofilizada (isentos de água), e
+
+dio, o Tc apresenta estado de oxida- sob vácuo ou atmosfera de gás inerte,
+
+ção 7+, bastante estável em solução para conservar as propriedades do
+
+aquosa. Apesar dessa estabilidade, agente redutor. Dessa forma, os ser-
+
+nesse estado de oxidação o tecnécio viços de Medicina Nuclear podem
+
+não pode se ligar às moléculas de for- adquirir os reagentes liofilizados para
+
+ma a constituir radiofármacos de inte- pronta marcação com tecnécio-99m,
+
+resse. Torna-se necessária a redução bem como o gerador de 99Mo-99mTc,
+
+do Tc(VII) para estados oxidação mais e realizar a marcação de moléculas
+
+baixos, como 3+, 4+ ou 5+ (Murphy e momentos antes da realização dos
+
+Ferro Flores, 2003).
+
+exames.
+
+Com base nesses conhecimen-
+
+Várias moléculas são excelentes
+
+tos, uma série de reagentes para ligantes para o tecnécio-99m com
+
+pronta marcação com tecnécio-99m aplicação em Medicina Nuclear dia-
+
+foram desenvolvidos e encontram-se gnóstica. Uma classe importante de
+
+disponíveis comercialmente. Esses ligantes é representada por com-
+
+reagentes são constituídos pelo ligan- postos fosforados como o pirofosfato
+
+Figura 2: Gerador de 99Mo-99mTc de coluna cromatográfica IPEN-TEC (Fonte: Instituto de Pesquisas Energéticas e Nucleares – IPEN).
+tecnécio-99m. A vida útil de um ge-
+
+te ou molécula que se pretende ligar ao tecnécio-99m e por um agente redutor, sendo que o mais comumente empregado é o cloreto estanoso (SnCl2). Os íons Sn+2 promovem a redução do Tc+7 para estados de oxida-
+
+(H4P2O7), um dímero anidro do ortofosfato; o etano-1-hidroxi-1,1-bifosfonato (HEDP ou EHDP) e o metilenodifosfonato (MDP) (Figura 3) (Murphy e Ferro Flores, 2003; Saha,1998; Welch e Redvanty, 2003).
+
+rador pode variar de uma semana a ção mais favoráveis à incorporação
+
+Não se conhece ao certo a estru-
+
+15 dias, dependendo da carga inicial de 99Mo. A cada dia, uma atividade
+
+do metal, que poderá se ligar a uma ou mais moléculas do ligante, forman-
+
+tura química dos fosfocomplexos formados pelo tecnécio. O MDP-99mTc
+
+33
+
+menor de tecnécio-99m é eluída, do complexos com diferentes núme- parece ser um polímero em que cada
+
+devido ao próprio decaimento do ros de coordenação (Murphy e Ferro átomo de tecnécio se une a dois
+
+elemento pai.
+
+Flores, 2003).
+
+ligantes e cada MDP coordenado se
+
+Radiofármacos de tecnécio-99m A própria solução de pertecnetato
+
+TcO4– + Sn+2 + 8H+ + 1e– → Tc+4 + Sn+4 + 4H2O
+
+liga a dois tecnécios e, portanto, o Tc fica rodeado por seis átomos de oxigênio e o mais provável é que o oligô-
+
+de sódio eluída do gerador constitui-
+
+Contudo, o grau de redução de- mero tenha 4-6 centros de tecnécio
+
+se em um radiofármaco. Administra- penderá de vários fatores: (1) a rela- (IV) (Figura 4) (Murphy e Ferro Flores,
+
+da intravenosamente, permite a aqui- ção estequiométrica Sn/Tc; (2) as con- 2003).
+
+sição de imagens das glândulas dições em que se realiza a reação;
+
+O radiofármaco MDP-99mTc depo-
+
+tireóide e salivar, sendo também utili- (3) a presença de um ligante; (4) a sita-se no osso sadio, com preferên-
+
+zada em estudos de fluxo sanguíneo natureza química do ligante e (5) oxi- cia por áreas de crescimento ósseo.
+
+e pesquisas de sangramento oculto. gênio presente em solução. As molé- Processos inflamatórios e tumores
+
+Entretanto, a grande utilidade da culas dos ligantes, por sua vez, ósseos concentram o radiofármaco
+
+solução de Na99mTcO4 está no seu uso na marcação de moléculas, resultan-
+
+devem apresentar átomos doadores de elétrons, a exemplo do que ocorre
+
+em maior quantidade e podem ser facilmente diagnosticados por meio
+
+do em diversos radiofármacos com com as oxotioaminas, que se unem das imagens ósseas cintilográficas de
+
+especificidade por diferentes órgãos ao metal por meio de ligações com corpo inteiro. O radiofármaco MDP-
+
+e sistemas do organismo.
+
+átomos de oxigênio, enxofre e nitro- 99mTc é um dos mais utilizados em
+
+Para que ocorra a ligação do ele- gênio.
+
+Medicina Nuclear, particularmente na
+
+mento tecnécio às diversas molécu-
+
+Vários reagentes para pronta mar- pesquisa de metástases ósseas em
+
+las, temos que considerar a química cação com tecnécio encontram-se pacientes com câncer.
+
+do elemento, que é muito complicada
+
+devido a seus múltiplos estados de
+
+oxidação. O tecnécio pode apresen-
+
+tar estados de oxidação que vão de
+
+3–, 1– e 1+ a 7+, sendo mais freqüentes
+
+os estados de oxidação 7+, represen-
+
+tados pelos heptaóxidos e pelos
+
+permetalatos, e 4+, nos dióxidos, tetracloretos e halogenometalatos
+
+Figura 3: Estrutura de compostos fosforados para marcação com 99mTc: pirofosfato (H4P2O7); metileno-difosfonato (MDP); etano-1-hidroxi-1,1-bifosfonato (EHDP).
+
+CADERNOS TEMÁTICOS DE QUÍMICA NOVA NA ESCOLA
+
+O tecnécio no diagnóstico de patologias
+
+N° 6 – JULHO 2005
+
+é utilizado para
+
+avaliar a função
+
+de filtração glo-
+
+merular dos rins.
+
+DMSA-99mTc e
+
+GH-99mTc con-
+
+centram-se no
+
+córtex renal e
+
+são utilizados
+
+em avaliações anatômicas e
+
+Figura 6: Complexo de glucoheptonato de sódio (GH)-99mTc.
+
+Figura 4: Estrutura provável do complexo metileno-difosfonato morfológicas.
+
+(MDP)-99mTc.
+
+O tecnécio- como o infarto do miocárdio
+
+99m também (Saha,1998; Welch e Redvanty, 2003).
+
+O ácido dietilenotriamino pentacé- forma quelatos com compostos ami-
+
+O tecnécio-99m pode também se
+
+tico (DTPA), o ácido dimercaptosuc- notiólicos ou tetraamínicos, resul- ligar a espécies coloidais ou particu-
+
+cínico (DMSA) e o ácido glucohep- tando em complexos lipofílicos que ladas. Colóides pré-formados de sul-
+
+tônico ou glucoheptonato de sódio (GH) são agentes quelantes que
+
+apresentam a propriedade de atravessar a barreira hemato-encefálica,
+
+feto de antimônio (Sb2S3) ou nanocoloides obtidos a partir de soro albu-
+
+possuem grupos coordenantes tais distribuindo-se no tecido cerebral. É mina humana (SAH) podem ser
+
+como amino, tiol, hidroxi ou carboxi- o caso do complexo formado com a posteriormente marcados com 99mTc.
+
+lato (Figura 5) (Saha,1998; Welch e etilenodicisteína dietil éster (ECD) e
+
+Colóides de enxofre ou de estanho
+
+Redvanty, 2003).
+
+com um derivado propileno amino são formados durante a redução do
+
+No caso do DMSA, os grupamentos tiol de duas moléculas coorde-
+
+oxima, denominado HMPAO (Figura 7) (Saha,1998; Welch e Redvanty,
+
+99mTcO em presença de tiossulfato ou 4
+cloreto de estanho. As preparações
+
+34
+
+nam-se a um átomo de Tc (um com- 2003).
+
+coloidais radiomarcadas são utiliza-
+
+plexo bis). Em contraste, no GH, dois
+
+Esses complexos possibilitam a das para obtenção de imagens do fí-
+
+grupos hidroxila de cada molécula realização de estudos de perfusão gado, baço e medula (Murphy e Ferro
+
+são responsáveis pela complexação sanguínea cerebral, contribuindo para Flores, 2003).
+
+(Figura 6) (Murphy e Ferro Flores, o diagnóstico de morte cerebral, bem
+
+Partículas maiores, formadas a
+
+2003).
+
+como na investigação de inúmeras partir de SAH, podem constituir ma-
+
+O DTPA interage com o 99mTc redu- patologias relacionadas ao sistema croagregados (MAA) de tamanho de
+
+zido para formar complexos com car- nervoso central, tais como o mal de 10 a 90 µm que, marcados com 99mTc,
+
+ga negativa em meio neutro ou leve- Parkinson e a doença de Alzheimer. são utilizados para mapeamento
+
+mente ácido. O estado de oxidação
+
+Um complexo catiônico hexacoor- pulmonar.
+
+do 99mTc no complexo não é conhe- denado de carga final +1 é formado
+
+Na busca por radiofármacos cada
+
+cido, mas tem sido relatado como III, quando seis moléculas da isonitrila 2- vez mais específicos, com especial
+
+IV e V ou uma combinação destes.
+
+metoxi-2-isobutil isonitrila (MIBI) interesse para o diagnóstico de dife-
+
+Os três radiofármacos são utiliza- ligam-se a um átomo de Tc. O radio- rentes tipos de tumores, vários radio-
+
+dos em estudos renais. O DTPA-99mTc fármaco assim constituído denomina- fármacos de tecnécio vêm sendo pro-
+
+se hexamibi-99mTc postos, constituídos de ligantes pro-
+
+(Figura 8) e é utiliza- téicos. Tais proteínas são represen-
+
+do em estudos de tadas por anticorpos monoclonais e
+
+perfusão do miocár- peptídeos que reconhecem algum
+
+dio para detecção antígeno de superfície ou receptor
+
+de anormalidades presente na célula tumoral. Marcadas
+
+Figura 5: Agentes quelantes para marcação com 99mTc: ácido dietilenotriamino pentacético (DTPA); ácido glucoheptônico ou glucoheptonato de sódio (GH); ácido dimercaptosuccínico (DMSA).
+
+Figura 7: Complexos lipofílicos de etilenodicisteína dietil éster (ECD)99mTc (direita) e de um derivado propileno amino oxima, HMPAO99mTc (esquerda).
+
+CADERNOS TEMÁTICOS DE QUÍMICA NOVA NA ESCOLA
+
+O tecnécio no diagnóstico de patologias
+
+N° 6 – JULHO 2005
+
+minada Radiofarmácia.
+
+Figura 8: Complexo de isonitrila 2-metoxi-2-isobutil isonitrila (MIBI) contendo seis (hexa) ligantes HEXAMIBI-99mTc.
+
+Elaine Bortoleti de Araújo (ebaraujo@net.ipen.br), farmacêutica-bioquímica pela Universidade de São Paulo, doutora em Tecnologia Nuclear (Radiofarmácia) pelo Instituto de Pesquisas Energéticas e Nucleares (IPEN-CNEN) da Universidade de São Paulo, é chefe da Divisão de Pesquisa e Desenvolvimento de Radiofármacos do IPEN.
+
+com tecnécio-99m e administradas e, principalmente, uma avaliação fun-
+
+Referências bibliográficas
+
+ao paciente, essas moléculas reco- cional dos mesmos.
+
+COMET, M. e VIDAL, M. Radiophar-
+
+nhecem e se ligam às células tumorais, possibilitando o diagnóstico precoce do câncer bem como o acompanhamento de recidivas póstratamento. Tais radiofármacos são chamados de receptor-específicos (Murphy e Ferro Flores, 2003; Comet
+
+A busca pela especificidade no diagnóstico movimenta pesquisas no mundo todo para o desenvolvimento de novos radiofármacos, com grande interesse por radiofármacos de tecnécio-99m, em razão das propriedades físicas ideais deste radionuclídeo,
+
+maceutiques - chimie des radiotraceurs et applications biologiques. Grenoble: Presses Universitaries de Grenoble, 1998.
+MURPHY, C.A. e FERRO-FLORES, G. Compuestos de tecnecio. 1ª ed. México: Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, 2003.
+
+e Vidal, 1998).
+
+além da disponibilidade do uso atra-
+
+SAHA, G.B. Fundamentals of nuclear
+
+Muitos ligantes foram estudados vés dos sistemas geradores e custo
+
+pharmacy. 4ª ed. EUA: Springer, 1998.
+
+para marcação com 99mTc e apresentam utilidade real em Medicina Nuclear Diagnóstica. Uma vantagem inerente dessa técnica diagnóstica é
+
+relativamente baixo. Nesse sentido, o conhecimento da química de coordenação do tecnécio é imprescindível para o desenvolvimento de tais radio-
+
+WELCH, M.J. e REDVANTY, C.S. Handbook of radiopharmaceuticals – Radiochemistry and Applications. Inglaterra: John Wiley & Sons Ltda, 2003.
+
+a de ser um procedimento não inva- fármacos, contribuindo para um dos Para saber mais
+
+sivo que possibilita uma avaliação anatômica ou morfológica dos órgãos
+
+aspectos do conhecimento multidisciplinar envolvido nesta ciência deno-
+
+www.ipen.br.
+
+35
+
+Abstract: Radiopharmaceuticals are radioactive compounds used in the diagnostic and treatment of pathologies and dysfunctions of the human organism. A variety of radioisotopes can be
+employed in the preparation of radiopharmaceuticals, among which technetium-99m (99mTc), which presents ideal physical characteristics for its application in Diagnostic Nuclear Medicine. Once administered to the patient, the radiopharmaceutical is deposited in the target organ or tissue and suitable equipments can acquire images from the radiation emitted by the patient. It is a noninvasive process which allows anatomic, morphological and functional evaluations. 99mTc is obtained from the radioactive decay of molybdenum-99 and can be made available in the hospital from 99Mo-99Tc generators. 99mTc can bind to different substrates or ligands, by means of complexation reactions, originating radiopharmaceuticals with affinities for different organs, systems or receptors in the organism. Knowing 99mTc coordination chemistry is extremely important for the development of these radiopharmaceuticals.
+Keywords: radiopharmaceuticals, technetium-99m, Nuclear Medicine, complexation
+
+Nota
+Portal do Professor de Química
+Professor de Química do Ensino Médio e Fundamental, consulte o Portal do Professor de Química, nas páginas da Divisão de Ensino de Química da SBQ na internet: http://www.sbqensino.foco.fae.ufmg.br/. Neste Portal você, Professor, encontrará uma série de recursos para ajudá-lo a preparar suas atividades em sala de aula: poderá selecionar questões de vestibular das mais diversas Universidades brasileiras e de vários anos, organizadas por assunto, parar preparar suas provas. Poderá elaborar, on-line, tabelas periódicas personalizadas e gráficos com as variações de uma grande quantidade de propriedades em função do número atômico, para aqueles elementos que selecionar. Será capaz de produzir gráficos da variação da solubilidade de várias substâncias com as temperaturas. Em uma outra janela do Portal, você encontrará explicações de como essas propriedades foram medidas e quais as técnicas utilizadas na sua determinação. Poderá ainda baixar artigos publicados em Química Nova na Escola e fazer a busca desses artigos por assunto, por autor e por seção. Também os artigos dos Cadernos Temáticos de Química Nova na Escola estarão disponíveis em breve, com as mesmas facilidades de busca por assuntos e por autores.
+Esse Portal é um dos resultados de Projeto de Produção de Materiais Didáticos para o Professor de Química, financiado pela Vitae e pelo CNPq.
+Professor, O Portal é seu. Use e abuse.
+
+CADERNOS TEMÁTICOS DE QUÍMICA NOVA NA ESCOLA
+
+O tecnécio no diagnóstico de patologias
+
+N° 6 – JULHO 2005
+
+
