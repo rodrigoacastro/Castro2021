@@ -1,0 +1,3 @@
+The final state of the corpus is available at "database_segments_import.xlsx" and the web sources (for the naturally occurring segments) at "web_sources.csv". The file "SIM-Pt_web_balanced.xlsx contains only the balanced naturally occurring segments, which were later on paired with their respective manually created segments.
+
+Filemaker is able to import xlsx format, so this format was used. In the database manager the fields (columns from the xlsx file) that will be imported are selected and matched with fields in the database. The csv files were created for the convenience of those in need to import the corpus file.
