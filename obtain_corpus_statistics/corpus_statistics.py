@@ -48,6 +48,5 @@ print(len(stats_list))
 
 
 
-
-# stats1 = obtain_texts_statistics(all_files[0])
-# print(stats1)
+### REMAINING: ADD ALL STATISTICS ONLY IN 1 BIG CSV FILE
+# df_colnames = ['filename','types','tokens','type/tokens']
