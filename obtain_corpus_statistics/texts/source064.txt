@@ -1,0 +1,21 @@
+Radiação, condução e convecção
+
+A transferência de calor de um corpo para outro pode ocorrer por meio de três formas: radiação, condução e convecção. 
+
+O calor é um tipo de energia que pode ser transferido de um corpo para o outro quando há diferença de temperatura entre eles. A transferência de calor pode ocorrer de três formas: radiação, condução e convecção.
+
+A radiação térmica, também conhecida como irradiação, é uma forma de transferência de calor que ocorre por meio de ondas eletromagnéticas. Como essas ondas podem propagar-se no vácuo, não é necessário que haja contato entre os corpos para haver transferência de calor. Todos os corpos emitem radiações térmicas que são proporcionais à sua temperatura. Quanto maior a temperatura, maior a quantidade de calor que o objeto irradia. Um exemplo desse processo é o que acontece com a Terra, que, mesmo sem estar em contato com o Sol, é aquecida por ele. Outro exemplo pode ser observado na figura a seguir:
+
+Podemos nos aquecer nas proximidades de uma lareira, sem ter contato direto com o fogo, graças ao processo de condução do calor por irradiação
+
+O calor também pode ser transferido de um meio para o outro por meio da condução. Para entender melhor esse processo de transferência de calor, imagine a seguinte situação: segurando uma barra de ferro em uma das suas extremidades e colocando a outra ponta sobre uma chama, ela começará a aquecer. Primeiramente, a parte que está sobre o fogo terá sua temperatura elevada, pois a chama está transferindo energia para a barra. As moléculas que a constituem começarão a ficar agitadas e chocar-se-ão com as outras que não estão em contato com o fogo. Essa agitação será transmitida de molécula para molécula até que todo o objeto fique aquecido.
+
+É assim que ocorre a condução de calor, a energia propaga-se em virtude da agitação molecular. Esse processo é mais eficiente em materiais como os metais, que são bons condutores de calor. Isso também explica o motivo das panelas serem feitas de metal.
+
+As panelas são feitas de metal porque são os melhores condutores de calor por condução
+
+Por fim, há a convecção, que é a forma de transferência de calor comum para os gases e líquidos. O exemplo a seguir descreve como acontece a convecção:
+
+Ao colocar água para ferver, a parte que está próxima ao fogo será a primeira a aquecer. Quando ela aquece, sofre expansão e fica menos densa que a água da superfície, sendo assim, ela desloca-se para ficar por cima, enquanto a parte mais fria e densa move-se para baixo. Esse ciclo repete-se várias vezes e forma uma corrente de convecção, que é ocasionada pela diferença entre as densidades, fazendo com que o calor seja transferido para todo o líquido. Observe a figura:
+
+Observe como se forma a corrente de convecção

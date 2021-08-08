@@ -1,0 +1,23 @@
+Corrente Elétrica
+
+Um condutor metálico, que tem a característica de ter elétrons livres, quando é conectado a um pólo positivo, e em sua outra extremidade a um pólo negativo, esses elétrons inicialmente livre e desordenados iniciam um movimento ordenado e em um sentido - a corrente elétrica.
+
+Assim podemos definir como movimento ordenado de cargas elétricas.
+Sentido da Corrente Elétrica
+
+Para o sentido da corrente temos que diferenciar o sentido real do sentido convencional.
+
+Intensidade da corrente elétrica
+
+Observando os elétrons que passam por uma secção transversal de um fio podemos medir a quantidade média de elétrons que passam pelo fio, assim a intensidade média da corrente elétrica i num condutor em um intervalo de tempo Δt, é definido como:
+
+i = Q/Δt
+
+Assim para o sistema internacional temos que a corrente elétrica será definida como ampère* (A), daí:
+
+1A = 1C / 1s , ampère é definido como coulomb por segundo.
+
+Obs:
+No caso de condutores iônicos, participam da corrente elétrica tanto cargas positivas ( são os cátions) como cargas negativas ( que são os ânions). Assim o valor absoluto de Q será o módulo da soma das cargas positivas e negativas.
+
+(*) André Marie Ampère (1775-1836) físico francês, nascido em Lyon, foi um dos fundadores do eletromagnetismo. Criança prodígio que dominava a matemática desde os 12 anos, tornou-se professor de matemática, física e química em instituições de ensino superior.

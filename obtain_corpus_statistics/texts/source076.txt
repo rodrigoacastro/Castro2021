@@ -1,0 +1,17 @@
+O que é corrente elétrica? 
+Para descobrir o que é corrente elétrica, deve-se saber que esse fluxo ordenado de cargas elétricas é motivado pela existência de uma diferença de potencial elétrico.
+
+A corrente elétrica é o fluxo ordenado de cargas elétricas, que se movem de forma orientada em um condutor elétrico sólido ou em soluções iônicas. Essa é uma grandeza fundamental em Física, pois, sem corrente elétrica, não seria possível, por exemplo, fazer funcionar qualquer aparelho elétrico ou eletrônico.
+Como surge o movimento das cargas?
+Os elétrons livres são estimulados a mover-se pelo condutor, o que gera a corrente elétrica por causa de uma diferença de potencial elétrico (ddp ou tensão elétrica) estabelecida entre as pontas do condutor. A ddp é estabelecida no condutor a partir de um campo elétrico que atravessa o material. Esse campo proporciona diferentes níveis de energia potencial, criando, portanto, a tensão necessária para gerar o movimento das cargas elétricas
+
+Calculando a corrente elétrica
+A intensidade da corrente elétrica é determinada pela razão entre a quantidade de cargas elétricas, que atravessam uma determinada seção de um condutor, pelo tempo gasto na passagem dessas cargas.
+
+Os termos da equação acima, bem como suas unidades de medida que estão de acordo com o Sistema Internacional de Unidades, são:
+i: Intensidade da corrente elétrica (A – ampère);
+Q: Carga elétrica (C – coulomb);
+Δt: Intervalo de tempo (s – segundos).
+Corrente contínua e alternada
+A corrente elétrica é dita contínua quando seu sentido no circuito é único, ou seja, o movimento dos portadores de carga que compõem a corrente sempre acontece da mesma forma. Quando o sentido de movimento dos portadores de carga é variável, a corrente elétrica é denominada de corrente alternada.
+A corrente elétrica oriunda de pilhas e baterias é do tipo contínua, mas a corrente que chega às tomadas das residências e empresas é alternada. A transmissão de energia elétrica é feita por meio da corrente alternada, pois, dessa maneria, ocorre muito menos perda de força do sinal. Caso a transmissão fosse via corrente contínua, a perda de força seria grande, o que dificultaria a capacidade de transmissão de energia elétrica.

@@ -1,0 +1,25 @@
+Reflexão da luz
+
+A reflexão da luz é um fenômeno óptico que ocorre quando a luz incide sobre uma superfície e retorna ao seu meio de origem. Esse processo pode ser classificado como regular ou difuso.
+
+A reflexão da luz é um fenômeno óptico que ocorre quando a luz incide sobre uma superfície e retorna ao seu meio de origem. Os espelhos são os principais instrumentos utilizados com base nesse fenômeno.
+
+A reflexão da luz pode ser classificada em dois tipos:
+
+Reflexão difusa: Também conhecido como difusão da luz, esse tipo de reflexão ocorre quando a luz incide sobre uma superfície irregular e esta a reflete. Os raios de luz refletidos propagam-se em várias direções diferentes. Os objetos difundem a luz que recebem, por isso, quando essa luz penetra em nossos olhos, conseguimos enxergá-los. Como na difusão a luz propaga-se em todas as direções, muitas pessoas podem ver o mesmo objeto ao mesmo tempo. É por causa desse fenômeno que conseguimos enxergar vários objetos simultaneamente e de ângulos diferentes.
+
+Reflexão Regular: nesse tipo de reflexão, os raios refletidos ficam paralelos uns aos outros. É esse tipo de reflexão que forma a imagem de superfícies altamente polidas, como os espelhos, metais ou a superfície de um lago. A imagem que se forma nesse tipo de superfície é altamente nítida, porém, ela não pode ser observada de diferentes posições. Pense em um espelho, dependendo da posição que você estiver, não conseguirá ver sua imagem.
+
+Leis da Reflexão da luz
+
+Considerando um raio de luz incidindo sobre uma superfície, temos as seguintes definições:
+
+î – ângulo de incidência formado pelo raio incidente e a normal;
+
+r – ângulo de reflexão formado pelo raio refletido e a normal;
+
+A partir dessas definições, temos as seguintes Leis para a reflexão:
+
+    O ângulo de incidência é sempre igual ao ângulo de reflexão (î = r);
+
+    O raio incidente, a normal à superfície e o raio refletido estão todos no mesmo plano.

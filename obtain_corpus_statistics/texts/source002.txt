@@ -1,0 +1,47 @@
+Efeito Joule
+
+Efeito Joule ou lei de Joule é um fenômeno da física que resulta na transformação de energia elétrica em energia térmica (calor). Também conhecido como efeito térmico, ele não absorve calor, mas sim, produz calor.
+
+O efeito joule é calculado através da seguinte fórmula:
+
+Q = i2.R.t
+
+Onde,
+
+i: intensidade da corrente elétrica
+R: resistência elétrica
+t: tempo que a corrente leva para percorrer um condutor
+Resistência Elétrica
+
+O efeito joule tem origem na absorção da energia pelos resistores por onde transitam, o que acontece do seguinte modo:
+
+Os elétrons da corrente se agitam, chocam os átomos dos condutores e os aquecem liberando calor. Graças aos resistores, que resistem à passagem da energia, a energia elétrica é transformada em energia térmica. É por esse motivo que muitos aparelhos têm resistores elétricos.
+
+Leia também
+
+    Resistência Elétrica
+    Corrente Elétrica.
+    Potência Elétrica
+    Fórmulas de Física
+
+Aplicações
+
+Existem vários aparelhos que funcionam como resultado do efeito joule. Exemplos:
+
+    aquecedor
+    churrasqueira elétrica
+    chuveiro
+    ferro de passar roupa
+    fogão elétrico
+    forno elétrico
+    iluminação
+    secador de mãos
+    secador de cabelo
+    soldador elétrico
+    torradeira
+
+Vantagens e Desvantagens
+
+O efeito joule permite o funcionamento de vários aparelhos utilizados no nosso dia a dia, sendo essa a sua vantagem.
+
+A baixa resistência pode provocar um curto circuito e essa é a sua desvantagem, o que pode, no entanto, ser resolvido por isolamentos bem feitos.

@@ -1,18 +1,18 @@
 # function to obtain types, tokens for each text
-
+import pandas as pd
 
 def obtain_texts_statistics (textfile):
 	# encoding: utf-8
 
     # Contagem de types e tokens python
 
-    import obo
+    # import obo
 
     # LE ARQUIVO DE TEXTO EM TXT
 
     #Abrindo o arquivo para leitura
 
-    with open(textfile, 'r') as file:
+    with open(textfile, 'r', encoding='utf8') as file:
         text = file.read()
 
     #Mostra conteudo do texto
@@ -34,7 +34,7 @@ def obtain_texts_statistics (textfile):
     # transforma lista em dicionario
     dic_freq = dict(zip(string_list,wordfreq))
 
-    dic_freq = obo.sortFreqDict(dic_freq)
+    # dic_freq = obo.sortFreqDict(dic_freq)
 
     #print(dic_freq)
 

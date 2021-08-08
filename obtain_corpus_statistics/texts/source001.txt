@@ -1,0 +1,25 @@
+Fissão Nuclear
+
+Esse tipo de reação nuclear foi estudado pela primeira vez em 1934, pelos cientistas italianos Enrico Fermi e Emílio Segrè. Eles bombardearam átomos de urânio (Z = 92) com nêutrons em velocidade moderada. Quando a velocidade é dessa forma, o núcleo do átomo captura um nêutron, ocorrendo emissão de radiação gama (γ) e, posteriormente, o núcleo sofre desintegração, emitindo partículas -10β.
+
+Em 1938, o físico alemão Otto Hahn e seus colaboradores realizaram essas experiências de bombardeamento do urânio, e a física austríaca Lise Meitner (1878-1968) explicou esse fenômeno, dizendo que o núcleo do átomo de urânio era instável e ao ser bombardeado com nêutrons moderados ele se rompe praticamente ao meio, originando dois núcleos médios e liberando dois ou três nêutrons, além da liberação de uma grande quantidade de energia. Essa cientista foi a primeira a usar a expressão fissão nuclear para interpretar os resultados das reações de Otto Hahn.
+
+Lise Meitner foi a primeira a usar a expressão “fissão nuclear”
+
+Isso é mostrado na equação a seguir, que representa a fissão nuclear do urânio, lembrando que somente o urânio 235 sofre fissão, seus outros isótopos não.
+
+Reações de fissão nuclear do urânio
+
+Observe que essa fissão do urânio 235 pode ocorrer de diversas maneiras, originando pares de núcleos diferentes.
+
+Dito de forma resumida, a fissão nuclear é a quebra de núcleos grandes, formando núcleos menores e liberando grande quantidade de energia.
+
+Um ponto importante é que os nêutrons que foram emitidos na fissão podem ser utilizados para atingir outros átomos, gerando uma nova emissão de nêutrons, que novamente podem ser usados em outras fissões. Essa sucessão de reações de fissão nuclear que podem ocorrer partindo de um único nêutron é denominada reação em cadeia.
+
+Reações de fissão nuclear em cadeia
+
+Se a massa de urânio for pequena, a maioria dos nêutrons escapará sem atingir outros núcleos, não ocorrendo reação em cadeia. Assim, dizemos que a massa do urânio é subcritíca. Já se a amostra de urânio for suficientemente grande para que a fissão em cadeia citada acima ocorra, então tem-se a massa critíca, isto é a quantidade mínima de material fissionável.
+
+A energia liberada em uma reação de fissão nuclear é imensamente maior do que as liberadas em reações químicas. A fissão do urânio-235 libera 2 . 1010 kJ/mol de energia. Realizando uma comparação, essa energia é um trilhão de vezes maior que a energia liberada na reação de combustão de etanol, na qual são liberados 98 kJ/mol.
+
+Essa força tem um poder de destruição assustador, que pode ser visto nos dois exemplos trágicos do uso da bomba atômica em Hiroshima e Nagasaki.
